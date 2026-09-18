@@ -1,0 +1,501 @@
+Employee_ID,Name,Department,Salary,Age,Experience_Years,City,Education_Level,Performance_Rating,Projects_Completed,Work_Mode,Bonus_Percent
+1000,Alice Wilson,Engineering,83374.0,27,23.0,San Antonio,Associate,Meets Expectations,26,Remote,24.0
+1001,Eva Miller,Product,53271.0,49,18.0,Dallas,High School,Needs Improvement,18,Unknown,16.0
+1002,Rachel Brown,Operations,98406.0,47,32.0,Houston,Associate,Outstanding,42,Remote,8.0
+1003,Bob Smith,Engineering,54469.0,52,35.0,Philadelphia,PhD,Meets Expectations,15,Onsite,20.0
+1004,Hannah Scott,Product,76838.0,24,24.0,San Antonio,Bachelor,Exceeds Expectations,16,Onsite,10.0
+1005,Rachel Lee,Sales,121731.0,45,18.0,Chicago,Associate,Outstanding,15,Onsite,13.0
+1006,Rachel Allen,Marketing,58238.0,42,33.0,New York,Master,Unknown,27,Hybrid,8.0
+1007,Sam Wilson,Operations,95440.0,55,9.0,San Antonio,High School,Unknown,16,Remote,13.0
+1008,Alice White,Legal,93923.0,22,35.0,Unknown,Associate,Outstanding,29,Unknown,11.0
+1009,Kevin Wilson,Marketing,101442.0,37,12.0,New York,Associate,Meets Expectations,32,Onsite,21.0
+1010,Kevin Miller,Finance,128708.0,44,34.0,Phoenix,PhD,Needs Improvement,23,Unknown,5.0
+1011,David Hall,Engineering,86717.0,28,1.0,San Diego,High School,Needs Improvement,13,Remote,6.0
+1012,Tina Wilson,Sales,70590.0,59,7.0,Phoenix,PhD,Outstanding,13,Onsite,22.0
+1013,Oliver Torres,Marketing,95426.0,26,17.0,Chicago,Unknown,Needs Improvement,33,Hybrid,11.0
+1014,Michael Brown,Marketing,133748.0,41,18.0,Unknown,High School,Unknown,13,Hybrid,14.0
+1015,Tina Hall,Marketing,118900.0,51,24.0,San Diego,Master,Exceeds Expectations,3,Remote,5.0
+1016,Charlie Jones,Sales,93387.0,60,27.0,Unknown,Associate,Outstanding,13,Onsite,14.0
+1017,Julia Brown,HR,95473.0,49,26.0,Phoenix,Bachelor,Needs Improvement,45,Onsite,23.0
+1018,David Young,Finance,117304.0,30,9.0,Unknown,PhD,Outstanding,6,Onsite,19.0
+1019,Laura White,Legal,114284.0,53,7.0,Los Angeles,Master,Exceeds Expectations,29,Hybrid,19.0
+1020,Grace Wilson,HR,115127.0,34,28.0,Philadelphia,Unknown,Unknown,43,Onsite,8.0
+1021,Charlie Hill,Legal,104825.0,47,10.0,Dallas,Associate,Needs Improvement,8,Remote,8.0
+1022,Rachel Taylor,HR,82951.0,44,18.0,Houston,Master,Outstanding,10,Hybrid,18.0
+1023,Michael Wilson,Legal,97789.0,30,9.0,Chicago,PhD,Exceeds Expectations,2,Remote,7.0
+1024,Rachel Taylor,Finance,126410.0,23,34.0,San Diego,Associate,Meets Expectations,26,Onsite,13.0
+1025,Bob Taylor,Product,129257.0,32,32.0,New York,Bachelor,Exceeds Expectations,9,Hybrid,8.0
+1026,Kevin Young,HR,93175.0,24,4.0,Houston,PhD,Meets Expectations,43,Onsite,7.0
+1027,Grace Nguyen,Marketing,121590.0,62,4.0,San Diego,PhD,Meets Expectations,10,Onsite,12.0
+1028,Kevin Lee,Sales,113618.0,56,7.0,Dallas,Bachelor,Meets Expectations,7,Remote,15.0
+1029,Michael King,Operations,133528.0,60,24.0,San Diego,Associate,Outstanding,42,Remote,15.0
+1030,Eva Taylor,Engineering,91818.0,28,17.0,Unknown,High School,Meets Expectations,2,Onsite,25.0
+1031,Rachel Wilson,Engineering,113708.0,23,23.0,San Diego,Master,Needs Improvement,8,Hybrid,7.0
+1032,Nina Nguyen,Marketing,55211.0,44,13.0,Houston,Associate,Unknown,23,Hybrid,15.0
+1033,Hannah Green,Marketing,129780.0,50,35.0,Houston,Associate,Meets Expectations,7,Hybrid,6.0
+1034,Charlie Jones,Engineering,127727.0,57,23.0,Los Angeles,Master,Unknown,32,Remote,21.0
+1035,Eva White,HR,93720.5,31,29.0,Houston,PhD,Meets Expectations,30,Onsite,22.0
+1036,Nina Hill,Operations,131762.0,62,19.0,San Diego,Associate,Unknown,21,Remote,25.0
+1037,Michael Hill,Product,87915.0,44,11.0,Unknown,High School,Meets Expectations,11,Onsite,14.0
+1038,Quinn Wilson,Unknown,46200.0,28,27.0,Houston,Master,Needs Improvement,36,Remote,5.0
+1039,Alice Miller,HR,110864.0,39,5.0,San Antonio,Associate,Outstanding,42,Onsite,23.0
+1040,Rachel Wilson,Engineering,119804.0,30,19.0,Houston,PhD,Meets Expectations,3,Onsite,12.0
+1041,Kevin Miller,Sales,102483.0,28,26.0,Houston,Master,Meets Expectations,8,Onsite,13.0
+1042,Frank King,Engineering,131702.0,61,24.0,Unknown,High School,Exceeds Expectations,8,Remote,20.0
+1043,Ian Scott,Operations,64453.0,29,29.0,Phoenix,Unknown,Outstanding,28,Remote,20.0
+1044,Quinn Miller,Marketing,106207.0,53,2.0,San Diego,Unknown,Meets Expectations,16,Remote,11.0
+1045,Julia Scott,Unknown,55218.0,34,6.0,Houston,High School,Outstanding,23,Onsite,7.0
+1046,Eva Hall,Legal,138245.0,55,7.0,Chicago,Bachelor,Unknown,11,Remote,11.0
+1047,Rachel Scott,Marketing,88566.0,44,2.0,Houston,Associate,Outstanding,20,Hybrid,14.0
+1048,Tina Clark,Legal,111594.0,40,6.0,San Diego,Associate,Outstanding,45,Onsite,14.0
+1049,David Hall,Sales,57548.0,57,18.0,San Diego,High School,Outstanding,9,Onsite,11.0
+1050,Julia Taylor,Sales,102426.0,35,25.0,San Antonio,Associate,Outstanding,9,Hybrid,6.0
+1051,Sam Brown,Marketing,93720.5,52,19.0,Philadelphia,High School,Unknown,20,Remote,13.0
+1052,Paula Brown,Product,93720.5,22,34.0,Chicago,High School,Needs Improvement,41,Hybrid,25.0
+1053,Rachel Green,Finance,47969.0,44,18.0,San Antonio,High School,Exceeds Expectations,25,Remote,25.0
+1054,Paula Torres,Engineering,58793.0,44,21.0,Unknown,Master,Meets Expectations,7,Remote,21.0
+1055,Quinn Hill,Unknown,139349.0,58,35.0,Dallas,High School,Meets Expectations,40,Unknown,10.0
+1056,Grace Torres,Legal,115263.0,31,9.0,San Diego,Master,Outstanding,29,Hybrid,12.0
+1057,Grace Davis,Unknown,99573.0,54,12.0,Los Angeles,Associate,Exceeds Expectations,40,Hybrid,20.0
+1058,Laura King,Legal,96744.0,44,28.0,Dallas,Bachelor,Outstanding,29,Hybrid,25.0
+1059,Oliver Miller,Sales,126773.0,38,20.0,San Antonio,High School,Unknown,44,Remote,16.0
+1060,Charlie Clark,HR,48855.0,51,15.0,Phoenix,Master,Unknown,41,Hybrid,14.0
+1061,Rachel Taylor,Finance,70560.0,40,24.0,New York,PhD,Meets Expectations,24,Onsite,14.0
+1062,Alice Brown,Operations,94104.0,25,1.0,San Diego,Bachelor,Needs Improvement,19,Onsite,14.0
+1063,Bob Taylor,Product,71385.0,44,23.0,New York,High School,Unknown,44,Onsite,19.0
+1064,Bob Clark,Engineering,53691.0,24,32.0,Chicago,PhD,Exceeds Expectations,18,Onsite,18.0
+1065,Hannah Wilson,Operations,113291.0,45,1.0,Philadelphia,Bachelor,Outstanding,6,Hybrid,19.0
+1066,Grace Torres,Unknown,70568.0,42,15.0,New York,Bachelor,Exceeds Expectations,11,Remote,8.0
+1067,Sam Nguyen,Sales,130983.0,29,13.0,Unknown,PhD,Exceeds Expectations,11,Hybrid,17.0
+1068,Paula Allen,Legal,126420.0,44,26.0,Philadelphia,High School,Needs Improvement,26,Remote,20.0
+1069,David Allen,Unknown,123501.0,24,25.0,Phoenix,Unknown,Needs Improvement,32,Remote,20.0
+1070,Nina King,Operations,89460.0,44,6.0,Houston,Associate,Needs Improvement,9,Hybrid,12.0
+1071,Bob Miller,Sales,124276.0,32,18.0,Unknown,PhD,Meets Expectations,19,Remote,14.0
+1072,Kevin Miller,Engineering,135919.0,50,18.0,New York,Master,Outstanding,22,Hybrid,11.0
+1073,Grace Torres,Engineering,123704.0,39,12.0,Philadelphia,High School,Exceeds Expectations,13,Hybrid,18.0
+1074,Nina White,Operations,62420.0,27,29.0,Philadelphia,Unknown,Outstanding,24,Remote,14.0
+1075,Hannah Brown,Operations,84219.0,43,13.0,Unknown,Bachelor,Exceeds Expectations,29,Remote,13.0
+1076,Rachel Miller,Marketing,133244.0,47,35.0,Dallas,High School,Outstanding,28,Remote,18.0
+1077,Rachel Smith,Legal,98710.0,51,9.0,Houston,PhD,Meets Expectations,42,Onsite,19.0
+1078,Hannah White,Legal,94533.0,46,15.0,Dallas,PhD,Needs Improvement,43,Hybrid,13.0
+1079,Paula Lee,Marketing,126650.0,52,27.0,Houston,High School,Exceeds Expectations,26,Hybrid,13.0
+1080,Bob White,Unknown,127277.0,32,24.0,Philadelphia,Associate,Needs Improvement,33,Remote,12.0
+1081,Michael Wilson,Legal,107395.0,25,22.0,San Antonio,Master,Meets Expectations,33,Remote,6.0
+1082,Oliver Davis,Unknown,85962.0,32,18.0,Unknown,High School,Outstanding,16,Onsite,18.0
+1083,Rachel Wright,HR,51986.0,59,18.0,San Diego,High School,Meets Expectations,39,Hybrid,10.0
+1084,Julia Lee,Operations,46596.0,58,13.0,San Diego,PhD,Meets Expectations,35,Hybrid,25.0
+1085,Sam Torres,Product,94675.0,33,25.0,Dallas,Unknown,Unknown,16,Remote,24.0
+1086,Kevin Jones,Legal,108518.0,44,16.0,Philadelphia,Associate,Outstanding,17,Hybrid,9.0
+1087,Paula Scott,HR,98827.0,30,16.0,Los Angeles,Master,Needs Improvement,15,Remote,5.0
+1088,Quinn White,Sales,107271.0,53,18.0,Los Angeles,PhD,Meets Expectations,3,Remote,5.0
+1089,Quinn Brown,Operations,48914.0,48,7.0,Phoenix,High School,Meets Expectations,32,Unknown,7.0
+1090,Charlie Hill,Operations,82133.0,26,31.0,Unknown,Bachelor,Exceeds Expectations,9,Unknown,15.0
+1091,Hannah Young,Product,113395.0,42,21.0,Los Angeles,Bachelor,Outstanding,23,Hybrid,22.0
+1092,Sam Taylor,Product,103679.0,44,34.0,Houston,PhD,Outstanding,10,Remote,14.0
+1093,Bob Hill,Marketing,108662.0,55,24.0,Phoenix,Bachelor,Needs Improvement,11,Remote,14.0
+1094,Sam Nguyen,Legal,118216.0,58,14.0,Chicago,Bachelor,Unknown,37,Onsite,22.0
+1095,Ian Lee,Finance,114943.0,36,28.0,New York,Associate,Exceeds Expectations,28,Unknown,10.0
+1096,Kevin Taylor,Product,114942.0,43,18.0,Unknown,Bachelor,Exceeds Expectations,16,Remote,17.0
+1097,Eva Davis,Unknown,137551.0,61,16.0,Houston,Associate,Outstanding,23,Hybrid,12.0
+1098,Charlie Smith,Marketing,99204.0,44,31.0,Philadelphia,High School,Needs Improvement,11,Hybrid,10.0
+1099,Sam Miller,Operations,128869.0,37,6.0,Philadelphia,Bachelor,Outstanding,3,Onsite,15.0
+1100,Grace Scott,Operations,49560.0,46,22.0,Dallas,Associate,Unknown,29,Onsite,22.0
+1101,Laura Brown,Finance,56549.0,57,4.0,Phoenix,Bachelor,Unknown,8,Onsite,5.0
+1102,Laura Davis,Product,60894.0,61,7.0,Phoenix,Master,Outstanding,6,Onsite,14.0
+1103,Rachel Davis,Legal,71930.0,44,23.0,San Diego,Associate,Outstanding,40,Onsite,14.0
+1104,Quinn Smith,Sales,133459.0,32,13.0,New York,Associate,Exceeds Expectations,3,Remote,8.0
+1105,Rachel Davis,Operations,123747.0,52,17.0,Chicago,High School,Meets Expectations,11,Hybrid,20.0
+1106,David Green,Product,123242.0,32,29.0,Dallas,High School,Meets Expectations,23,Remote,14.0
+1107,David Torres,Sales,71924.0,44,32.0,Chicago,Bachelor,Needs Improvement,23,Onsite,5.0
+1108,Julia Hill,Unknown,93720.5,37,23.0,Philadelphia,Master,Meets Expectations,28,Remote,12.0
+1109,Kevin Lee,Operations,80711.0,39,11.0,Philadelphia,Associate,Needs Improvement,13,Onsite,14.0
+1110,Ian Scott,Marketing,86820.0,44,17.0,New York,PhD,Meets Expectations,10,Hybrid,17.0
+1111,Bob Brown,Marketing,118373.0,46,33.0,Chicago,Unknown,Outstanding,21,Hybrid,9.0
+1112,Ian Jones,Legal,110795.0,37,2.0,Chicago,Associate,Needs Improvement,23,Onsite,13.0
+1113,Eva Wilson,Unknown,62868.0,44,16.0,New York,Master,Meets Expectations,43,Remote,7.0
+1114,Oliver Torres,Unknown,52383.0,58,18.0,Chicago,Bachelor,Unknown,20,Remote,14.0
+1115,Rachel Smith,Operations,61818.0,53,25.0,Chicago,High School,Unknown,5,Remote,18.0
+1116,Eva Torres,Sales,76249.0,29,10.0,Dallas,Bachelor,Unknown,4,Hybrid,14.0
+1117,Laura Nguyen,Legal,76879.0,23,21.0,San Diego,PhD,Unknown,13,Onsite,22.0
+1118,Nina Green,Operations,95601.0,48,18.0,Chicago,Bachelor,Unknown,2,Remote,9.0
+1119,Laura Jones,Engineering,125375.0,44,9.0,San Diego,Bachelor,Outstanding,29,Hybrid,14.0
+1120,Grace Taylor,Operations,93562.0,27,18.0,San Diego,High School,Needs Improvement,31,Remote,17.0
+1121,Laura Torres,Finance,93720.5,61,18.0,Dallas,PhD,Unknown,18,Hybrid,24.0
+1122,Nina Hill,Engineering,56512.0,54,3.0,Unknown,Bachelor,Needs Improvement,34,Remote,15.0
+1123,Hannah White,Unknown,80811.0,51,32.0,Houston,Unknown,Needs Improvement,16,Remote,5.0
+1124,Frank Allen,Product,92565.0,45,17.0,Unknown,Associate,Unknown,12,Remote,19.0
+1125,Kevin Allen,Engineering,86695.0,36,1.0,Unknown,High School,Needs Improvement,7,Hybrid,13.0
+1126,Hannah Wilson,Finance,93720.5,43,32.0,Dallas,Associate,Exceeds Expectations,10,Unknown,23.0
+1127,David Young,HR,138195.0,61,30.0,Phoenix,Bachelor,Outstanding,27,Onsite,14.0
+1128,Paula Taylor,Finance,103750.0,45,18.0,Unknown,PhD,Outstanding,16,Hybrid,12.0
+1129,Oliver Hall,Legal,90970.0,29,27.0,Los Angeles,High School,Exceeds Expectations,37,Onsite,22.0
+1130,Hannah Taylor,Marketing,93720.5,44,4.0,San Diego,Unknown,Meets Expectations,6,Remote,14.0
+1131,Grace Young,Legal,72539.0,22,3.0,New York,Unknown,Outstanding,31,Hybrid,22.0
+1132,Charlie Wilson,Legal,108374.0,62,5.0,Chicago,Bachelor,Needs Improvement,43,Remote,17.0
+1133,Quinn Young,Operations,81445.0,40,7.0,San Antonio,Associate,Exceeds Expectations,26,Unknown,14.0
+1134,Rachel Clark,Engineering,61679.0,45,13.0,Philadelphia,Master,Needs Improvement,25,Onsite,17.0
+1135,David Wilson,Finance,88798.0,24,12.0,Dallas,Master,Outstanding,14,Onsite,22.0
+1136,Ian Jones,Marketing,50201.0,53,7.0,San Diego,High School,Meets Expectations,8,Hybrid,19.0
+1137,Nina Hall,Marketing,103116.0,48,30.0,San Diego,Associate,Unknown,23,Onsite,5.0
+1138,Kevin Allen,HR,65551.0,61,7.0,San Antonio,Master,Unknown,23,Remote,12.0
+1139,Quinn Miller,HR,99307.0,29,26.0,Los Angeles,Master,Meets Expectations,23,Hybrid,20.0
+1140,Sam Lee,HR,61765.0,47,35.0,Dallas,Associate,Outstanding,36,Hybrid,25.0
+1141,Nina Smith,Sales,80195.0,34,23.0,Unknown,Associate,Meets Expectations,15,Remote,9.0
+1142,Rachel Lee,Operations,77184.0,28,21.0,San Antonio,Bachelor,Unknown,21,Hybrid,7.0
+1143,Charlie Clark,Marketing,128269.0,24,28.0,Phoenix,Associate,Exceeds Expectations,14,Onsite,14.0
+1144,David Davis,Engineering,93720.5,59,16.0,Chicago,Master,Unknown,4,Hybrid,20.0
+1145,Nina Clark,Unknown,137816.0,50,17.0,Phoenix,Unknown,Needs Improvement,7,Hybrid,7.0
+1146,Julia Torres,Legal,99771.0,59,26.0,Unknown,High School,Exceeds Expectations,38,Hybrid,24.0
+1147,Nina Young,Product,57101.0,30,2.0,Phoenix,PhD,Meets Expectations,23,Onsite,21.0
+1148,Frank Hill,Engineering,54235.0,22,20.0,Houston,High School,Outstanding,32,Remote,23.0
+1149,Michael Torres,Operations,111796.0,25,21.0,Unknown,Master,Needs Improvement,23,Hybrid,6.0
+1150,Julia Davis,Legal,46812.0,49,18.0,San Diego,Associate,Outstanding,21,Onsite,13.0
+1151,Sam Hill,Operations,60980.0,52,10.0,Phoenix,Master,Needs Improvement,23,Remote,15.0
+1152,Oliver King,Marketing,61589.0,33,17.0,Houston,Associate,Exceeds Expectations,20,Onsite,6.0
+1153,Grace Scott,Marketing,93720.5,33,15.0,San Diego,Unknown,Meets Expectations,34,Hybrid,23.0
+1154,Frank Brown,Sales,138925.0,30,26.0,Unknown,Unknown,Needs Improvement,27,Onsite,5.0
+1155,Tina Clark,Marketing,85476.0,60,5.0,San Diego,Master,Unknown,10,Unknown,11.0
+1156,Hannah Davis,Marketing,62491.0,42,12.0,San Diego,PhD,Exceeds Expectations,8,Onsite,20.0
+1157,Grace Green,HR,62756.0,46,7.0,Philadelphia,Master,Outstanding,34,Onsite,15.0
+1158,Hannah Wright,Finance,63170.0,60,25.0,Phoenix,PhD,Outstanding,11,Remote,12.0
+1159,Charlie King,Finance,46724.0,37,23.0,Unknown,PhD,Outstanding,23,Unknown,20.0
+1160,Sam Lee,Finance,101459.0,43,8.0,Chicago,High School,Meets Expectations,32,Remote,7.0
+1161,Michael Wright,Finance,125866.0,50,1.0,Unknown,PhD,Meets Expectations,4,Unknown,18.0
+1162,Eva Smith,Engineering,97730.0,30,4.0,Philadelphia,High School,Needs Improvement,11,Remote,17.0
+1163,David Allen,Marketing,72188.0,54,18.0,Los Angeles,PhD,Unknown,7,Onsite,5.0
+1164,Quinn King,Marketing,62870.0,57,10.0,Chicago,Unknown,Needs Improvement,7,Hybrid,8.0
+1165,Hannah Miller,Operations,138493.0,57,10.0,Chicago,Bachelor,Exceeds Expectations,16,Hybrid,19.0
+1166,Oliver Scott,Sales,99422.0,34,29.0,Phoenix,Bachelor,Exceeds Expectations,45,Hybrid,8.0
+1167,Tina Clark,Sales,76383.0,40,6.0,Philadelphia,Master,Exceeds Expectations,12,Remote,14.0
+1168,Oliver Hill,Unknown,76666.0,30,26.0,Chicago,High School,Needs Improvement,34,Onsite,10.0
+1169,Quinn Allen,Finance,137722.0,33,4.0,Philadelphia,Associate,Outstanding,40,Hybrid,21.0
+1170,Rachel King,Product,133127.0,62,26.0,Chicago,Unknown,Unknown,23,Onsite,22.0
+1171,Paula King,Sales,129996.0,29,9.0,Houston,Bachelor,Meets Expectations,10,Hybrid,5.0
+1172,Hannah Wilson,Finance,111721.0,57,13.0,Dallas,High School,Needs Improvement,25,Remote,18.0
+1173,Quinn Wright,Finance,140501.0,58,13.0,Dallas,PhD,Outstanding,29,Remote,13.0
+1174,Ian King,Product,51902.0,48,34.0,Los Angeles,High School,Outstanding,23,Hybrid,24.0
+1175,Julia Taylor,Engineering,75606.0,56,18.0,Los Angeles,PhD,Outstanding,45,Hybrid,23.0
+1176,Kevin Torres,Marketing,75611.0,49,21.0,San Diego,Bachelor,Meets Expectations,15,Remote,9.0
+1177,Eva Taylor,Legal,54640.0,55,8.0,Chicago,PhD,Exceeds Expectations,40,Onsite,11.0
+1178,Eva Lee,Operations,46469.0,46,23.0,Dallas,High School,Unknown,23,Remote,16.0
+1179,Nina Clark,Operations,61496.0,25,2.0,Phoenix,Unknown,Unknown,42,Remote,13.0
+1180,Nina Jones,Operations,117530.0,32,23.0,Houston,PhD,Meets Expectations,8,Hybrid,11.0
+1181,Nina Young,Operations,132276.0,38,29.0,Houston,PhD,Needs Improvement,11,Hybrid,9.0
+1182,Sam Smith,Marketing,54117.0,25,15.0,Los Angeles,Associate,Meets Expectations,21,Hybrid,20.0
+1183,Sam Young,Engineering,46368.0,40,6.0,Los Angeles,Master,Outstanding,7,Hybrid,14.0
+1184,Laura Davis,Legal,52908.0,56,10.0,San Antonio,High School,Needs Improvement,31,Onsite,9.0
+1185,Nina Torres,Legal,81743.0,44,1.0,Dallas,Bachelor,Meets Expectations,20,Remote,5.0
+1186,Rachel Hill,Engineering,98533.0,28,20.0,Phoenix,Associate,Outstanding,19,Remote,11.0
+1187,Paula Taylor,Unknown,55755.0,57,18.0,New York,Master,Exceeds Expectations,24,Remote,8.0
+1188,Paula Smith,Product,123256.0,57,35.0,Houston,High School,Meets Expectations,23,Onsite,15.0
+1189,Michael White,Marketing,84180.0,54,17.0,Philadelphia,PhD,Meets Expectations,31,Hybrid,14.0
+1190,Eva Hill,Operations,71927.0,40,10.0,Phoenix,High School,Unknown,32,Hybrid,24.0
+1191,Michael Nguyen,Marketing,86500.0,25,25.0,Chicago,Master,Unknown,30,Hybrid,16.0
+1192,Alice Brown,Legal,128797.0,46,3.0,Houston,Associate,Exceeds Expectations,10,Unknown,12.0
+1193,Eva King,Finance,84815.0,42,18.0,Unknown,Associate,Unknown,38,Remote,5.0
+1194,Ian Young,Engineering,75159.0,25,18.0,New York,Bachelor,Meets Expectations,25,Hybrid,13.0
+1195,Oliver Clark,Legal,100218.0,44,18.0,Phoenix,Bachelor,Outstanding,27,Hybrid,18.0
+1196,Michael Wilson,HR,122156.0,61,18.0,New York,Associate,Unknown,41,Onsite,14.0
+1197,Nina Wilson,Sales,139773.0,50,24.0,Unknown,Associate,Needs Improvement,10,Hybrid,17.0
+1198,Paula Smith,Unknown,60112.0,62,18.0,Dallas,PhD,Exceeds Expectations,34,Remote,22.0
+1199,Bob Hall,Legal,134111.0,45,25.0,Chicago,Bachelor,Needs Improvement,22,Unknown,11.0
+1200,Charlie Jones,Sales,89635.0,56,7.0,Chicago,Associate,Outstanding,45,Remote,14.0
+1201,Hannah Lee,Product,137365.0,34,35.0,San Antonio,Associate,Meets Expectations,30,Remote,11.0
+1202,Tina Green,Finance,61867.0,34,2.0,Los Angeles,Bachelor,Outstanding,45,Onsite,13.0
+1203,Paula Miller,Product,79850.0,33,32.0,San Diego,Bachelor,Unknown,23,Hybrid,9.0
+1204,Grace King,Product,48443.0,26,23.0,Philadelphia,PhD,Meets Expectations,5,Hybrid,23.0
+1205,Laura White,Unknown,79636.0,33,20.0,New York,High School,Meets Expectations,17,Hybrid,17.0
+1206,David White,Operations,93720.5,29,33.0,San Antonio,Associate,Meets Expectations,37,Hybrid,23.0
+1207,David Nguyen,Engineering,118742.0,49,18.0,Phoenix,PhD,Needs Improvement,23,Hybrid,24.0
+1208,Julia Nguyen,Legal,93720.5,38,25.0,Houston,Bachelor,Meets Expectations,20,Onsite,20.0
+1209,Michael Young,Finance,91156.0,59,2.0,San Antonio,Master,Outstanding,38,Unknown,5.0
+1210,Grace Brown,Engineering,117270.0,22,15.0,Unknown,Unknown,Meets Expectations,6,Onsite,11.0
+1211,Hannah Miller,Engineering,77891.0,31,9.0,San Diego,Associate,Outstanding,31,Hybrid,14.0
+1212,Julia Hill,Operations,118790.0,44,15.0,New York,Bachelor,Outstanding,24,Hybrid,9.0
+1213,Sam Jones,Operations,74858.0,60,28.0,Los Angeles,PhD,Outstanding,43,Onsite,20.0
+1214,Nina Hall,HR,50979.0,44,22.0,Los Angeles,Unknown,Exceeds Expectations,31,Hybrid,15.0
+1215,Kevin Smith,Product,76147.0,61,9.0,Los Angeles,Bachelor,Meets Expectations,13,Onsite,14.0
+1216,Paula Miller,Sales,94253.0,41,13.0,Chicago,Master,Outstanding,27,Onsite,9.0
+1217,Laura King,Unknown,49666.0,58,34.0,Philadelphia,High School,Unknown,14,Remote,19.0
+1218,Nina White,Legal,136858.0,26,10.0,San Antonio,Master,Needs Improvement,6,Remote,20.0
+1219,Ian Hill,Marketing,73429.0,42,11.0,San Diego,PhD,Exceeds Expectations,40,Onsite,21.0
+1220,Rachel Wright,Marketing,137427.0,33,8.0,Phoenix,Bachelor,Meets Expectations,32,Onsite,12.0
+1221,Sam Wilson,Operations,54685.0,54,10.0,San Antonio,Unknown,Outstanding,31,Unknown,17.0
+1222,Hannah Brown,Finance,109789.0,56,27.0,San Antonio,Bachelor,Exceeds Expectations,23,Remote,20.0
+1223,Oliver Taylor,Legal,67328.0,27,18.0,Chicago,PhD,Meets Expectations,32,Hybrid,21.0
+1224,Sam Hill,Finance,50510.0,35,9.0,Phoenix,Master,Meets Expectations,15,Onsite,7.0
+1225,Kevin Smith,Sales,93720.5,43,18.0,Chicago,Master,Needs Improvement,4,Remote,11.0
+1226,Kevin White,Engineering,81892.0,35,15.0,Los Angeles,Bachelor,Needs Improvement,26,Remote,25.0
+1227,Laura Wilson,Finance,86188.0,61,18.0,Unknown,Associate,Meets Expectations,23,Hybrid,9.0
+1228,Tina Wilson,Sales,46477.0,57,18.0,Philadelphia,Bachelor,Outstanding,29,Onsite,22.0
+1229,Quinn Lee,Finance,117903.0,22,9.0,Los Angeles,Associate,Meets Expectations,15,Remote,13.0
+1230,Nina Wright,HR,124348.0,44,24.0,Dallas,Bachelor,Needs Improvement,23,Remote,22.0
+1231,Hannah Wright,Legal,120605.0,61,31.0,Houston,Associate,Outstanding,45,Hybrid,25.0
+1232,Paula King,Product,70850.0,37,18.0,Dallas,Bachelor,Needs Improvement,18,Hybrid,5.0
+1233,Charlie Davis,HR,76254.0,42,1.0,Dallas,High School,Unknown,7,Onsite,19.0
+1234,Hannah Davis,Unknown,93720.5,29,15.0,New York,Bachelor,Exceeds Expectations,19,Onsite,16.0
+1235,Laura Wright,Engineering,74654.0,56,14.0,Los Angeles,Bachelor,Meets Expectations,21,Hybrid,11.0
+1236,Laura Allen,Legal,133998.0,23,32.0,San Antonio,High School,Outstanding,30,Onsite,11.0
+1237,Rachel Clark,Marketing,93720.5,45,16.0,Unknown,Unknown,Needs Improvement,35,Onsite,10.0
+1238,Oliver Wilson,HR,129485.0,54,25.0,Phoenix,High School,Outstanding,18,Remote,5.0
+1239,Hannah Miller,Legal,138414.0,24,35.0,San Antonio,Unknown,Meets Expectations,5,Onsite,16.0
+1240,Kevin Miller,Sales,112343.0,34,3.0,San Diego,Associate,Outstanding,23,Hybrid,5.0
+1241,Frank Lee,HR,52245.0,27,3.0,San Diego,Unknown,Needs Improvement,23,Hybrid,15.0
+1242,Paula Wilson,Legal,56144.0,32,35.0,San Diego,High School,Outstanding,21,Remote,14.0
+1243,Quinn Hill,Operations,111522.0,56,25.0,Dallas,Unknown,Outstanding,24,Onsite,13.0
+1244,David Lee,Legal,92569.0,62,4.0,San Antonio,Master,Needs Improvement,32,Remote,5.0
+1245,Laura White,Operations,55694.0,44,20.0,Phoenix,Associate,Unknown,12,Remote,6.0
+1246,Rachel Green,Finance,62752.0,35,11.0,Unknown,Unknown,Unknown,29,Hybrid,25.0
+1247,Bob Torres,HR,54706.0,49,4.0,Unknown,High School,Meets Expectations,38,Onsite,6.0
+1248,Eva Wright,Finance,100778.0,35,30.0,Philadelphia,Associate,Unknown,2,Hybrid,13.0
+1249,Alice Nguyen,HR,75398.0,49,33.0,Philadelphia,Bachelor,Outstanding,40,Onsite,6.0
+1250,Paula King,Finance,85920.0,26,35.0,Philadelphia,PhD,Needs Improvement,44,Onsite,5.0
+1251,Bob Wilson,HR,139434.0,31,12.0,Unknown,Bachelor,Meets Expectations,11,Remote,20.0
+1252,Paula Miller,Legal,79339.0,44,13.0,Houston,Associate,Outstanding,22,Remote,25.0
+1253,Michael Wright,Operations,93720.5,24,18.0,Los Angeles,Associate,Meets Expectations,23,Hybrid,10.0
+1254,Bob Green,Finance,119211.0,44,11.0,Chicago,Master,Unknown,11,Onsite,25.0
+1255,Sam Davis,Product,66560.0,44,8.0,San Diego,Master,Unknown,22,Remote,8.0
+1256,Hannah Miller,Product,97223.0,57,6.0,Dallas,PhD,Meets Expectations,45,Remote,14.0
+1257,Nina Hill,Marketing,71562.0,44,33.0,San Diego,High School,Needs Improvement,35,Remote,14.0
+1258,Tina Taylor,Finance,78972.0,38,25.0,San Antonio,High School,Outstanding,30,Unknown,9.0
+1259,Michael King,Engineering,65926.0,50,10.0,Los Angeles,Master,Unknown,10,Remote,10.0
+1260,Julia Nguyen,Legal,135813.0,49,4.0,Houston,Bachelor,Needs Improvement,42,Unknown,9.0
+1261,Julia Nguyen,Legal,72955.0,46,29.0,Philadelphia,Associate,Meets Expectations,8,Hybrid,14.0
+1262,Tina Miller,Finance,63193.0,56,9.0,San Antonio,PhD,Needs Improvement,23,Hybrid,8.0
+1263,Grace Lee,Finance,90505.0,44,18.0,Los Angeles,Associate,Meets Expectations,14,Hybrid,14.0
+1264,Charlie White,HR,131406.0,26,1.0,Phoenix,Master,Unknown,36,Unknown,6.0
+1265,Rachel Brown,HR,67131.0,59,35.0,San Antonio,Associate,Exceeds Expectations,40,Onsite,22.0
+1266,Nina King,Sales,102669.0,44,32.0,Los Angeles,PhD,Unknown,24,Remote,11.0
+1267,Paula Davis,Operations,76196.0,44,31.0,Philadelphia,Associate,Unknown,14,Onsite,5.0
+1268,Julia Davis,Engineering,62224.0,28,1.0,Dallas,Master,Meets Expectations,38,Remote,15.0
+1269,Oliver Brown,Marketing,93720.5,41,14.0,Los Angeles,Unknown,Unknown,25,Onsite,10.0
+1270,Ian Nguyen,Unknown,73233.0,40,3.0,Phoenix,Associate,Needs Improvement,3,Hybrid,23.0
+1271,Grace Allen,Marketing,96481.0,50,20.0,Houston,High School,Unknown,21,Remote,16.0
+1272,Hannah Green,Legal,127186.0,23,18.0,Dallas,Master,Unknown,9,Hybrid,17.0
+1273,Eva Brown,HR,78932.0,56,18.0,Chicago,Master,Meets Expectations,43,Onsite,6.0
+1274,Julia Hill,Finance,93720.5,47,11.0,Dallas,PhD,Needs Improvement,28,Onsite,14.0
+1275,Sam Davis,Sales,70761.0,56,12.0,Houston,High School,Needs Improvement,24,Hybrid,21.0
+1276,Oliver Davis,Engineering,61194.0,62,24.0,San Diego,High School,Exceeds Expectations,29,Hybrid,13.0
+1277,Ian Scott,HR,87225.0,45,18.0,San Antonio,PhD,Outstanding,23,Onsite,14.0
+1278,Oliver Brown,Sales,93720.5,22,24.0,New York,Associate,Unknown,13,Onsite,13.0
+1279,Nina Clark,Marketing,66687.0,57,28.0,Chicago,Associate,Exceeds Expectations,25,Hybrid,21.0
+1280,Alice Brown,Marketing,137504.0,24,18.0,Phoenix,PhD,Exceeds Expectations,40,Onsite,25.0
+1281,Sam Nguyen,Sales,93799.0,44,8.0,Los Angeles,High School,Meets Expectations,29,Remote,5.0
+1282,Ian Nguyen,Product,90319.0,56,34.0,Phoenix,Bachelor,Needs Improvement,44,Remote,22.0
+1283,Frank Wright,Marketing,80386.0,27,14.0,Phoenix,Bachelor,Meets Expectations,29,Onsite,15.0
+1284,Oliver Wilson,Finance,64135.0,44,18.0,Houston,Master,Unknown,41,Unknown,7.0
+1285,Sam Allen,Sales,123351.0,54,34.0,Houston,Master,Meets Expectations,8,Hybrid,19.0
+1286,Paula Brown,Engineering,108521.0,33,19.0,San Diego,PhD,Meets Expectations,8,Remote,14.0
+1287,Nina Clark,Operations,106162.0,38,17.0,New York,High School,Exceeds Expectations,23,Onsite,10.0
+1288,David White,Legal,94240.0,33,23.0,New York,Master,Unknown,23,Unknown,10.0
+1289,Paula Davis,Marketing,127916.0,58,32.0,Dallas,Bachelor,Needs Improvement,8,Unknown,25.0
+1290,Michael Torres,Legal,125921.0,57,32.0,San Diego,Bachelor,Exceeds Expectations,41,Onsite,10.0
+1291,Charlie Clark,Engineering,47491.0,57,15.0,Unknown,Associate,Meets Expectations,8,Remote,11.0
+1292,David Young,Legal,90591.0,44,1.0,Philadelphia,PhD,Needs Improvement,34,Hybrid,19.0
+1293,Alice Torres,Marketing,107452.0,38,14.0,San Antonio,Associate,Outstanding,4,Unknown,14.0
+1294,Bob Lee,Unknown,109429.0,44,27.0,Los Angeles,PhD,Meets Expectations,28,Remote,12.0
+1295,Tina Wright,Finance,68126.0,53,14.0,Chicago,Unknown,Needs Improvement,31,Hybrid,25.0
+1296,Bob Lee,HR,73130.0,44,5.0,Dallas,Unknown,Exceeds Expectations,9,Hybrid,11.0
+1297,Eva Davis,Product,80159.0,37,21.0,Dallas,Master,Meets Expectations,32,Onsite,9.0
+1298,Paula Miller,Operations,105642.0,61,18.0,Houston,PhD,Meets Expectations,24,Onsite,17.0
+1299,Tina Taylor,Unknown,119338.0,44,26.0,Philadelphia,PhD,Meets Expectations,31,Remote,10.0
+1300,Julia Torres,Marketing,57353.0,53,2.0,San Antonio,Master,Outstanding,43,Remote,23.0
+1301,Nina Brown,Legal,79646.0,61,22.0,San Antonio,Bachelor,Meets Expectations,27,Onsite,12.0
+1302,David King,HR,139157.0,59,31.0,Houston,PhD,Unknown,23,Onsite,13.0
+1303,Eva Wright,Unknown,73689.0,58,31.0,Phoenix,Bachelor,Unknown,16,Onsite,10.0
+1304,Julia Scott,Legal,94463.0,42,35.0,Unknown,Master,Unknown,19,Hybrid,13.0
+1305,Nina Wright,Operations,67280.0,32,27.0,Los Angeles,Bachelor,Needs Improvement,18,Onsite,13.0
+1306,Hannah King,Sales,85925.0,44,18.0,Houston,Master,Needs Improvement,28,Onsite,14.0
+1307,Michael Lee,Operations,90705.0,36,21.0,Chicago,Master,Exceeds Expectations,2,Onsite,16.0
+1308,Quinn Green,Sales,93720.5,49,18.0,Phoenix,PhD,Meets Expectations,28,Unknown,25.0
+1309,Ian Allen,Legal,117677.0,45,22.0,New York,Associate,Meets Expectations,23,Remote,25.0
+1310,Quinn Wilson,Product,69956.0,43,23.0,New York,Associate,Needs Improvement,23,Unknown,10.0
+1311,Julia Davis,Finance,108655.0,51,22.0,Houston,Bachelor,Meets Expectations,35,Hybrid,14.0
+1312,Sam Wright,Finance,107138.0,41,11.0,Philadelphia,Master,Needs Improvement,40,Remote,17.0
+1313,Oliver Torres,HR,74716.0,28,8.0,Dallas,Master,Needs Improvement,12,Remote,23.0
+1314,Kevin Torres,Marketing,112589.0,60,21.0,San Antonio,PhD,Exceeds Expectations,29,Onsite,18.0
+1315,Michael King,Legal,93720.5,44,6.0,Phoenix,High School,Outstanding,27,Onsite,14.0
+1316,Grace Taylor,Operations,70925.0,30,29.0,Houston,Master,Unknown,43,Hybrid,21.0
+1317,Hannah Allen,Legal,136281.0,34,34.0,Chicago,Associate,Exceeds Expectations,5,Hybrid,13.0
+1318,Paula Young,HR,86160.0,62,18.0,San Antonio,Associate,Needs Improvement,38,Remote,14.0
+1319,Eva Wright,Engineering,93720.5,44,13.0,Los Angeles,Master,Meets Expectations,42,Onsite,13.0
+1320,Eva Scott,Operations,63892.0,44,2.0,San Diego,Bachelor,Outstanding,13,Remote,13.0
+1321,Kevin Miller,Unknown,112981.0,44,10.0,Philadelphia,PhD,Outstanding,22,Hybrid,14.0
+1322,Oliver Miller,Sales,54482.0,23,34.0,Los Angeles,Associate,Meets Expectations,29,Hybrid,25.0
+1323,Oliver Smith,HR,129505.0,59,7.0,Dallas,High School,Meets Expectations,10,Remote,9.0
+1324,Nina Green,Marketing,88409.0,59,9.0,Dallas,Bachelor,Meets Expectations,42,Hybrid,15.0
+1325,Ian Clark,Legal,65849.0,24,18.0,New York,Associate,Exceeds Expectations,27,Onsite,17.0
+1326,Michael Brown,HR,126598.0,56,34.0,Chicago,Unknown,Unknown,42,Remote,6.0
+1327,Rachel Young,Legal,67824.0,56,18.0,Chicago,Associate,Exceeds Expectations,37,Hybrid,8.0
+1328,Paula Torres,Unknown,133728.0,31,6.0,Phoenix,Associate,Meets Expectations,22,Onsite,5.0
+1329,Charlie Taylor,Sales,73781.0,36,7.0,Unknown,PhD,Outstanding,7,Onsite,20.0
+1330,Julia Taylor,Product,67487.0,59,20.0,Dallas,Associate,Meets Expectations,23,Hybrid,25.0
+1331,Nina Miller,Sales,133401.0,40,14.0,Chicago,High School,Exceeds Expectations,23,Hybrid,10.0
+1332,David King,Finance,138101.0,54,18.0,Philadelphia,Associate,Exceeds Expectations,11,Onsite,14.0
+1333,Julia Smith,Product,118500.0,47,8.0,Chicago,Associate,Outstanding,23,Onsite,22.0
+1334,Bob Davis,Sales,117133.0,22,8.0,Philadelphia,Master,Meets Expectations,7,Unknown,5.0
+1335,Nina Green,Engineering,85928.0,61,14.0,San Antonio,Master,Needs Improvement,3,Remote,24.0
+1336,Nina Nguyen,Unknown,73754.0,54,18.0,San Antonio,Master,Outstanding,10,Remote,23.0
+1337,Frank White,Engineering,108244.0,32,16.0,Houston,PhD,Needs Improvement,42,Onsite,17.0
+1338,Tina Young,Sales,54343.0,58,22.0,Unknown,High School,Needs Improvement,24,Onsite,12.0
+1339,Hannah Wright,Engineering,85271.0,31,18.0,Houston,PhD,Needs Improvement,43,Hybrid,16.0
+1340,Eva Taylor,Legal,56941.0,52,18.0,Houston,Bachelor,Needs Improvement,21,Onsite,20.0
+1341,Ian King,Unknown,126846.0,24,4.0,New York,Bachelor,Unknown,17,Unknown,14.0
+1342,Alice King,Marketing,102111.0,53,12.0,Phoenix,Associate,Outstanding,26,Remote,14.0
+1343,Rachel White,Product,76809.0,38,29.0,Chicago,Associate,Needs Improvement,44,Remote,12.0
+1344,Laura Nguyen,Product,93720.5,24,13.0,Dallas,Unknown,Outstanding,23,Onsite,21.0
+1345,Nina Wilson,Product,58837.0,55,35.0,San Diego,PhD,Meets Expectations,23,Remote,18.0
+1346,Julia Lee,Marketing,93720.5,45,9.0,Houston,High School,Needs Improvement,3,Remote,23.0
+1347,Paula Miller,Operations,138529.0,51,7.0,Phoenix,PhD,Meets Expectations,39,Hybrid,5.0
+1348,Sam Hall,Product,97604.0,24,30.0,Chicago,PhD,Needs Improvement,9,Hybrid,10.0
+1349,Julia Smith,HR,89659.0,42,10.0,Houston,Bachelor,Exceeds Expectations,40,Onsite,24.0
+1350,Michael Wilson,Sales,106907.0,55,24.0,Houston,Master,Needs Improvement,11,Remote,21.0
+1351,Bob Hill,Legal,128876.0,39,22.0,Chicago,Bachelor,Meets Expectations,13,Remote,23.0
+1352,Julia Taylor,Product,65562.0,38,30.0,Houston,Bachelor,Meets Expectations,23,Hybrid,9.0
+1353,Laura Taylor,HR,93720.5,58,18.0,Philadelphia,Associate,Exceeds Expectations,25,Onsite,6.0
+1354,Tina Wilson,Operations,82120.0,46,18.0,Los Angeles,Bachelor,Exceeds Expectations,15,Hybrid,14.0
+1355,Eva Miller,HR,58175.0,26,11.0,Philadelphia,Master,Outstanding,33,Remote,9.0
+1356,Bob Davis,Engineering,93264.0,46,9.0,Houston,Unknown,Meets Expectations,28,Hybrid,19.0
+1357,Bob Nguyen,Unknown,115195.0,36,7.0,Phoenix,Unknown,Needs Improvement,23,Onsite,19.0
+1358,Eva Brown,Sales,123594.0,44,20.0,New York,Unknown,Meets Expectations,6,Hybrid,14.0
+1359,Kevin Allen,Engineering,100769.0,44,27.0,Philadelphia,Master,Needs Improvement,28,Remote,10.0
+1360,Eva Torres,Sales,100260.0,52,11.0,New York,PhD,Outstanding,22,Hybrid,7.0
+1361,Laura Scott,Sales,93720.5,22,22.0,San Antonio,PhD,Meets Expectations,30,Hybrid,11.0
+1362,Ian White,Sales,69519.0,30,28.0,Philadelphia,Associate,Unknown,13,Hybrid,12.0
+1363,Paula Davis,HR,137847.0,36,22.0,New York,Associate,Outstanding,13,Remote,22.0
+1364,Kevin Miller,Sales,129388.0,44,5.0,Dallas,Bachelor,Exceeds Expectations,42,Onsite,16.0
+1365,Charlie Green,Finance,57150.0,35,32.0,San Diego,PhD,Needs Improvement,4,Onsite,14.0
+1366,Hannah Young,Operations,115960.0,32,7.0,Dallas,High School,Outstanding,23,Hybrid,8.0
+1367,Rachel Hall,Operations,51469.0,29,26.0,Philadelphia,Associate,Unknown,32,Onsite,17.0
+1368,Michael Smith,Marketing,93720.5,48,25.0,Phoenix,Bachelor,Unknown,40,Hybrid,20.0
+1369,David King,HR,129740.0,29,4.0,Phoenix,Associate,Exceeds Expectations,12,Hybrid,19.0
+1370,Ian Nguyen,Finance,70199.0,52,1.0,Phoenix,Master,Needs Improvement,18,Hybrid,8.0
+1371,Laura Miller,Unknown,93720.5,59,29.0,Chicago,Master,Meets Expectations,14,Remote,15.0
+1372,Paula Smith,Marketing,82183.0,48,29.0,Chicago,Master,Needs Improvement,36,Hybrid,9.0
+1373,Rachel Clark,Product,59415.0,44,21.0,San Diego,Associate,Unknown,23,Hybrid,15.0
+1374,Hannah Brown,Sales,105600.0,44,20.0,Houston,Associate,Needs Improvement,11,Unknown,18.0
+1375,Oliver Davis,Product,78193.0,32,23.0,Chicago,High School,Meets Expectations,25,Hybrid,22.0
+1376,David Green,Operations,94289.0,54,33.0,San Diego,Bachelor,Outstanding,15,Remote,14.0
+1377,Bob Davis,Product,93478.0,44,19.0,Dallas,Master,Unknown,23,Remote,23.0
+1378,David Miller,Product,50369.0,25,1.0,Chicago,High School,Exceeds Expectations,7,Remote,14.0
+1379,Rachel Green,Legal,78331.0,33,23.0,Unknown,High School,Outstanding,10,Unknown,10.0
+1380,Laura Torres,HR,117163.0,47,18.0,Chicago,Bachelor,Exceeds Expectations,32,Unknown,16.0
+1381,Eva Allen,Marketing,134783.0,58,26.0,Phoenix,Associate,Meets Expectations,7,Hybrid,21.0
+1382,Paula Hill,Sales,130452.0,40,26.0,Houston,PhD,Exceeds Expectations,37,Onsite,24.0
+1383,Ian Jones,Product,97874.0,35,12.0,Dallas,Bachelor,Unknown,31,Hybrid,17.0
+1384,Grace King,Marketing,115162.0,52,25.0,Los Angeles,PhD,Outstanding,33,Remote,25.0
+1385,Hannah Hall,Finance,111528.0,32,27.0,Los Angeles,High School,Exceeds Expectations,27,Hybrid,20.0
+1386,Laura Torres,Engineering,132987.0,48,9.0,Unknown,High School,Needs Improvement,18,Onsite,11.0
+1387,Laura Jones,Operations,118341.0,59,18.0,Los Angeles,Associate,Meets Expectations,45,Remote,7.0
+1388,Grace Miller,Unknown,55504.0,33,32.0,Los Angeles,Associate,Unknown,19,Remote,25.0
+1389,Oliver Brown,HR,136135.0,54,9.0,Los Angeles,Unknown,Meets Expectations,8,Remote,9.0
+1390,Tina Smith,Unknown,111919.0,43,30.0,San Diego,Master,Exceeds Expectations,39,Hybrid,17.0
+1391,Kevin Taylor,Sales,124250.0,60,28.0,New York,PhD,Meets Expectations,15,Hybrid,20.0
+1392,Sam Lee,HR,102277.0,36,28.0,Unknown,Associate,Outstanding,33,Onsite,14.0
+1393,Rachel Lee,HR,66316.0,30,23.0,San Diego,Associate,Exceeds Expectations,30,Onsite,18.0
+1394,Hannah Clark,Operations,61143.0,34,1.0,Chicago,High School,Unknown,19,Hybrid,17.0
+1395,Tina Smith,Sales,132545.0,54,16.0,Unknown,High School,Outstanding,41,Hybrid,8.0
+1396,Eva Green,HR,125251.0,31,35.0,Philadelphia,Unknown,Meets Expectations,26,Hybrid,7.0
+1397,Frank Miller,Engineering,78427.0,33,18.0,Dallas,High School,Outstanding,38,Onsite,8.0
+1398,Alice Green,Legal,53189.0,61,18.0,San Antonio,Associate,Outstanding,42,Remote,17.0
+1399,Hannah Nguyen,HR,95665.0,56,24.0,San Antonio,PhD,Unknown,30,Onsite,5.0
+1400,Frank Wilson,HR,80632.0,29,10.0,Chicago,Unknown,Needs Improvement,4,Remote,9.0
+1401,Nina Scott,Finance,46905.0,44,18.0,Chicago,Associate,Unknown,18,Onsite,17.0
+1402,Charlie Wright,Operations,120635.0,60,18.0,San Antonio,Associate,Needs Improvement,20,Remote,5.0
+1403,Laura Scott,Operations,59524.0,22,6.0,Chicago,Master,Meets Expectations,43,Hybrid,17.0
+1404,Oliver Scott,Legal,117702.0,49,5.0,Unknown,High School,Unknown,35,Hybrid,6.0
+1405,Tina Jones,Legal,57208.0,45,20.0,Houston,Master,Outstanding,3,Unknown,13.0
+1406,Quinn Davis,Operations,57904.0,55,35.0,San Diego,Associate,Needs Improvement,22,Hybrid,8.0
+1407,Alice Jones,Operations,113452.0,52,33.0,Los Angeles,Unknown,Exceeds Expectations,13,Hybrid,19.0
+1408,Michael Allen,Sales,78492.0,46,22.0,Chicago,Unknown,Needs Improvement,6,Hybrid,20.0
+1409,Paula King,HR,118723.0,58,19.0,New York,Master,Meets Expectations,25,Remote,22.0
+1410,Charlie Clark,Sales,67382.0,44,18.0,Houston,High School,Meets Expectations,22,Remote,8.0
+1411,Charlie Green,Product,124723.0,52,20.0,San Diego,Bachelor,Needs Improvement,22,Remote,18.0
+1412,Sam Torres,HR,96139.0,27,4.0,Los Angeles,High School,Meets Expectations,23,Remote,17.0
+1413,Michael Hill,Product,87807.0,56,4.0,San Diego,Bachelor,Outstanding,38,Remote,7.0
+1414,Oliver Scott,HR,140586.0,34,2.0,Phoenix,Master,Needs Improvement,16,Remote,15.0
+1415,David Miller,Operations,92120.0,44,18.0,Phoenix,Master,Meets Expectations,26,Onsite,23.0
+1416,Rachel Lee,Legal,83418.0,22,18.0,New York,High School,Meets Expectations,15,Remote,21.0
+1417,Hannah Allen,Legal,107978.0,29,18.0,San Antonio,Associate,Meets Expectations,8,Hybrid,19.0
+1418,Oliver Young,Operations,57989.0,46,18.0,Phoenix,Associate,Exceeds Expectations,40,Unknown,19.0
+1419,David Clark,Legal,83861.0,42,18.0,Dallas,High School,Meets Expectations,44,Remote,8.0
+1420,Ian Hall,Sales,86375.0,28,10.0,San Diego,Bachelor,Meets Expectations,23,Hybrid,19.0
+1421,Paula Brown,Engineering,122761.0,59,12.0,San Antonio,High School,Unknown,28,Hybrid,24.0
+1422,Charlie Brown,Sales,101316.0,56,32.0,Phoenix,Unknown,Unknown,29,Onsite,13.0
+1423,Laura Green,Product,97858.0,45,3.0,San Diego,Master,Exceeds Expectations,22,Hybrid,14.0
+1424,Sam Torres,HR,111988.0,47,18.0,Chicago,Associate,Meets Expectations,5,Unknown,5.0
+1425,David Allen,Unknown,52627.0,48,10.0,Unknown,High School,Outstanding,33,Remote,10.0
+1426,Nina Jones,HR,53418.0,57,27.0,Phoenix,Bachelor,Outstanding,23,Hybrid,18.0
+1427,Tina Davis,Operations,96238.0,45,29.0,Dallas,PhD,Exceeds Expectations,9,Unknown,14.0
+1428,Sam Scott,Unknown,112682.0,52,23.0,New York,High School,Unknown,12,Unknown,25.0
+1429,Paula Taylor,Legal,93720.5,41,4.0,San Antonio,PhD,Exceeds Expectations,39,Onsite,14.0
+1430,Laura Torres,Sales,70957.0,47,20.0,San Diego,Master,Meets Expectations,38,Hybrid,6.0
+1431,Ian Nguyen,Unknown,93720.5,29,35.0,Philadelphia,Master,Needs Improvement,23,Hybrid,17.0
+1432,Nina Torres,Sales,93720.5,50,25.0,San Antonio,High School,Needs Improvement,23,Hybrid,7.0
+1433,Tina Hill,Unknown,93720.5,32,28.0,Unknown,Master,Unknown,38,Hybrid,9.0
+1434,Rachel Smith,Finance,70380.0,54,21.0,Houston,Bachelor,Meets Expectations,31,Hybrid,25.0
+1435,Ian Smith,Unknown,104617.0,43,3.0,Unknown,Bachelor,Exceeds Expectations,27,Hybrid,13.0
+1436,Julia Clark,Product,60797.0,61,28.0,New York,Master,Needs Improvement,23,Remote,19.0
+1437,Frank Green,Marketing,93720.5,25,18.0,Houston,Associate,Exceeds Expectations,35,Hybrid,12.0
+1438,Michael Brown,Engineering,121556.0,62,7.0,Dallas,Bachelor,Exceeds Expectations,23,Onsite,21.0
+1439,Alice Brown,HR,105700.0,44,30.0,San Diego,Master,Needs Improvement,6,Remote,6.0
+1440,Grace Young,Finance,89267.0,44,13.0,Los Angeles,High School,Unknown,28,Remote,14.0
+1441,Kevin White,Finance,78866.0,60,12.0,San Diego,Associate,Unknown,19,Onsite,9.0
+1442,Kevin Nguyen,Engineering,56391.0,26,18.0,San Diego,PhD,Meets Expectations,24,Remote,25.0
+1443,Bob Green,Product,93720.5,45,18.0,San Antonio,Unknown,Exceeds Expectations,37,Remote,8.0
+1444,Tina Jones,HR,93720.5,44,18.0,Unknown,PhD,Exceeds Expectations,33,Remote,7.0
+1445,Ian King,HR,72977.0,44,34.0,San Antonio,Master,Exceeds Expectations,27,Onsite,25.0
+1446,Paula Hill,Engineering,73793.0,47,19.0,Dallas,Associate,Outstanding,31,Hybrid,18.0
+1447,Ian Lee,Sales,128519.0,55,18.0,Unknown,Unknown,Unknown,43,Onsite,10.0
+1448,David Hall,Unknown,132109.0,60,4.0,Dallas,Unknown,Unknown,9,Remote,13.0
+1449,Julia Nguyen,Legal,61762.0,44,14.0,San Diego,High School,Needs Improvement,41,Onsite,7.0
+1450,Julia Jones,Unknown,46329.0,33,8.0,Unknown,High School,Unknown,16,Onsite,18.0
+1451,Tina Jones,Unknown,84829.0,50,12.0,Unknown,High School,Meets Expectations,23,Remote,11.0
+1452,Julia Lee,Legal,127381.0,44,17.0,Dallas,Unknown,Outstanding,23,Hybrid,14.0
+1453,Ian Davis,Operations,93972.0,55,5.0,San Antonio,Master,Needs Improvement,22,Remote,22.0
+1454,Alice Wright,Engineering,77323.0,24,18.0,Philadelphia,High School,Exceeds Expectations,29,Remote,12.0
+1455,Frank Green,Sales,131633.0,54,21.0,Chicago,Bachelor,Outstanding,7,Onsite,6.0
+1456,Hannah Scott,Legal,95698.0,36,18.0,Philadelphia,Unknown,Meets Expectations,25,Hybrid,20.0
+1457,Laura Brown,Engineering,110778.0,24,22.0,Philadelphia,High School,Meets Expectations,36,Hybrid,18.0
+1458,Bob Allen,Finance,92674.0,22,17.0,San Diego,PhD,Unknown,5,Onsite,10.0
+1459,Charlie Clark,Sales,122389.0,27,18.0,San Antonio,Master,Exceeds Expectations,4,Remote,6.0
+1460,Sam Young,Operations,58593.0,47,13.0,Philadelphia,Associate,Exceeds Expectations,21,Unknown,10.0
+1461,Nina Davis,Unknown,93720.5,47,32.0,Chicago,PhD,Outstanding,23,Remote,13.0
+1462,Alice Clark,Marketing,126432.0,34,7.0,Los Angeles,High School,Needs Improvement,41,Hybrid,14.0
+1463,Tina King,Product,78771.0,26,7.0,Houston,Bachelor,Needs Improvement,26,Hybrid,18.0
+1464,Laura Brown,Finance,128405.0,57,29.0,San Antonio,Master,Needs Improvement,12,Onsite,13.0
+1465,David Taylor,HR,111883.0,57,1.0,Houston,Master,Exceeds Expectations,39,Onsite,24.0
+1466,Michael Scott,Product,52924.0,44,18.0,Unknown,Bachelor,Meets Expectations,10,Onsite,25.0
+1467,Julia Clark,Operations,121513.0,39,26.0,Unknown,Associate,Needs Improvement,11,Hybrid,12.0
+1468,Frank Brown,Marketing,132243.0,34,32.0,Philadelphia,Bachelor,Meets Expectations,28,Remote,15.0
+1469,David Scott,Engineering,128609.0,47,5.0,Dallas,Associate,Outstanding,44,Remote,24.0
+1470,Laura Hall,Operations,78528.0,38,18.0,Unknown,Bachelor,Needs Improvement,35,Onsite,24.0
+1471,Eva Taylor,Unknown,139136.0,54,31.0,Houston,PhD,Outstanding,32,Onsite,23.0
+1472,Ian Lee,Engineering,118935.0,26,22.0,Phoenix,Associate,Outstanding,19,Remote,24.0
+1473,Eva Brown,Product,137830.0,43,6.0,New York,Unknown,Exceeds Expectations,32,Hybrid,17.0
+1474,Paula King,Operations,113753.0,54,22.0,Chicago,Master,Needs Improvement,18,Hybrid,22.0
+1475,Sam King,Unknown,130467.0,56,13.0,Los Angeles,PhD,Meets Expectations,7,Unknown,14.0
+1476,Sam Hill,Legal,66960.0,58,18.0,San Diego,Master,Needs Improvement,17,Remote,16.0
+1477,Kevin Green,Operations,116285.0,50,13.0,Los Angeles,Unknown,Outstanding,15,Remote,9.0
+1478,Paula King,Product,105231.0,58,7.0,Los Angeles,Bachelor,Exceeds Expectations,6,Hybrid,20.0
+1479,Ian Nguyen,Product,137927.0,37,6.0,Unknown,Master,Meets Expectations,5,Remote,10.0
+1480,Quinn Brown,Unknown,68796.0,51,13.0,Los Angeles,Bachelor,Exceeds Expectations,44,Hybrid,13.0
+1481,Oliver Jones,HR,128191.0,59,16.0,Chicago,Bachelor,Meets Expectations,26,Onsite,23.0
+1482,Julia Brown,Engineering,73862.0,52,18.0,Dallas,Master,Meets Expectations,8,Hybrid,25.0
+1483,Charlie Hill,Product,98907.0,26,20.0,Chicago,Bachelor,Meets Expectations,39,Hybrid,16.0
+1484,Michael King,Marketing,92366.0,36,29.0,Chicago,Bachelor,Exceeds Expectations,34,Onsite,14.0
+1485,Bob King,Operations,104971.0,36,18.0,San Antonio,PhD,Exceeds Expectations,21,Remote,21.0
+1486,Sam Lee,Engineering,51987.0,48,22.0,Unknown,Master,Needs Improvement,43,Remote,14.0
+1487,Paula Scott,Unknown,119735.0,55,18.0,San Diego,Associate,Meets Expectations,34,Remote,19.0
+1488,Bob King,Operations,93720.5,38,18.0,Los Angeles,High School,Meets Expectations,10,Hybrid,5.0
+1489,Kevin Brown,Engineering,109222.0,27,34.0,San Antonio,Master,Needs Improvement,25,Onsite,23.0
+1490,Frank Jones,Marketing,93642.0,43,35.0,Chicago,PhD,Exceeds Expectations,30,Remote,16.0
+1491,Oliver King,Product,51991.0,44,3.0,Houston,High School,Exceeds Expectations,34,Hybrid,18.0
+1492,Tina White,Engineering,62305.0,52,2.0,San Antonio,Bachelor,Outstanding,27,Hybrid,5.0
+1493,Julia Young,Engineering,117568.0,35,3.0,Dallas,High School,Exceeds Expectations,19,Remote,14.0
+1494,Kevin Hill,Operations,136284.0,39,1.0,New York,PhD,Needs Improvement,45,Remote,20.0
+1495,Kevin Brown,Sales,107440.0,34,18.0,Dallas,PhD,Needs Improvement,38,Onsite,17.0
+1496,Rachel Young,Product,67420.0,34,7.0,Unknown,Unknown,Meets Expectations,11,Onsite,9.0
+1497,Tina Green,HR,45562.0,37,5.0,Chicago,High School,Exceeds Expectations,8,Hybrid,8.0
+1498,Sam Green,Marketing,66690.0,35,18.0,New York,Associate,Needs Improvement,17,Hybrid,14.0
+1499,Julia Young,Marketing,107904.0,37,15.0,New York,Bachelor,Needs Improvement,23,Hybrid,8.0

@@ -1,0 +1,526 @@
+Employee_ID,Name,Department,Salary,Age,Experience_Years,City,Education_Level,Performance_Rating,Projects_Completed,Work_Mode,Bonus_Percent
+1000,Alice Wilson,Engineering,"$83,374",27.0,23,San Antonio,Associate,Meets Expectations,26.0,Remote,24%
+1001,Eva Miller,Product,"$53,271",49.0,, Dallas ,High School,Needs Improvement,18.0,,16%
+1002,Rachel Brown,Operations,"$98,406",47.0,32,Houston,Associate,Outstanding,42.0,Remote,8%
+1003,Bob Smith,Engineering,"$54,469",52.0,35,philadelphia,PhD,Meets Expectations,15.0,Onsite,20%
+1004,  Hannah Scott  ,Product,"$76,838",24.0,24, San Antonio ,Bachelor,Exceeds Expectations,16.0,Onsite,10%
+1005,Rachel Lee,Sales,"$121,731",45.0,18,Chicago,Associate,Outstanding,15.0,Onsite,13%
+1006,Rachel Allen,Marketing,"$58,238",42.0,33, New York ,Master,,27.0,Hybrid,8%
+1007,Sam Wilson,Operations,"$95,440",55.0,9 yrs,San Antonio,High School,,16.0,Remote,13%
+1008,Alice White,Legal,"$93,923",22.0,35 years,,Associate,Outstanding,29.0,,11%
+1009,Kevin Wilson,Marketing,"$101,442",37.0,12,new york,Associate,Meets Expectations,32.0,Onsite,21%
+1010,  Kevin Miller  ,Finance,"$128,708",44.0,34,Phoenix,PhD,Needs Improvement,,,5%
+1011,  David Hall  ,Engineering,"$86,717",28.0,1,San Diego,High School,Needs Improvement,13.0,Remote,6%
+1012,Tina Wilson,Sales,"$70,590",59.0,7,Phoenix,PhD,Outstanding,13.0,Onsite,22%
+1013,Oliver Torres,Marketing,"$95,426",26.0,17,Chicago,,Needs Improvement,33.0,Hybrid,11%
+1014,  Michael Brown  ,Marketing,"$133,748",41.0,18,,High School,,13.0,Hybrid,
+1015,Tina Hall,Marketing,"$118,900",51.0,24,San Diego,Master,Exceeds Expectations,3.0,Remote,5%
+1016,Charlie Jones,Sales,"$93,387",60.0,27,,Associate,Outstanding,13.0,Onsite,14%
+1017,Julia Brown,HR,"$95,473",49.0,26,Phoenix,Bachelor,Needs Improvement,45.0,Onsite,23%
+1018,David Young,Finance,"$117,304",30.0,9,,PhD,Outstanding,6.0,Onsite,19%
+1019,Laura White,Legal,"$114,284",53.0,7,Los Angeles,Master,Exceeds Expectations,29.0,Hybrid,19%
+1020,Grace Wilson,HR,"$115,127",34.0,28,Philadelphia,,,43.0,Onsite,8%
+1021,Charlie Hill,Legal,"$104,825",47.0,10,Dallas,Associate,Needs Improvement,8.0,Remote,8%
+1022,Rachel Taylor,HR,"$82,951",,,Houston,Master,Outstanding,10.0,Hybrid,18%
+1023,  Michael Wilson  ,Legal,"$97,789",30.0,9,Chicago,PhD,Exceeds Expectations,2.0,Remote,7%
+1024,Rachel Taylor,Finance,"$126,410",23.0,34,San Diego,Associate,Meets Expectations,26.0,Onsite,13%
+1025,Bob Taylor,Product,"$129,257",32.0,32,new york,Bachelor,Exceeds Expectations,9.0,Hybrid,8%
+1026,Kevin Young,HR,"$93,175",24.0,4,Houston,PhD,Meets Expectations,43.0,Onsite,7%
+1027,Grace Nguyen,Marketing,"$121,590",62.0,4,san diego,PhD,Meets Expectations,10.0,Onsite,12%
+1028,Kevin Lee,Sales,"$113,618",56.0,7, Dallas ,Bachelor,Meets Expectations,7.0,Remote,15%
+1029,Michael King,Operations,"$133,528",60.0,24,San Diego,Associate,Outstanding,42.0,Remote,15%
+1030,  Eva Taylor  ,Engineering,"$91,818",28.0,17,,High School,Meets Expectations,2.0,Onsite,25%
+1031,Rachel Wilson,Engineering,"$113,708",23.0,23,San Diego,Master,Needs Improvement,8.0,Hybrid,7%
+1032,Nina Nguyen,Marketing,"$55,211",,13,Houston,Associate,,23.0,Hybrid,15%
+1033,Hannah Green,Marketing,"$129,780",50.0,35,Houston,Associate,Meets Expectations,7.0,Hybrid,6%
+1034,Charlie Jones,Engineering,"$127,727",57.0,23,Los Angeles,Master,,32.0,Remote,21%
+1035,Eva White,HR,,31.0,29,Houston,PhD,Meets Expectations,30.0,Onsite,22%
+1036,Nina Hill,Operations,"$131,762",62.0,19,San Diego,Associate,,21.0,Remote,25%
+1037,  Michael Hill  ,Product,"$87,915",,11,,High School,Meets Expectations,11.0,Onsite,
+1038,Quinn Wilson,,"$46,200",28.0,27,Houston,Master,Needs Improvement,36.0,Remote,5%
+1039,Alice Miller,HR,"$110,864",39.0,5 years,San Antonio,Associate,Outstanding,42.0,Onsite,23%
+1040,Rachel Wilson,Engineering,"$119,804",30.0,19,Houston,PhD,Meets Expectations,3.0,Onsite,12%
+1041,Kevin Miller,Sales,"$102,483",28.0,26,Houston,Master,Meets Expectations,8.0,Onsite,13%
+1042,Frank King,Engineering,"$131,702",61.0,24,,High School,Exceeds Expectations,8.0,Remote,20%
+1043,  Ian Scott  ,Operations,"$64,453",29.0,29, Phoenix ,,Outstanding,28.0,Remote,20%
+1044,Quinn Miller,Marketing,"$106,207",53.0,2 years,San Diego,,Meets Expectations,16.0,Remote,11%
+1045,Julia Scott,,"$55,218",34.0,6,Houston,High School,Outstanding,,Onsite,7%
+1046,Eva Hall,Legal,"$138,245",55.0,7 yrs,Chicago,Bachelor,,11.0,Remote,11%
+1047,Rachel Scott,Marketing,"$88,566",44.0,2,houston,Associate,Outstanding,20.0,Hybrid,
+1048,Tina Clark,Legal,"$111,594",40.0,6 yrs,San Diego,Associate,Outstanding,45.0,Onsite,
+1049,David Hall,Sales,"$57,548",57.0,,San Diego,High School,Outstanding,9.0,Onsite,11%
+1050,Julia Taylor,Sales,"$102,426",35.0,25,San Antonio,Associate,Outstanding,9.0,Hybrid,6%
+1051,  Sam Brown  ,Marketing,,52.0,19,Philadelphia,High School,,20.0,Remote,13%
+1052,  Paula Brown  ,Product,,22.0,34,Chicago,High School,Needs Improvement,41.0,Hybrid,25%
+1053,Rachel Green,Finance,"$47,969",,,San Antonio,High School,Exceeds Expectations,25.0,Remote,25%
+1054,  Paula Torres  ,Engineering,"$58,793",,21,,Master,Meets Expectations,7.0,Remote,21%
+1055,  Quinn Hill  ,,"$139,349",58.0,35,dallas,High School,Meets Expectations,40.0,,10%
+1056,Grace Torres,Legal,"$115,263",31.0,9,San Diego,Master,Outstanding,29.0,Hybrid,12%
+1057,Grace Davis,,"$99,573",54.0,12,Los Angeles,Associate,Exceeds Expectations,40.0,Hybrid,20%
+1058,Laura King,Legal,"$96,744",,28,Dallas,Bachelor,Outstanding,29.0,Hybrid,25%
+1059,Oliver Miller,Sales,"$126,773",38.0,20,San Antonio,High School,,44.0,Remote,16%
+1060,Charlie Clark,HR,"$48,855",51.0,15,Phoenix,Master,,41.0,Hybrid,14%
+1061,  Rachel Taylor  ,Finance,"$70,560",40.0,24,New York,PhD,Meets Expectations,24.0,Onsite,
+1062,Alice Brown,Operations,"$94,104",25.0,1 yrs,San Diego,Bachelor,Needs Improvement,19.0,Onsite,14%
+1063,Bob Taylor,Product,"$71,385",,23,New York,High School,,44.0,Onsite,19%
+1064,  Bob Clark  ,Engineering,"$53,691",24.0,32,Chicago,PhD,Exceeds Expectations,18.0,Onsite,18%
+1065,  Hannah Wilson  ,Operations,"$113,291",45.0,1,Philadelphia,Bachelor,Outstanding,6.0,Hybrid,19%
+1066,Grace Torres,,"$70,568",42.0,15,New York,Bachelor,Exceeds Expectations,11.0,Remote,8%
+1067,  Sam Nguyen  ,Sales,"$130,983",29.0,13,,PhD,Exceeds Expectations,11.0,Hybrid,17%
+1068,Paula Allen,Legal,"$126,420",,26,Philadelphia,High School,Needs Improvement,26.0,Remote,20%
+1069,  David Allen  ,,"$123,501",24.0,25,Phoenix,,Needs Improvement,32.0,Remote,20%
+1070,Nina King,Operations,"$89,460",,6,Houston,Associate,Needs Improvement,9.0,Hybrid,12%
+1071,Bob Miller,Sales,"$124,276",32.0,18,,PhD,Meets Expectations,19.0,Remote,
+1072,  Kevin Miller  ,Engineering,"$135,919",50.0,18,New York,Master,Outstanding,22.0,Hybrid,11%
+1073,Grace Torres,Engineering,"$123,704",39.0,12 years,Philadelphia,High School,Exceeds Expectations,13.0,Hybrid,18%
+1074,Nina White,Operations,"$62,420",27.0,29,Philadelphia,,Outstanding,24.0,Remote,
+1075,Hannah Brown,Operations,"$84,219",43.0,13,,Bachelor,Exceeds Expectations,29.0,Remote,13%
+1076,Rachel Miller,Marketing,"$133,244",47.0,35 yrs,Dallas,High School,Outstanding,28.0,Remote,18%
+1077,  Rachel Smith  ,Legal,"$98,710",51.0,9, Houston ,PhD,Meets Expectations,42.0,Onsite,19%
+1078,Hannah White,Legal,"$94,533",46.0,15 years, Dallas ,PhD,Needs Improvement,43.0,Hybrid,13%
+1079,Paula Lee,Marketing,"$126,650",52.0,27,Houston,High School,Exceeds Expectations,26.0,Hybrid,13%
+1080,Bob White,,"$127,277",32.0,24,Philadelphia,Associate,Needs Improvement,33.0,Remote,12%
+1081,Michael Wilson,Legal,"$107,395",25.0,22 yrs,San Antonio,Master,Meets Expectations,33.0,Remote,6%
+1082,Oliver Davis,,"$85,962",32.0,18,,High School,Outstanding,16.0,Onsite,18%
+1083,Rachel Wright,HR,"$51,986",59.0,,San Diego,High School,Meets Expectations,39.0,Hybrid,10%
+1084,  Julia Lee  ,Operations,"$46,596",58.0,13,San Diego,PhD,Meets Expectations,35.0,Hybrid,25%
+1085,Sam Torres,Product,"$94,675",33.0,25,Dallas,,,16.0,Remote,24%
+1086,  Kevin Jones  ,Legal,"$108,518",44.0,16,Philadelphia,Associate,Outstanding,17.0,Hybrid,9%
+1087,  Paula Scott  ,HR,"$98,827",30.0,16, Los Angeles ,Master,Needs Improvement,15.0,Remote,5%
+1088,Quinn White,Sales,"$107,271",53.0,,los angeles,PhD,Meets Expectations,3.0,Remote,5%
+1089,  Quinn Brown  ,Operations,"$48,914",48.0,7,Phoenix,High School,Meets Expectations,32.0,,7%
+1090,Charlie Hill,Operations,"$82,133",26.0,31,,Bachelor,Exceeds Expectations,9.0,,15%
+1091,  Hannah Young  ,Product,"$113,395",42.0,21,Los Angeles,Bachelor,Outstanding,,Hybrid,22%
+1092,  Sam Taylor  ,Product,"$103,679",,34 years,Houston,PhD,Outstanding,10.0,Remote,
+1093,Bob Hill,Marketing,"$108,662",55.0,24,Phoenix,Bachelor,Needs Improvement,11.0,Remote,
+1094,  Sam Nguyen  ,Legal,"$118,216",58.0,14,Chicago,Bachelor,,37.0,Onsite,22%
+1095,Ian Lee,Finance,"$114,943",36.0,28,New York,Associate,Exceeds Expectations,28.0,,10%
+1096,Kevin Taylor,Product,"$114,942",43.0,18,,Bachelor,Exceeds Expectations,16.0,Remote,17%
+1097,Eva Davis,,"$137,551",61.0,16 years,Houston,Associate,Outstanding,,Hybrid,12%
+1098,Charlie Smith,Marketing,"$99,204",,31,Philadelphia,High School,Needs Improvement,11.0,Hybrid,10%
+1099,Sam Miller,Operations,"$128,869",37.0,6,Philadelphia,Bachelor,Outstanding,3.0,Onsite,15%
+1100,  Grace Scott  ,Operations,"$49,560",46.0,22,Dallas,Associate,,29.0,Onsite,22%
+1101,Laura Brown,Finance,"$56,549",57.0,4 yrs,Phoenix,Bachelor,,8.0,Onsite,5%
+1102,Laura Davis,Product,"$60,894",61.0,7 years, Phoenix ,Master,Outstanding,6.0,Onsite,
+1103,  Rachel Davis  ,Legal,"$71,930",,23,San Diego,Associate,Outstanding,40.0,Onsite,
+1104,Quinn Smith,Sales,"$133,459",32.0,13 years, New York ,Associate,Exceeds Expectations,3.0,Remote,8%
+1105,Rachel Davis,Operations,"$123,747",52.0,17,Chicago,High School,Meets Expectations,11.0,Hybrid,20%
+1106,David Green,Product,"$123,242",32.0,29,Dallas,High School,Meets Expectations,,Remote,
+1107,David Torres,Sales,"$71,924",,32, Chicago ,Bachelor,Needs Improvement,,Onsite,5%
+1108,  Julia Hill  ,,,37.0,23,Philadelphia,Master,Meets Expectations,28.0,Remote,12%
+1109,Kevin Lee,Operations,"$80,711",39.0,11 years, Philadelphia ,Associate,Needs Improvement,13.0,Onsite,
+1110,Ian Scott,Marketing,"$86,820",,17,New York,PhD,Meets Expectations,10.0,Hybrid,17%
+1111,Bob Brown,Marketing,"$118,373",46.0,33,Chicago,,Outstanding,21.0,Hybrid,9%
+1112,Ian Jones,Legal,"$110,795",37.0,2,Chicago,Associate,Needs Improvement,23.0,Onsite,13%
+1113,  Eva Wilson  ,,"$62,868",,16,New York,Master,Meets Expectations,43.0,Remote,7%
+1114,  Oliver Torres  ,,"$52,383",58.0,,Chicago,Bachelor,,20.0,Remote,
+1115,Rachel Smith,Operations,"$61,818",53.0,25,chicago,High School,,5.0,Remote,18%
+1116,  Eva Torres  ,Sales,"$76,249",29.0,10,Dallas,Bachelor,,4.0,Hybrid,
+1117,  Laura Nguyen  ,Legal,"$76,879",23.0,21 yrs,San Diego,PhD,,13.0,Onsite,22%
+1118,Nina Green,Operations,"$95,601",48.0,,Chicago,Bachelor,,2.0,Remote,9%
+1119,  Laura Jones  ,Engineering,"$125,375",,9,San Diego,Bachelor,Outstanding,29.0,Hybrid,
+1120,Grace Taylor,Operations,"$93,562",27.0,,San Diego,High School,Needs Improvement,31.0,Remote,17%
+1121,Laura Torres,Finance,,61.0,, Dallas ,PhD,,18.0,Hybrid,24%
+1122,Nina Hill,Engineering,"$56,512",54.0,3,,Bachelor,Needs Improvement,34.0,Remote,15%
+1123,Hannah White,,"$80,811",51.0,32,Houston,,Needs Improvement,16.0,Remote,5%
+1124,Frank Allen,Product,"$92,565",45.0,17 years,,Associate,,12.0,Remote,19%
+1125,  Kevin Allen  ,Engineering,"$86,695",36.0,1,,High School,Needs Improvement,7.0,Hybrid,13%
+1126,Hannah Wilson,Finance,,43.0,32,Dallas,Associate,Exceeds Expectations,10.0,,23%
+1127,  David Young  ,HR,"$138,195",61.0,30, Phoenix ,Bachelor,Outstanding,27.0,Onsite,14%
+1128,Paula Taylor,Finance,"$103,750",45.0,,,PhD,Outstanding,16.0,Hybrid,12%
+1129,  Oliver Hall  ,Legal,"$90,970",29.0,27,Los Angeles,High School,Exceeds Expectations,37.0,Onsite,22%
+1130,Hannah Taylor,Marketing,,,4,San Diego,,Meets Expectations,6.0,Remote,14%
+1131,  Grace Young  ,Legal,"$72,539",22.0,3,New York,,Outstanding,31.0,Hybrid,22%
+1132,Charlie Wilson,Legal,"$108,374",62.0,5,Chicago,Bachelor,Needs Improvement,43.0,Remote,17%
+1133,Quinn Young,Operations,"$81,445",40.0,7 years,San Antonio,Associate,Exceeds Expectations,26.0,,
+1134,Rachel Clark,Engineering,"$61,679",45.0,13,Philadelphia,Master,Needs Improvement,25.0,Onsite,17%
+1135,David Wilson,Finance,"$88,798",24.0,12,dallas,Master,Outstanding,14.0,Onsite,22%
+1136,  Ian Jones  ,Marketing,"$50,201",53.0,7,San Diego,High School,Meets Expectations,8.0,Hybrid,19%
+1137,  Nina Hall  ,Marketing,"$103,116",48.0,30,San Diego,Associate,,,Onsite,5%
+1138,Kevin Allen,HR,"$65,551",61.0,7,San Antonio,Master,,23.0,Remote,12%
+1139,Quinn Miller,HR,"$99,307",29.0,26, Los Angeles ,Master,Meets Expectations,,Hybrid,20%
+1140,Sam Lee,HR,"$61,765",47.0,35,Dallas,Associate,Outstanding,36.0,Hybrid,25%
+1141,Nina Smith,Sales,"$80,195",34.0,23,,Associate,Meets Expectations,15.0,Remote,9%
+1142,Rachel Lee,Operations,"$77,184",28.0,21,san antonio,Bachelor,,21.0,Hybrid,7%
+1143,Charlie Clark,Marketing,"$128,269",24.0,28,Phoenix,Associate,Exceeds Expectations,14.0,Onsite,
+1144,David Davis,Engineering,,59.0,16, Chicago ,Master,,4.0,Hybrid,20%
+1145,Nina Clark,,"$137,816",50.0,17,Phoenix,,Needs Improvement,7.0,Hybrid,7%
+1146,Julia Torres,Legal,"$99,771",59.0,26 years,,High School,Exceeds Expectations,38.0,Hybrid,24%
+1147,  Nina Young  ,Product,"$57,101",30.0,2,Phoenix,PhD,Meets Expectations,,Onsite,21%
+1148,Frank Hill,Engineering,"$54,235",22.0,20 yrs,houston,High School,Outstanding,32.0,Remote,23%
+1149,Michael Torres,Operations,"$111,796",25.0,21 yrs,,Master,Needs Improvement,,Hybrid,6%
+1150,Julia Davis,Legal,"$46,812",49.0,18, San Diego ,Associate,Outstanding,21.0,Onsite,13%
+1151,Sam Hill,Operations,"$60,980",52.0,10 years,Phoenix,Master,Needs Improvement,,Remote,15%
+1152,Oliver King,Marketing,"$61,589",33.0,17,houston,Associate,Exceeds Expectations,20.0,Onsite,6%
+1153,Grace Scott,Marketing,,33.0,15,San Diego,,Meets Expectations,34.0,Hybrid,23%
+1154,Frank Brown,Sales,"$138,925",30.0,26,,,Needs Improvement,27.0,Onsite,5%
+1155,Tina Clark,Marketing,"$85,476",60.0,5,San Diego,Master,,10.0,,11%
+1156,  Hannah Davis  ,Marketing,"$62,491",42.0,12,San Diego,PhD,Exceeds Expectations,8.0,Onsite,20%
+1157,Grace Green,HR,"$62,756",46.0,7,Philadelphia,Master,Outstanding,34.0,Onsite,15%
+1158,  Hannah Wright  ,Finance,"$63,170",60.0,25 years, Phoenix ,PhD,Outstanding,11.0,Remote,12%
+1159,Charlie King,Finance,"$46,724",37.0,23,,PhD,Outstanding,,,20%
+1160,Sam Lee,Finance,"$101,459",43.0,8,Chicago,High School,Meets Expectations,32.0,Remote,7%
+1161,Michael Wright,Finance,"$125,866",50.0,1,,PhD,Meets Expectations,4.0,,18%
+1162,Eva Smith,Engineering,"$97,730",30.0,4,philadelphia,High School,Needs Improvement,11.0,Remote,17%
+1163,David Allen,Marketing,"$72,188",54.0,,Los Angeles,PhD,,7.0,Onsite,5%
+1164,Quinn King,Marketing,"$62,870",57.0,10,Chicago,,Needs Improvement,7.0,Hybrid,8%
+1165,  Hannah Miller  ,Operations,"$138,493",57.0,10 yrs,Chicago,Bachelor,Exceeds Expectations,16.0,Hybrid,19%
+1166,Oliver Scott,Sales,"$99,422",34.0,29,Phoenix,Bachelor,Exceeds Expectations,45.0,Hybrid,8%
+1167,Tina Clark,Sales,"$76,383",40.0,6,philadelphia,Master,Exceeds Expectations,12.0,Remote,
+1168,Oliver Hill,,"$76,666",30.0,26 years,chicago,High School,Needs Improvement,34.0,Onsite,10%
+1169,Quinn Allen,Finance,"$137,722",33.0,4,Philadelphia,Associate,Outstanding,40.0,Hybrid,21%
+1170,Rachel King,Product,"$133,127",62.0,26, Chicago ,,,23.0,Onsite,22%
+1171,Paula King,Sales,"$129,996",29.0,9,Houston,Bachelor,Meets Expectations,10.0,Hybrid,5%
+1172,Hannah Wilson,Finance,"$111,721",57.0,13,Dallas,High School,Needs Improvement,25.0,Remote,18%
+1173,Quinn Wright,Finance,"$140,501",58.0,13,Dallas,PhD,Outstanding,29.0,Remote,13%
+1174,Ian King,Product,"$51,902",48.0,34,Los Angeles,High School,Outstanding,,Hybrid,24%
+1175,  Julia Taylor  ,Engineering,"$75,606",56.0,,Los Angeles,PhD,Outstanding,45.0,Hybrid,23%
+1176,Kevin Torres,Marketing,"$75,611",49.0,21,San Diego,Bachelor,Meets Expectations,15.0,Remote,9%
+1177,  Eva Taylor  ,Legal,"$54,640",55.0,8,Chicago,PhD,Exceeds Expectations,40.0,Onsite,11%
+1178,Eva Lee,Operations,"$46,469",46.0,23,Dallas,High School,,,Remote,16%
+1179,  Nina Clark  ,Operations,"$61,496",25.0,2,phoenix,,,42.0,Remote,13%
+1180,Nina Jones,Operations,"$117,530",32.0,23, Houston ,PhD,Meets Expectations,8.0,Hybrid,11%
+1181,Nina Young,Operations,"$132,276",38.0,29,Houston,PhD,Needs Improvement,11.0,Hybrid,9%
+1182,Sam Smith,Marketing,"$54,117",25.0,15,Los Angeles,Associate,Meets Expectations,21.0,Hybrid,20%
+1183,Sam Young,Engineering,"$46,368",40.0,6 years,los angeles,Master,Outstanding,7.0,Hybrid,
+1184,Laura Davis,Legal,"$52,908",56.0,10,san antonio,High School,Needs Improvement,31.0,Onsite,9%
+1185,Nina Torres,Legal,"$81,743",,1,Dallas,Bachelor,Meets Expectations,20.0,Remote,5%
+1186,Rachel Hill,Engineering,"$98,533",28.0,20,phoenix,Associate,Outstanding,19.0,Remote,11%
+1187,Paula Taylor,,"$55,755",57.0,,New York,Master,Exceeds Expectations,24.0,Remote,8%
+1188,Paula Smith,Product,"$123,256",57.0,35,Houston,High School,Meets Expectations,,Onsite,15%
+1189,Michael White,Marketing,"$84,180",54.0,17,philadelphia,PhD,Meets Expectations,31.0,Hybrid,
+1190,Eva Hill,Operations,"$71,927",40.0,10,Phoenix,High School,,32.0,Hybrid,24%
+1191,Michael Nguyen,Marketing,"$86,500",25.0,25,Chicago,Master,,30.0,Hybrid,16%
+1192,Alice Brown,Legal,"$128,797",46.0,3,Houston,Associate,Exceeds Expectations,10.0,,12%
+1193,Eva King,Finance,"$84,815",42.0,,,Associate,,38.0,Remote,5%
+1194,  Ian Young  ,Engineering,"$75,159",25.0,18 yrs,New York,Bachelor,Meets Expectations,25.0,Hybrid,13%
+1195,Oliver Clark,Legal,"$100,218",,, Phoenix ,Bachelor,Outstanding,27.0,Hybrid,18%
+1196,Michael Wilson,HR,"$122,156",61.0,18,New York,Associate,,41.0,Onsite,14%
+1197,Nina Wilson,Sales,"$139,773",50.0,24,,Associate,Needs Improvement,10.0,Hybrid,17%
+1198,Paula Smith,,"$60,112",62.0,,Dallas,PhD,Exceeds Expectations,34.0,Remote,22%
+1199,Bob Hall,Legal,"$134,111",45.0,25,Chicago,Bachelor,Needs Improvement,22.0,,11%
+1200,Charlie Jones,Sales,"$89,635",56.0,7,Chicago,Associate,Outstanding,45.0,Remote,
+1201,Hannah Lee,Product,"$137,365",34.0,35 years,San Antonio,Associate,Meets Expectations,30.0,Remote,11%
+1202,Tina Green,Finance,"$61,867",34.0,2 yrs,Los Angeles,Bachelor,Outstanding,45.0,Onsite,13%
+1203,Paula Miller,Product,"$79,850",33.0,32, San Diego ,Bachelor,,,Hybrid,9%
+1204,Grace King,Product,"$48,443",26.0,23,Philadelphia,PhD,Meets Expectations,5.0,Hybrid,23%
+1205,Laura White,,"$79,636",33.0,20,new york,High School,Meets Expectations,17.0,Hybrid,17%
+1206,David White,Operations,,29.0,33,San Antonio,Associate,Meets Expectations,37.0,Hybrid,23%
+1207,David Nguyen,Engineering,"$118,742",49.0,,Phoenix,PhD,Needs Improvement,,Hybrid,24%
+1208,  Julia Nguyen  ,Legal,,38.0,25,Houston,Bachelor,Meets Expectations,20.0,Onsite,20%
+1209,Michael Young,Finance,"$91,156",59.0,2, San Antonio ,Master,Outstanding,38.0,,5%
+1210,Grace Brown,Engineering,"$117,270",22.0,15,,,Meets Expectations,6.0,Onsite,11%
+1211,Hannah Miller,Engineering,"$77,891",31.0,9 years,San Diego,Associate,Outstanding,31.0,Hybrid,
+1212,Julia Hill,Operations,"$118,790",,15,New York,Bachelor,Outstanding,24.0,Hybrid,9%
+1213,Sam Jones,Operations,"$74,858",60.0,28,Los Angeles,PhD,Outstanding,43.0,Onsite,20%
+1214,Nina Hall,HR,"$50,979",,22, Los Angeles ,,Exceeds Expectations,31.0,Hybrid,15%
+1215,  Kevin Smith  ,Product,"$76,147",61.0,9,Los Angeles,Bachelor,Meets Expectations,13.0,Onsite,
+1216,Paula Miller,Sales,"$94,253",41.0,13,chicago,Master,Outstanding,27.0,Onsite,9%
+1217,Laura King,,"$49,666",58.0,34,Philadelphia,High School,,14.0,Remote,19%
+1218,Nina White,Legal,"$136,858",26.0,10, San Antonio ,Master,Needs Improvement,6.0,Remote,20%
+1219,Ian Hill,Marketing,"$73,429",42.0,11,San Diego,PhD,Exceeds Expectations,40.0,Onsite,21%
+1220,Rachel Wright,Marketing,"$137,427",33.0,8,Phoenix,Bachelor,Meets Expectations,32.0,Onsite,12%
+1221,Sam Wilson,Operations,"$54,685",54.0,10,San Antonio,,Outstanding,31.0,,17%
+1222,Hannah Brown,Finance,"$109,789",56.0,27,San Antonio,Bachelor,Exceeds Expectations,,Remote,20%
+1223,Oliver Taylor,Legal,"$67,328",27.0,18,Chicago,PhD,Meets Expectations,32.0,Hybrid,21%
+1224,Sam Hill,Finance,"$50,510",35.0,9,Phoenix,Master,Meets Expectations,15.0,Onsite,7%
+1225,Kevin Smith,Sales,,43.0,18,chicago,Master,Needs Improvement,4.0,Remote,11%
+1226,Kevin White,Engineering,"$81,892",35.0,15,Los Angeles,Bachelor,Needs Improvement,26.0,Remote,25%
+1227,Laura Wilson,Finance,"$86,188",61.0,,,Associate,Meets Expectations,,Hybrid,9%
+1228,Tina Wilson,Sales,"$46,477",57.0,, Philadelphia ,Bachelor,Outstanding,29.0,Onsite,22%
+1229,Quinn Lee,Finance,"$117,903",22.0,9,Los Angeles,Associate,Meets Expectations,15.0,Remote,13%
+1230,  Nina Wright  ,HR,"$124,348",44.0,24,Dallas,Bachelor,Needs Improvement,,Remote,22%
+1231,Hannah Wright,Legal,"$120,605",61.0,31 years,Houston,Associate,Outstanding,45.0,Hybrid,25%
+1232,Paula King,Product,"$70,850",37.0,,Dallas,Bachelor,Needs Improvement,18.0,Hybrid,5%
+1233,Charlie Davis,HR,"$76,254",42.0,1,Dallas,High School,,7.0,Onsite,19%
+1234,Hannah Davis,,,29.0,15,New York,Bachelor,Exceeds Expectations,19.0,Onsite,16%
+1235,Laura Wright,Engineering,"$74,654",56.0,14 yrs,Los Angeles,Bachelor,Meets Expectations,21.0,Hybrid,11%
+1236,Laura Allen,Legal,"$133,998",23.0,32,San Antonio,High School,Outstanding,30.0,Onsite,11%
+1237,Rachel Clark,Marketing,,45.0,16,,,Needs Improvement,35.0,Onsite,10%
+1238,Oliver Wilson,HR,"$129,485",54.0,25,Phoenix,High School,Outstanding,18.0,Remote,5%
+1239,Hannah Miller,Legal,"$138,414",24.0,35, San Antonio ,,Meets Expectations,5.0,Onsite,16%
+1240,Kevin Miller,Sales,"$112,343",34.0,3,San Diego,Associate,Outstanding,,Hybrid,5%
+1241,Frank Lee,HR,"$52,245",27.0,3,San Diego,,Needs Improvement,23.0,Hybrid,15%
+1242,Paula Wilson,Legal,"$56,144",32.0,35,San Diego,High School,Outstanding,21.0,Remote,
+1243,Quinn Hill,Operations,"$111,522",56.0,25,dallas,,Outstanding,24.0,Onsite,13%
+1244,David Lee,Legal,"$92,569",62.0,4,San Antonio,Master,Needs Improvement,32.0,Remote,5%
+1245,Laura White,Operations,"$55,694",,20,Phoenix,Associate,,12.0,Remote,6%
+1246,Rachel Green,Finance,"$62,752",35.0,11,,,,29.0,Hybrid,25%
+1247,Bob Torres,HR,"$54,706",49.0,4,,High School,Meets Expectations,38.0,Onsite,6%
+1248,Eva Wright,Finance,"$100,778",35.0,30,Philadelphia,Associate,,2.0,Hybrid,13%
+1249,  Alice Nguyen  ,HR,"$75,398",49.0,33 yrs,Philadelphia,Bachelor,Outstanding,40.0,Onsite,6%
+1250,Paula King,Finance,"$85,920",26.0,35 years,Philadelphia,PhD,Needs Improvement,44.0,Onsite,5%
+1251,Bob Wilson,HR,"$139,434",31.0,12,,Bachelor,Meets Expectations,11.0,Remote,20%
+1252,Paula Miller,Legal,"$79,339",,13,Houston,Associate,Outstanding,22.0,Remote,25%
+1253,Michael Wright,Operations,,24.0,,Los Angeles,Associate,Meets Expectations,,Hybrid,10%
+1254,  Bob Green  ,Finance,"$119,211",,11,chicago,Master,,11.0,Onsite,25%
+1255,  Sam Davis  ,Product,"$66,560",,8,San Diego,Master,,22.0,Remote,8%
+1256,  Hannah Miller  ,Product,"$97,223",57.0,6,Dallas,PhD,Meets Expectations,45.0,Remote,
+1257,Nina Hill,Marketing,"$71,562",,33,San Diego,High School,Needs Improvement,35.0,Remote,
+1258,Tina Taylor,Finance,"$78,972",38.0,25 years,San Antonio,High School,Outstanding,30.0,,9%
+1259,Michael King,Engineering,"$65,926",50.0,10,Los Angeles,Master,,10.0,Remote,10%
+1260,Julia Nguyen,Legal,"$135,813",49.0,4,Houston,Bachelor,Needs Improvement,42.0,,9%
+1261,Julia Nguyen,Legal,"$72,955",46.0,29, Philadelphia ,Associate,Meets Expectations,8.0,Hybrid,
+1262,Tina Miller,Finance,"$63,193",56.0,9,San Antonio,PhD,Needs Improvement,,Hybrid,8%
+1263,Grace Lee,Finance,"$90,505",,,Los Angeles,Associate,Meets Expectations,14.0,Hybrid,
+1264,Charlie White,HR,"$131,406",26.0,1,Phoenix,Master,,36.0,,6%
+1265,Rachel Brown,HR,"$67,131",59.0,35,San Antonio,Associate,Exceeds Expectations,40.0,Onsite,22%
+1266,  Nina King  ,Sales,"$102,669",,32,Los Angeles,PhD,,24.0,Remote,11%
+1267,Paula Davis,Operations,"$76,196",44.0,31,Philadelphia,Associate,,14.0,Onsite,5%
+1268,  Julia Davis  ,Engineering,"$62,224",28.0,1,Dallas,Master,Meets Expectations,38.0,Remote,15%
+1269,Oliver Brown,Marketing,,41.0,14 years,Los Angeles,,,25.0,Onsite,10%
+1270,Ian Nguyen,,"$73,233",40.0,3 years,Phoenix,Associate,Needs Improvement,3.0,Hybrid,23%
+1271,Grace Allen,Marketing,"$96,481",50.0,20,Houston,High School,,21.0,Remote,16%
+1272,  Hannah Green  ,Legal,"$127,186",23.0,,Dallas,Master,,9.0,Hybrid,17%
+1273,Eva Brown,HR,"$78,932",56.0,,Chicago,Master,Meets Expectations,43.0,Onsite,6%
+1274,  Julia Hill  ,Finance,,47.0,11,Dallas,PhD,Needs Improvement,28.0,Onsite,
+1275,Sam Davis,Sales,"$70,761",56.0,12,Houston,High School,Needs Improvement,24.0,Hybrid,21%
+1276,Oliver Davis,Engineering,"$61,194",62.0,24,San Diego,High School,Exceeds Expectations,29.0,Hybrid,13%
+1277,Ian Scott,HR,"$87,225",45.0,,San Antonio,PhD,Outstanding,23.0,Onsite,
+1278,Oliver Brown,Sales,,22.0,24,New York,Associate,,13.0,Onsite,13%
+1279,Nina Clark,Marketing,"$66,687",57.0,28,Chicago,Associate,Exceeds Expectations,25.0,Hybrid,21%
+1280,Alice Brown,Marketing,"$137,504",24.0,,Phoenix,PhD,Exceeds Expectations,40.0,Onsite,25%
+1281,Sam Nguyen,Sales,"$93,799",,8,Los Angeles,High School,Meets Expectations,29.0,Remote,5%
+1282,Ian Nguyen,Product,"$90,319",56.0,34,Phoenix,Bachelor,Needs Improvement,44.0,Remote,22%
+1283,  Frank Wright  ,Marketing,"$80,386",27.0,14,Phoenix,Bachelor,Meets Expectations,29.0,Onsite,15%
+1284,Oliver Wilson,Finance,"$64,135",44.0,, Houston ,Master,,41.0,,7%
+1285,  Sam Allen  ,Sales,"$123,351",54.0,34,Houston,Master,Meets Expectations,8.0,Hybrid,19%
+1286,Paula Brown,Engineering,"$108,521",33.0,19,San Diego,PhD,Meets Expectations,8.0,Remote,
+1287,Nina Clark,Operations,"$106,162",38.0,17,New York,High School,Exceeds Expectations,,Onsite,10%
+1288,David White,Legal,"$94,240",33.0,23,New York,Master,,,,10%
+1289,Paula Davis,Marketing,"$127,916",58.0,32, Dallas ,Bachelor,Needs Improvement,8.0,,25%
+1290,Michael Torres,Legal,"$125,921",57.0,32,San Diego,Bachelor,Exceeds Expectations,41.0,Onsite,10%
+1291,  Charlie Clark  ,Engineering,"$47,491",57.0,15,,Associate,Meets Expectations,8.0,Remote,11%
+1292,David Young,Legal,"$90,591",,1 years,Philadelphia,PhD,Needs Improvement,34.0,Hybrid,19%
+1293,Alice Torres,Marketing,"$107,452",38.0,14,San Antonio,Associate,Outstanding,4.0,,
+1294,Bob Lee,,"$109,429",,27 years,Los Angeles,PhD,Meets Expectations,28.0,Remote,12%
+1295,Tina Wright,Finance,"$68,126",53.0,14 years,Chicago,,Needs Improvement,31.0,Hybrid,25%
+1296,Bob Lee,HR,"$73,130",44.0,5,Dallas,,Exceeds Expectations,9.0,Hybrid,11%
+1297,Eva Davis,Product,"$80,159",37.0,21,Dallas,Master,Meets Expectations,32.0,Onsite,9%
+1298,Paula Miller,Operations,"$105,642",61.0,,Houston,PhD,Meets Expectations,24.0,Onsite,17%
+1299,  Tina Taylor  ,,"$119,338",,26,Philadelphia,PhD,Meets Expectations,31.0,Remote,10%
+1300,Julia Torres,Marketing,"$57,353",53.0,2,San Antonio,Master,Outstanding,43.0,Remote,23%
+1301,  Nina Brown  ,Legal,"$79,646",61.0,22,San Antonio,Bachelor,Meets Expectations,27.0,Onsite,12%
+1302,David King,HR,"$139,157",59.0,31,Houston,PhD,,,Onsite,13%
+1303,Eva Wright,,"$73,689",58.0,31,Phoenix,Bachelor,,16.0,Onsite,10%
+1304,Julia Scott,Legal,"$94,463",42.0,35,,Master,,19.0,Hybrid,13%
+1305,Nina Wright,Operations,"$67,280",32.0,27,Los Angeles,Bachelor,Needs Improvement,18.0,Onsite,13%
+1306,Hannah King,Sales,"$85,925",,,Houston,Master,Needs Improvement,28.0,Onsite,
+1307,Michael Lee,Operations,"$90,705",36.0,21,Chicago,Master,Exceeds Expectations,2.0,Onsite,16%
+1308,Quinn Green,Sales,,49.0,,phoenix,PhD,Meets Expectations,28.0,,25%
+1309,Ian Allen,Legal,"$117,677",45.0,22,New York,Associate,Meets Expectations,,Remote,25%
+1310,Quinn Wilson,Product,"$69,956",43.0,23 years,New York,Associate,Needs Improvement,,,10%
+1311,Julia Davis,Finance,"$108,655",51.0,22,Houston,Bachelor,Meets Expectations,35.0,Hybrid,
+1312,Sam Wright,Finance,"$107,138",41.0,11,Philadelphia,Master,Needs Improvement,40.0,Remote,17%
+1313,Oliver Torres,HR,"$74,716",28.0,8,Dallas,Master,Needs Improvement,12.0,Remote,23%
+1314,Kevin Torres,Marketing,"$112,589",60.0,21,san antonio,PhD,Exceeds Expectations,29.0,Onsite,18%
+1315,Michael King,Legal,,,6,Phoenix,High School,Outstanding,27.0,Onsite,14%
+1316,Grace Taylor,Operations,"$70,925",30.0,29,Houston,Master,,43.0,Hybrid,21%
+1317,Hannah Allen,Legal,"$136,281",34.0,34,Chicago,Associate,Exceeds Expectations,5.0,Hybrid,13%
+1318,  Paula Young  ,HR,"$86,160",62.0,,San Antonio,Associate,Needs Improvement,38.0,Remote,
+1319,Eva Wright,Engineering,,,13,Los Angeles,Master,Meets Expectations,42.0,Onsite,13%
+1320,Eva Scott,Operations,"$63,892",,2,San Diego,Bachelor,Outstanding,13.0,Remote,13%
+1321,Kevin Miller,,"$112,981",,10,Philadelphia,PhD,Outstanding,22.0,Hybrid,
+1322,Oliver Miller,Sales,"$54,482",23.0,34,Los Angeles,Associate,Meets Expectations,29.0,Hybrid,25%
+1323,Oliver Smith,HR,"$129,505",59.0,7,dallas,High School,Meets Expectations,10.0,Remote,9%
+1324,Nina Green,Marketing,"$88,409",59.0,9,Dallas,Bachelor,Meets Expectations,42.0,Hybrid,15%
+1325,  Ian Clark  ,Legal,"$65,849",24.0,,New York,Associate,Exceeds Expectations,27.0,Onsite,17%
+1326,Michael Brown,HR,"$126,598",56.0,34 years,Chicago,,,42.0,Remote,6%
+1327,Rachel Young,Legal,"$67,824",56.0,,chicago,Associate,Exceeds Expectations,37.0,Hybrid,8%
+1328,Paula Torres,,"$133,728",31.0,6,Phoenix,Associate,Meets Expectations,22.0,Onsite,5%
+1329,  Charlie Taylor  ,Sales,"$73,781",36.0,7,,PhD,Outstanding,7.0,Onsite,20%
+1330,Julia Taylor,Product,"$67,487",59.0,20 yrs,Dallas,Associate,Meets Expectations,,Hybrid,25%
+1331,Nina Miller,Sales,"$133,401",40.0,14,Chicago,High School,Exceeds Expectations,,Hybrid,10%
+1332,David King,Finance,"$138,101",54.0,18,Philadelphia,Associate,Exceeds Expectations,11.0,Onsite,14%
+1333,  Julia Smith  ,Product,"$118,500",47.0,8,Chicago,Associate,Outstanding,,Onsite,22%
+1334,  Bob Davis  ,Sales,"$117,133",22.0,8 yrs,Philadelphia,Master,Meets Expectations,7.0,,5%
+1335,Nina Green,Engineering,"$85,928",61.0,14,San Antonio,Master,Needs Improvement,3.0,Remote,24%
+1336,Nina Nguyen,,"$73,754",54.0,18 yrs,San Antonio,Master,Outstanding,10.0,Remote,23%
+1337,Frank White,Engineering,"$108,244",32.0,16,houston,PhD,Needs Improvement,42.0,Onsite,17%
+1338,  Tina Young  ,Sales,"$54,343",58.0,22,,High School,Needs Improvement,24.0,Onsite,12%
+1339,Hannah Wright,Engineering,"$85,271",31.0,,Houston,PhD,Needs Improvement,43.0,Hybrid,16%
+1340,Eva Taylor,Legal,"$56,941",52.0,,Houston,Bachelor,Needs Improvement,21.0,Onsite,20%
+1341,Ian King,,"$126,846",24.0,4 years,New York,Bachelor,,17.0,,14%
+1342,Alice King,Marketing,"$102,111",53.0,12, Phoenix ,Associate,Outstanding,26.0,Remote,
+1343,Rachel White,Product,"$76,809",38.0,29,Chicago,Associate,Needs Improvement,44.0,Remote,12%
+1344,  Laura Nguyen  ,Product,,24.0,13,Dallas,,Outstanding,,Onsite,21%
+1345,Nina Wilson,Product,"$58,837",55.0,35 yrs,San Diego,PhD,Meets Expectations,,Remote,18%
+1346,Julia Lee,Marketing,,45.0,9 yrs,Houston,High School,Needs Improvement,3.0,Remote,23%
+1347,Paula Miller,Operations,"$138,529",51.0,7,Phoenix,PhD,Meets Expectations,39.0,Hybrid,5%
+1348,Sam Hall,Product,"$97,604",24.0,30,Chicago,PhD,Needs Improvement,9.0,Hybrid,10%
+1349,Julia Smith,HR,"$89,659",42.0,10,Houston,Bachelor,Exceeds Expectations,40.0,Onsite,24%
+1350,Michael Wilson,Sales,"$106,907",55.0,24,Houston,Master,Needs Improvement,11.0,Remote,21%
+1351,  Bob Hill  ,Legal,"$128,876",39.0,22,chicago,Bachelor,Meets Expectations,13.0,Remote,23%
+1352,Julia Taylor,Product,"$65,562",38.0,30,Houston,Bachelor,Meets Expectations,,Hybrid,9%
+1353,Laura Taylor,HR,,58.0,,Philadelphia,Associate,Exceeds Expectations,25.0,Onsite,6%
+1354,Tina Wilson,Operations,"$82,120",46.0,,los angeles,Bachelor,Exceeds Expectations,15.0,Hybrid,14%
+1355,Eva Miller,HR,"$58,175",26.0,11,Philadelphia,Master,Outstanding,33.0,Remote,9%
+1356,Bob Davis,Engineering,"$93,264",46.0,9,Houston,,Meets Expectations,28.0,Hybrid,19%
+1357,Bob Nguyen,,"$115,195",36.0,7,phoenix,,Needs Improvement,,Onsite,19%
+1358,Eva Brown,Sales,"$123,594",44.0,20,New York,,Meets Expectations,6.0,Hybrid,
+1359,Kevin Allen,Engineering,"$100,769",44.0,27,Philadelphia,Master,Needs Improvement,28.0,Remote,10%
+1360,  Eva Torres  ,Sales,"$100,260",52.0,11,new york,PhD,Outstanding,22.0,Hybrid,7%
+1361,Laura Scott,Sales,,22.0,22,San Antonio,PhD,Meets Expectations,30.0,Hybrid,11%
+1362,Ian White,Sales,"$69,519",30.0,28, Philadelphia ,Associate,,13.0,Hybrid,12%
+1363,Paula Davis,HR,"$137,847",36.0,22,New York,Associate,Outstanding,13.0,Remote,22%
+1364,Kevin Miller,Sales,"$129,388",,5,Dallas,Bachelor,Exceeds Expectations,42.0,Onsite,16%
+1365,Charlie Green,Finance,"$57,150",35.0,32 yrs, San Diego ,PhD,Needs Improvement,4.0,Onsite,
+1366,Hannah Young,Operations,"$115,960",32.0,7,Dallas,High School,Outstanding,23.0,Hybrid,8%
+1367,Rachel Hall,Operations,"$51,469",29.0,26 years,philadelphia,Associate,,32.0,Onsite,17%
+1368,  Michael Smith  ,Marketing,,48.0,25,Phoenix,Bachelor,,40.0,Hybrid,20%
+1369,David King,HR,"$129,740",29.0,4 yrs,Phoenix,Associate,Exceeds Expectations,12.0,Hybrid,19%
+1370,Ian Nguyen,Finance,"$70,199",52.0,1,Phoenix,Master,Needs Improvement,18.0,Hybrid,8%
+1371,Laura Miller,,,59.0,29,Chicago,Master,Meets Expectations,14.0,Remote,15%
+1372,Paula Smith,Marketing,"$82,183",48.0,29,Chicago,Master,Needs Improvement,36.0,Hybrid,9%
+1373,Rachel Clark,Product,"$59,415",,21,san diego,Associate,,,Hybrid,15%
+1374,Hannah Brown,Sales,"$105,600",,20, Houston ,Associate,Needs Improvement,11.0,,18%
+1375,Oliver Davis,Product,"$78,193",32.0,23,Chicago,High School,Meets Expectations,25.0,Hybrid,22%
+1376,David Green,Operations,"$94,289",54.0,33,san diego,Bachelor,Outstanding,15.0,Remote,
+1377,  Bob Davis  ,Product,"$93,478",,19 yrs,Dallas,Master,,,Remote,23%
+1378,David Miller,Product,"$50,369",25.0,1, Chicago ,High School,Exceeds Expectations,7.0,Remote,
+1379,Rachel Green,Legal,"$78,331",33.0,23 years,,High School,Outstanding,10.0,,10%
+1380,Laura Torres,HR,"$117,163",47.0,,Chicago,Bachelor,Exceeds Expectations,32.0,,16%
+1381,Eva Allen,Marketing,"$134,783",58.0,26,Phoenix,Associate,Meets Expectations,7.0,Hybrid,21%
+1382,Paula Hill,Sales,"$130,452",40.0,26,Houston,PhD,Exceeds Expectations,37.0,Onsite,24%
+1383,Ian Jones,Product,"$97,874",35.0,12,Dallas,Bachelor,,31.0,Hybrid,17%
+1384,Grace King,Marketing,"$115,162",52.0,25,Los Angeles,PhD,Outstanding,33.0,Remote,25%
+1385,Hannah Hall,Finance,"$111,528",32.0,27,Los Angeles,High School,Exceeds Expectations,27.0,Hybrid,20%
+1386,  Laura Torres  ,Engineering,"$132,987",48.0,9 years,,High School,Needs Improvement,18.0,Onsite,11%
+1387,Laura Jones,Operations,"$118,341",59.0,,Los Angeles,Associate,Meets Expectations,45.0,Remote,7%
+1388,Grace Miller,,"$55,504",33.0,32,Los Angeles,Associate,,19.0,Remote,25%
+1389,Oliver Brown,HR,"$136,135",54.0,9 yrs,Los Angeles,,Meets Expectations,8.0,Remote,9%
+1390,Tina Smith,,"$111,919",43.0,30,San Diego,Master,Exceeds Expectations,39.0,Hybrid,17%
+1391,  Kevin Taylor  ,Sales,"$124,250",60.0,28,New York,PhD,Meets Expectations,15.0,Hybrid,20%
+1392,Sam Lee,HR,"$102,277",36.0,28,,Associate,Outstanding,33.0,Onsite,
+1393,  Rachel Lee  ,HR,"$66,316",30.0,23,San Diego,Associate,Exceeds Expectations,30.0,Onsite,18%
+1394,Hannah Clark,Operations,"$61,143",34.0,1,Chicago,High School,,19.0,Hybrid,17%
+1395,Tina Smith,Sales,"$132,545",54.0,16,,High School,Outstanding,41.0,Hybrid,8%
+1396,Eva Green,HR,"$125,251",31.0,35,Philadelphia,,Meets Expectations,26.0,Hybrid,7%
+1397,Frank Miller,Engineering,"$78,427",33.0,,Dallas,High School,Outstanding,38.0,Onsite,8%
+1398,Alice Green,Legal,"$53,189",61.0,,San Antonio,Associate,Outstanding,42.0,Remote,17%
+1399,  Hannah Nguyen  ,HR,"$95,665",56.0,24 years,san antonio,PhD,,30.0,Onsite,5%
+1400,Frank Wilson,HR,"$80,632",29.0,10,Chicago,,Needs Improvement,4.0,Remote,9%
+1401,  Nina Scott  ,Finance,"$46,905",,18, Chicago ,Associate,,18.0,Onsite,17%
+1402,  Charlie Wright  ,Operations,"$120,635",60.0,,San Antonio,Associate,Needs Improvement,20.0,Remote,5%
+1403,Laura Scott,Operations,"$59,524",22.0,6,Chicago,Master,Meets Expectations,43.0,Hybrid,17%
+1404,Oliver Scott,Legal,"$117,702",49.0,5,,High School,,35.0,Hybrid,6%
+1405,Tina Jones,Legal,"$57,208",45.0,20,Houston,Master,Outstanding,3.0,,13%
+1406,Quinn Davis,Operations,"$57,904",55.0,35,San Diego,Associate,Needs Improvement,22.0,Hybrid,8%
+1407,Alice Jones,Operations,"$113,452",52.0,33,Los Angeles,,Exceeds Expectations,13.0,Hybrid,19%
+1408,Michael Allen,Sales,"$78,492",46.0,22,Chicago,,Needs Improvement,6.0,Hybrid,20%
+1409,Paula King,HR,"$118,723",58.0,19,New York,Master,Meets Expectations,25.0,Remote,22%
+1410,  Charlie Clark  ,Sales,"$67,382",,,Houston,High School,Meets Expectations,22.0,Remote,8%
+1411,Charlie Green,Product,"$124,723",52.0,20,San Diego,Bachelor,Needs Improvement,22.0,Remote,18%
+1412,Sam Torres,HR,"$96,139",27.0,4,Los Angeles,High School,Meets Expectations,23.0,Remote,17%
+1413,Michael Hill,Product,"$87,807",56.0,4,San Diego,Bachelor,Outstanding,38.0,Remote,7%
+1414,Oliver Scott,HR,"$140,586",34.0,2,Phoenix,Master,Needs Improvement,16.0,Remote,15%
+1415,David Miller,Operations,"$92,120",,,Phoenix,Master,Meets Expectations,26.0,Onsite,23%
+1416,Rachel Lee,Legal,"$83,418",22.0,18,New York,High School,Meets Expectations,15.0,Remote,21%
+1417,Hannah Allen,Legal,"$107,978",29.0,18,san antonio,Associate,Meets Expectations,8.0,Hybrid,19%
+1418,Oliver Young,Operations,"$57,989",46.0,,Phoenix,Associate,Exceeds Expectations,40.0,,19%
+1419,David Clark,Legal,"$83,861",42.0,,dallas,High School,Meets Expectations,44.0,Remote,8%
+1420,Ian Hall,Sales,"$86,375",28.0,10, San Diego ,Bachelor,Meets Expectations,,Hybrid,19%
+1421,Paula Brown,Engineering,"$122,761",59.0,12,san antonio,High School,,28.0,Hybrid,24%
+1422,  Charlie Brown  ,Sales,"$101,316",56.0,32,Phoenix,,,29.0,Onsite,13%
+1423,Laura Green,Product,"$97,858",45.0,3,San Diego,Master,Exceeds Expectations,22.0,Hybrid,14%
+1424,Sam Torres,HR,"$111,988",47.0,,Chicago,Associate,Meets Expectations,5.0,,5%
+1425,David Allen,,"$52,627",48.0,10,,High School,Outstanding,33.0,Remote,10%
+1426,Nina Jones,HR,"$53,418",57.0,27,Phoenix,Bachelor,Outstanding,,Hybrid,18%
+1427,Tina Davis,Operations,"$96,238",45.0,29,dallas,PhD,Exceeds Expectations,9.0,,
+1428,Sam Scott,,"$112,682",52.0,23 years, New York ,High School,,12.0,,25%
+1429,Paula Taylor,Legal,,41.0,4,San Antonio,PhD,Exceeds Expectations,39.0,Onsite,
+1430,Laura Torres,Sales,"$70,957",47.0,20,San Diego,Master,Meets Expectations,38.0,Hybrid,6%
+1431,Ian Nguyen,,,29.0,35,Philadelphia,Master,Needs Improvement,,Hybrid,17%
+1432,Nina Torres,Sales,,50.0,25,San Antonio,High School,Needs Improvement,,Hybrid,7%
+1433,Tina Hill,,,32.0,28 yrs,,Master,,38.0,Hybrid,9%
+1434,Rachel Smith,Finance,"$70,380",54.0,21, Houston ,Bachelor,Meets Expectations,31.0,Hybrid,25%
+1435,Ian Smith,,"$104,617",43.0,3 yrs,,Bachelor,Exceeds Expectations,27.0,Hybrid,13%
+1436,  Julia Clark  ,Product,"$60,797",61.0,28,New York,Master,Needs Improvement,,Remote,19%
+1437,Frank Green,Marketing,,25.0,18,Houston,Associate,Exceeds Expectations,35.0,Hybrid,12%
+1438,Michael Brown,Engineering,"$121,556",62.0,7, Dallas ,Bachelor,Exceeds Expectations,,Onsite,21%
+1439,  Alice Brown  ,HR,"$105,700",,30, San Diego ,Master,Needs Improvement,6.0,Remote,6%
+1440,Grace Young,Finance,"$89,267",,13, Los Angeles ,High School,,28.0,Remote,
+1441,Kevin White,Finance,"$78,866",60.0,12,San Diego,Associate,,19.0,Onsite,9%
+1442,Kevin Nguyen,Engineering,"$56,391",26.0,,San Diego,PhD,Meets Expectations,24.0,Remote,25%
+1443,Bob Green,Product,,45.0,,san antonio,,Exceeds Expectations,37.0,Remote,8%
+1444,  Tina Jones  ,HR,,,,,PhD,Exceeds Expectations,33.0,Remote,7%
+1445,Ian King,HR,"$72,977",,34 years,San Antonio,Master,Exceeds Expectations,27.0,Onsite,25%
+1446,Paula Hill,Engineering,"$73,793",47.0,19,Dallas,Associate,Outstanding,31.0,Hybrid,18%
+1447,Ian Lee,Sales,"$128,519",55.0,,,,,43.0,Onsite,10%
+1448,David Hall,,"$132,109",60.0,4,Dallas,,,9.0,Remote,13%
+1449,Julia Nguyen,Legal,"$61,762",,14,San Diego,High School,Needs Improvement,41.0,Onsite,7%
+1450,Julia Jones,,"$46,329",33.0,8 yrs,,High School,,16.0,Onsite,18%
+1451,Tina Jones,,"$84,829",50.0,12,,High School,Meets Expectations,,Remote,11%
+1452,  Julia Lee  ,Legal,"$127,381",,17,dallas,,Outstanding,,Hybrid,14%
+1453,Ian Davis,Operations,"$93,972",55.0,5,San Antonio,Master,Needs Improvement,22.0,Remote,22%
+1454,Alice Wright,Engineering,"$77,323",24.0,18,Philadelphia,High School,Exceeds Expectations,29.0,Remote,12%
+1455,Frank Green,Sales,"$131,633",54.0,21,Chicago,Bachelor,Outstanding,7.0,Onsite,6%
+1456,Hannah Scott,Legal,"$95,698",36.0,18,Philadelphia,,Meets Expectations,25.0,Hybrid,20%
+1457,Laura Brown,Engineering,"$110,778",24.0,22,Philadelphia,High School,Meets Expectations,36.0,Hybrid,18%
+1458,Bob Allen,Finance,"$92,674",22.0,17, San Diego ,PhD,,5.0,Onsite,10%
+1459,  Charlie Clark  ,Sales,"$122,389",27.0,,San Antonio,Master,Exceeds Expectations,4.0,Remote,6%
+1460,Sam Young,Operations,"$58,593",47.0,13,Philadelphia,Associate,Exceeds Expectations,21.0,,10%
+1461,Nina Davis,,,47.0,32 yrs,Chicago,PhD,Outstanding,,Remote,13%
+1462,  Alice Clark  ,Marketing,"$126,432",34.0,7,Los Angeles,High School,Needs Improvement,41.0,Hybrid,
+1463,  Tina King  ,Product,"$78,771",26.0,7 years, Houston ,Bachelor,Needs Improvement,26.0,Hybrid,18%
+1464,Laura Brown,Finance,"$128,405",57.0,29 years,San Antonio,Master,Needs Improvement,12.0,Onsite,13%
+1465,David Taylor,HR,"$111,883",57.0,1,Houston,Master,Exceeds Expectations,39.0,Onsite,24%
+1466,Michael Scott,Product,"$52,924",44.0,18,,Bachelor,Meets Expectations,10.0,Onsite,25%
+1467,  Julia Clark  ,Operations,"$121,513",39.0,26,,Associate,Needs Improvement,11.0,Hybrid,12%
+1468,Frank Brown,Marketing,"$132,243",34.0,32,Philadelphia,Bachelor,Meets Expectations,28.0,Remote,15%
+1469,David Scott,Engineering,"$128,609",47.0,5,dallas,Associate,Outstanding,44.0,Remote,24%
+1470,Laura Hall,Operations,"$78,528",38.0,,,Bachelor,Needs Improvement,35.0,Onsite,24%
+1471,Eva Taylor,,"$139,136",54.0,31 yrs, Houston ,PhD,Outstanding,32.0,Onsite,23%
+1472,  Ian Lee  ,Engineering,"$118,935",26.0,22,Phoenix,Associate,Outstanding,19.0,Remote,24%
+1473,  Eva Brown  ,Product,"$137,830",43.0,6,New York,,Exceeds Expectations,32.0,Hybrid,17%
+1474,  Paula King  ,Operations,"$113,753",54.0,22 years,Chicago,Master,Needs Improvement,18.0,Hybrid,22%
+1475,Sam King,,"$130,467",56.0,13,Los Angeles,PhD,Meets Expectations,7.0,,
+1476,Sam Hill,Legal,"$66,960",58.0,,San Diego,Master,Needs Improvement,17.0,Remote,16%
+1477,Kevin Green,Operations,"$116,285",50.0,13,Los Angeles,,Outstanding,15.0,Remote,9%
+1478,Paula King,Product,"$105,231",58.0,7,Los Angeles,Bachelor,Exceeds Expectations,6.0,Hybrid,20%
+1479,Ian Nguyen,Product,"$137,927",37.0,6,,Master,Meets Expectations,5.0,Remote,10%
+1480,  Quinn Brown  ,,"$68,796",51.0,13 years,Los Angeles,Bachelor,Exceeds Expectations,44.0,Hybrid,13%
+1481,Oliver Jones,HR,"$128,191",59.0,16,Chicago,Bachelor,Meets Expectations,26.0,Onsite,23%
+1482,  Julia Brown  ,Engineering,"$73,862",52.0,,Dallas,Master,Meets Expectations,8.0,Hybrid,25%
+1483,Charlie Hill,Product,"$98,907",26.0,20,Chicago,Bachelor,Meets Expectations,39.0,Hybrid,16%
+1484,Michael King,Marketing,"$92,366",36.0,29, Chicago ,Bachelor,Exceeds Expectations,34.0,Onsite,
+1485,Bob King,Operations,"$104,971",36.0,,San Antonio,PhD,Exceeds Expectations,21.0,Remote,21%
+1486,Sam Lee,Engineering,"$51,987",48.0,22,,Master,Needs Improvement,43.0,Remote,14%
+1487,Paula Scott,,"$119,735",55.0,,San Diego,Associate,Meets Expectations,34.0,Remote,19%
+1488,  Bob King  ,Operations,,38.0,,Los Angeles,High School,Meets Expectations,10.0,Hybrid,5%
+1489,  Kevin Brown  ,Engineering,"$109,222",27.0,34,San Antonio,Master,Needs Improvement,25.0,Onsite,23%
+1490,Frank Jones,Marketing,"$93,642",43.0,35 yrs,Chicago,PhD,Exceeds Expectations,30.0,Remote,16%
+1491,Oliver King,Product,"$51,991",,3, Houston ,High School,Exceeds Expectations,34.0,Hybrid,18%
+1492,Tina White,Engineering,"$62,305",52.0,2,San Antonio,Bachelor,Outstanding,27.0,Hybrid,5%
+1493,Julia Young,Engineering,"$117,568",35.0,3,Dallas,High School,Exceeds Expectations,19.0,Remote,14%
+1494,Kevin Hill,Operations,"$136,284",39.0,1,New York,PhD,Needs Improvement,45.0,Remote,20%
+1495,  Kevin Brown  ,Sales,"$107,440",34.0,,Dallas,PhD,Needs Improvement,38.0,Onsite,17%
+1496,Rachel Young,Product,"$67,420",34.0,7,,,Meets Expectations,11.0,Onsite,9%
+1497,Tina Green,HR,"$45,562",37.0,5,Chicago,High School,Exceeds Expectations,8.0,Hybrid,8%
+1498,Sam Green,Marketing,"$66,690",35.0,,New York,Associate,Needs Improvement,17.0,Hybrid,
+1499,Julia Young,Marketing,"$107,904",37.0,15 years,New York,Bachelor,Needs Improvement,,Hybrid,8%
+1361,Laura Scott,Sales,,22.0,22,San Antonio,PhD,Meets Expectations,30.0,Hybrid,11%
+1073,Grace Torres,Engineering,"$123,704",39.0,12 years,Philadelphia,High School,Exceeds Expectations,13.0,Hybrid,18%
+1374,Hannah Brown,Sales,"$105,600",,20, Houston ,Associate,Needs Improvement,11.0,,18%
+1155,Tina Clark,Marketing,"$85,476",60.0,5,San Diego,Master,,10.0,,11%
+1104,Quinn Smith,Sales,"$133,459",32.0,13 years, New York ,Associate,Exceeds Expectations,3.0,Remote,8%
+1394,Hannah Clark,Operations,"$61,143",34.0,1,Chicago,High School,,19.0,Hybrid,17%
+1377,  Bob Davis  ,Product,"$93,478",,19 yrs,Dallas,Master,,,Remote,23%
+1124,Frank Allen,Product,"$92,565",45.0,17 years,,Associate,,12.0,Remote,19%
+1068,Paula Allen,Legal,"$126,420",,26,Philadelphia,High School,Needs Improvement,26.0,Remote,20%
+1450,Julia Jones,,"$46,329",33.0,8 yrs,,High School,,16.0,Onsite,18%
+1009,Kevin Wilson,Marketing,"$101,442",37.0,12,new york,Associate,Meets Expectations,32.0,Onsite,21%
+1194,  Ian Young  ,Engineering,"$75,159",25.0,18 yrs,New York,Bachelor,Meets Expectations,25.0,Hybrid,13%
+1406,Quinn Davis,Operations,"$57,904",55.0,35,San Diego,Associate,Needs Improvement,22.0,Hybrid,8%
+1084,  Julia Lee  ,Operations,"$46,596",58.0,13,San Diego,PhD,Meets Expectations,35.0,Hybrid,25%
+1371,Laura Miller,,,59.0,29,Chicago,Master,Meets Expectations,14.0,Remote,15%
+1388,Grace Miller,,"$55,504",33.0,32,Los Angeles,Associate,,19.0,Remote,25%
+1495,  Kevin Brown  ,Sales,"$107,440",34.0,,Dallas,PhD,Needs Improvement,38.0,Onsite,17%
+1030,  Eva Taylor  ,Engineering,"$91,818",28.0,17,,High School,Meets Expectations,2.0,Onsite,25%
+1316,Grace Taylor,Operations,"$70,925",30.0,29,Houston,Master,,43.0,Hybrid,21%
+1408,Michael Allen,Sales,"$78,492",46.0,22,Chicago,,Needs Improvement,6.0,Hybrid,20%
+1490,Frank Jones,Marketing,"$93,642",43.0,35 yrs,Chicago,PhD,Exceeds Expectations,30.0,Remote,16%
+1491,Oliver King,Product,"$51,991",,3, Houston ,High School,Exceeds Expectations,34.0,Hybrid,18%
+1280,Alice Brown,Marketing,"$137,504",24.0,,Phoenix,PhD,Exceeds Expectations,40.0,Onsite,25%
+1356,Bob Davis,Engineering,"$93,264",46.0,9,Houston,,Meets Expectations,28.0,Hybrid,19%
+1076,Rachel Miller,Marketing,"$133,244",47.0,35 yrs,Dallas,High School,Outstanding,28.0,Remote,18%
