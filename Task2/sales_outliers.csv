@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Customer_ID,Category,Product,Region,Customer_Type,Quantity,Unit_Price,Discount_Percent,Sales,Payment_Method,Returned,Month
+8,2025-09-18,CUST1201,Electronics,Headphones,North,Returning,4,20508.4,15,69728.56,Cash on Delivery,No,2025-09
+18,2025-05-09,CUST1159,Electronics,Smartphone,West,New,2,32643.91,15,55494.65,Net Banking,No,2025-05
+23,2025-10-04,CUST1147,Electronics,Tablet,East,Returning,2,48926.19,0,97852.38,UPI,No,2025-10
+32,2025-07-11,CUST1076,Electronics,Smartphone,West,New,2,32575.36,15,55378.11,Net Banking,No,2025-07
+38,2025-08-05,CUST1201,Electronics,Smartwatch,West,New,3,26816.48,5,76426.97,Net Banking,No,2025-08
+44,2025-05-25,CUST1070,Electronics,Headphones,East,Returning,4,21644.48,25,64933.44,Net Banking,No,2025-05
+46,2025-12-14,CUST1056,Electronics,Tablet,West,Returning,5,8586.94,5,40787.97,UPI,No,2025-12
+53,2025-12-17,CUST1083,Electronics,Tablet,North,Returning,2,27795.95,15,47253.12,Cash on Delivery,No,2025-12
+58,2025-08-23,CUST1151,Electronics,Tablet,Central,Returning,2,26991.52,5,51283.89,Debit Card,No,2025-08
+59,2025-07-03,CUST1051,Electronics,Headphones,North,Returning,2,33724.76,25,50587.14,Credit Card,No,2025-07
+69,2025-04-23,CUST1100,Electronics,Laptop,South,Returning,3,41161.08,0,123483.24,UPI,No,2025-04
+71,2025-04-04,CUST1227,Electronics,Smartphone,West,Returning,4,20102.26,25,60306.78,UPI,No,2025-04
+72,2025-09-27,CUST1083,Electronics,Smartwatch,Central,New,3,38168.97,20,91605.53,Cash on Delivery,No,2025-09
+92,2025-12-22,CUST1230,Electronics,Tablet,North,Returning,2,20892.41,0,41784.82,Credit Card,No,2025-12
+96,2025-12-03,CUST1154,Electronics,Smartwatch,East,New,2,26163.19,10,47093.74,Cash on Delivery,No,2025-12
+98,2025-01-17,CUST1062,Electronics,Smartwatch,South,New,4,21496.66,10,77387.98,Net Banking,No,2025-01
+104,2025-08-24,CUST1103,Electronics,Smartphone,South,Returning,5,34322.95,15,145872.54,UPI,No,2025-08
+107,2025-09-17,CUST1218,Sports,Running Shoes,Central,Returning,3,65525.85,10,176919.8,Cash on Delivery,No,2025-09
+115,2025-08-12,CUST1192,Electronics,Smartwatch,East,Returning,2,22827.7,0,45655.4,Debit Card,No,2025-08
+125,2025-10-28,CUST1046,Electronics,Laptop,East,Returning,2,27257.47,0,54514.94,Debit Card,No,2025-10
+126,2025-12-19,CUST1161,Electronics,Smartwatch,West,Returning,2,29104.77,0,58209.54,Credit Card,No,2025-12
+134,2025-01-14,CUST1237,Electronics,Laptop,West,Returning,5,26568.65,0,132843.25,Credit Card,No,2025-01
+139,2025-01-01,CUST1206,Electronics,Laptop,North,New,4,23854.49,5,90647.06,Credit Card,No,2025-01
+142,2025-04-29,CUST1145,Electronics,Tablet,Central,New,4,30637.35,15,104166.99,UPI,No,2025-04
+145,2025-03-23,CUST1199,Electronics,Laptop,South,New,3,21813.23,5,62167.71,UPI,No,2025-03
+146,2025-11-12,CUST1035,Electronics,Smartphone,South,New,2,31587.66,10,56857.79,UPI,No,2025-11
+147,2025-09-22,CUST1154,Electronics,Laptop,East,New,2,33590.45,10,60462.81,UPI,Yes,2025-09
+150,2025-06-06,CUST1164,Electronics,Tablet,West,Returning,3,28430.74,10,76763.0,UPI,No,2025-06
+155,2025-05-30,CUST1078,Electronics,Smartphone,West,Returning,2,25383.35,10,45690.03,Credit Card,No,2025-05
+161,2025-10-06,CUST1121,Electronics,Smartwatch,Central,Returning,5,15442.26,25,57908.48,Debit Card,No,2025-10
+164,2025-01-12,CUST1035,Electronics,Headphones,East,Returning,4,29444.92,0,117779.68,Debit Card,No,2025-01
+167,2025-01-25,CUST1031,Electronics,Headphones,Central,Returning,3,24054.67,0,72164.01,UPI,No,2025-01
+182,2025-05-02,CUST1233,Electronics,Tablet,West,Returning,3,18183.63,20,43640.71,Credit Card,No,2025-05
+183,2025-12-26,CUST1089,Home & Kitchen,Bedsheet,West,Returning,2,73341.18,10,132014.12,Cash on Delivery,No,2025-12
+192,2025-09-08,CUST1118,Electronics,Smartphone,South,New,3,33358.92,15,85065.25,Credit Card,No,2025-09
+206,2025-02-24,CUST1210,Electronics,Smartwatch,West,Returning,2,35048.9,0,70097.8,UPI,No,2025-02
+207,2025-12-31,CUST1008,Electronics,Smartwatch,East,New,5,22676.47,0,113382.35,UPI,No,2025-12
+215,2025-04-01,CUST1147,Sports,Running Shoes,Central,Returning,2,112181.41,5,213144.68,UPI,No,2025-04
+218,2025-11-16,CUST1053,Electronics,Tablet,East,New,2,34502.34,5,65554.45,Debit Card,No,2025-11
+220,2025-02-19,CUST1101,Electronics,Smartphone,South,Returning,2,31950.85,15,54316.44,Debit Card,No,2025-02
+222,2025-11-03,CUST1055,Electronics,Headphones,Central,Returning,2,100553.51,0,201107.02,UPI,No,2025-11
+224,2025-12-28,CUST1168,Electronics,Smartphone,North,Returning,5,9687.69,5,46016.53,Net Banking,No,2025-12
+227,2025-04-18,CUST1161,Electronics,Headphones,North,New,2,30067.81,5,57128.84,Debit Card,No,2025-04
+250,2025-06-22,CUST1102,Electronics,Headphones,South,New,2,26853.4,0,53706.8,Cash on Delivery,No,2025-06
+255,2025-12-15,CUST1121,Electronics,Smartwatch,South,New,3,22130.92,0,66392.76,Credit Card,No,2025-12
+265,2025-11-09,CUST1075,Electronics,Tablet,South,Returning,5,33650.86,20,134603.44,Credit Card,Yes,2025-11
+285,2025-08-27,CUST1112,Electronics,Smartwatch,Central,New,2,37973.75,20,60758.0,UPI,No,2025-08
+293,2025-01-02,CUST1195,Electronics,Laptop,West,Returning,3,28295.02,5,80640.81,UPI,No,2025-01
+298,2025-09-23,CUST1024,Electronics,Smartwatch,South,New,2,25677.9,15,43652.43,Debit Card,No,2025-09
+301,2025-09-23,CUST1100,Electronics,Laptop,Central,Returning,4,13659.79,0,54639.16,Credit Card,No,2025-09
+320,2025-09-28,CUST1232,Electronics,Smartphone,East,Returning,1,40387.93,0,40387.93,Cash on Delivery,No,2025-09
+321,2025-07-04,CUST1077,Electronics,Laptop,North,Returning,2,30806.99,25,46210.48,Debit Card,No,2025-07
+324,2025-11-14,CUST1229,Electronics,Smartwatch,West,Returning,3,43463.69,10,117351.96,Cash on Delivery,No,2025-11
+332,2025-03-02,CUST1143,Electronics,Smartwatch,Central,Returning,3,27408.19,25,61668.43,Cash on Delivery,No,2025-03
+343,2025-02-21,CUST1236,Electronics,Laptop,East,New,5,35779.86,0,178899.3,Net Banking,No,2025-02
+348,2025-08-07,CUST1076,Electronics,Tablet,Central,Returning,2,39360.15,10,70848.27,Debit Card,No,2025-08
+351,2025-09-03,CUST1185,Electronics,Smartwatch,North,Returning,4,20202.65,25,60607.95,UPI,No,2025-09
+358,2025-04-17,CUST1171,Electronics,Smartphone,North,Returning,3,31627.19,10,85393.41,UPI,No,2025-04
+364,2025-07-30,CUST1208,Electronics,Laptop,Central,Returning,4,16364.4,20,52366.08,Debit Card,No,2025-07
+373,2025-12-03,CUST1143,Electronics,Smartphone,South,New,2,31099.32,0,62198.64,Credit Card,No,2025-12
+380,2025-06-22,CUST1238,Electronics,Tablet,South,Returning,2,31061.32,0,62122.64,Cash on Delivery,No,2025-06
+382,2025-08-02,CUST1150,Electronics,Smartphone,West,New,3,22544.95,10,60871.37,Credit Card,No,2025-08
+398,2025-02-10,CUST1012,Electronics,Tablet,West,Returning,5,15923.92,0,79619.6,Credit Card,No,2025-02
+435,2025-10-21,CUST1188,Electronics,Laptop,Central,Returning,5,29399.02,0,146995.1,UPI,No,2025-10
+446,2025-05-21,CUST1052,Electronics,Headphones,North,New,2,33812.42,5,64243.6,Cash on Delivery,No,2025-05
+450,2025-05-24,CUST1220,Electronics,Headphones,Central,New,2,25662.89,0,51325.78,Debit Card,No,2025-05
+464,2025-10-13,CUST1248,Home & Kitchen,Cookware Set,Central,Returning,3,92687.2,5,264158.52,UPI,No,2025-10
+474,2025-11-10,CUST1001,Electronics,Laptop,East,Returning,2,26410.2,20,42256.32,Cash on Delivery,Yes,2025-11
+477,2025-10-05,CUST1117,Electronics,Smartwatch,East,New,3,26145.15,15,66670.13,Credit Card,No,2025-10
+490,2025-11-24,CUST1247,Electronics,Smartphone,East,Returning,4,13808.48,15,46948.83,Cash on Delivery,No,2025-11
+506,2025-01-09,CUST1056,Electronics,Smartwatch,South,New,2,28425.52,25,42638.28,Credit Card,No,2025-01
+521,2025-07-17,CUST1211,Electronics,Smartwatch,North,New,4,31981.13,0,127924.52,Net Banking,No,2025-07
+539,2025-03-20,CUST1163,Electronics,Tablet,Central,Returning,3,28530.07,0,85590.21,Debit Card,No,2025-03
+542,2025-02-08,CUST1116,Electronics,Smartphone,Central,Returning,5,16392.4,5,77863.9,Credit Card,No,2025-02
+555,2025-09-06,CUST1141,Electronics,Headphones,West,New,2,33972.13,25,50958.19,Credit Card,No,2025-09
+569,2025-07-05,CUST1180,Electronics,Smartphone,West,Returning,4,16448.3,0,65793.2,Cash on Delivery,No,2025-07
+570,2025-01-30,CUST1020,Electronics,Tablet,North,New,2,32317.64,0,64635.28,UPI,No,2025-01
+578,2025-05-09,CUST1077,Electronics,Tablet,Central,New,2,33427.85,15,56827.34,UPI,No,2025-05
+581,2025-03-28,CUST1017,Electronics,Tablet,West,New,2,24321.17,0,48642.34,Debit Card,No,2025-03
+601,2025-05-01,CUST1067,Electronics,Tablet,Central,New,3,20325.4,10,54878.58,UPI,No,2025-05
+612,2025-08-30,CUST1152,Electronics,Headphones,Central,Returning,3,23480.75,5,66920.14,Net Banking,No,2025-08
+642,2025-02-26,CUST1226,Electronics,Smartwatch,Central,Returning,4,11678.87,5,44379.71,UPI,No,2025-02
+660,2025-07-07,CUST1124,Electronics,Laptop,South,Returning,2,28685.27,20,45896.43,UPI,No,2025-07
+674,2025-01-04,CUST1102,Electronics,Smartwatch,Central,Returning,2,42637.6,15,72483.92,UPI,No,2025-01
+689,2025-12-12,CUST1124,Electronics,Tablet,North,Returning,3,17654.03,10,47665.88,UPI,No,2025-12
+690,2025-10-24,CUST1065,Electronics,Tablet,West,Returning,5,35648.48,10,160418.16,Debit Card,No,2025-10
+691,2025-10-21,CUST1156,Electronics,Smartwatch,South,New,2,23712.89,10,42683.2,Cash on Delivery,No,2025-10
+695,2025-12-31,CUST1226,Electronics,Smartphone,West,Returning,2,23040.24,5,43776.46,Credit Card,No,2025-12
+716,2025-01-02,CUST1205,Electronics,Smartphone,East,New,2,40915.36,5,77739.18,Net Banking,No,2025-01
+717,2025-02-23,CUST1161,Electronics,Headphones,South,New,2,119618.13,10,215312.63,UPI,No,2025-02
+723,2025-09-27,CUST1223,Electronics,Smartwatch,North,Returning,3,30014.01,0,90042.03,Credit Card,No,2025-09
+730,2025-03-23,CUST1234,Electronics,Tablet,East,Returning,3,25717.4,5,73294.59,Cash on Delivery,No,2025-03
+738,2025-11-21,CUST1095,Electronics,Headphones,West,New,1,43499.03,0,43499.03,Credit Card,No,2025-11
+753,2025-06-19,CUST1015,Electronics,Smartphone,West,Returning,3,17595.63,20,42229.51,UPI,No,2025-06
+754,2025-01-17,CUST1013,Electronics,Tablet,South,Returning,2,32728.29,20,52365.26,UPI,No,2025-01
+783,2025-09-07,CUST1041,Electronics,Laptop,East,New,2,20435.53,0,40871.06,UPI,No,2025-09
+787,2025-08-16,CUST1209,Electronics,Smartwatch,Central,Returning,2,32372.0,5,61506.8,UPI,No,2025-08
+802,2025-03-15,CUST1071,Electronics,Headphones,West,New,2,22742.1,5,43209.99,Cash on Delivery,No,2025-03
+810,2025-04-18,CUST1016,Electronics,Laptop,Central,Returning,3,31188.27,0,93564.81,Cash on Delivery,No,2025-04
+812,2025-12-14,CUST1221,Electronics,Tablet,East,Returning,3,33551.32,10,90588.56,UPI,Yes,2025-12
+818,2025-02-20,CUST1205,Electronics,Laptop,North,New,2,31236.65,0,62473.3,Debit Card,No,2025-02
+823,2025-08-20,CUST1029,Electronics,Smartwatch,South,Returning,2,33239.85,20,53183.76,Credit Card,No,2025-08
+824,2025-12-13,CUST1206,Electronics,Tablet,North,New,3,35293.99,0,105881.97,Debit Card,No,2025-12
+839,2025-04-17,CUST1024,Electronics,Tablet,North,New,2,30607.14,20,48971.42,Debit Card,No,2025-04
+860,2025-02-06,CUST1088,Electronics,Laptop,West,Returning,2,27030.83,10,48655.49,Credit Card,No,2025-02
+864,2025-04-05,CUST1191,Electronics,Smartwatch,South,New,3,43297.07,5,123396.65,Credit Card,No,2025-04
+868,2025-03-04,CUST1008,Electronics,Smartwatch,North,Returning,1,44040.82,0,44040.82,UPI,No,2025-03
+869,2025-01-22,CUST1250,Sports,Yoga Mat,South,Returning,3,68435.09,0,205305.27,Debit Card,No,2025-01
+879,2025-11-06,CUST1183,Electronics,Tablet,Central,New,4,36744.08,10,132278.69,UPI,No,2025-11
+910,2025-03-07,CUST1176,Electronics,Smartphone,South,New,3,28995.25,20,69588.6,Debit Card,No,2025-03
+925,2025-04-26,CUST1092,Electronics,Smartwatch,East,Returning,4,33622.25,15,114315.65,UPI,No,2025-04
+933,2025-04-28,CUST1122,Electronics,Headphones,South,New,3,26091.19,20,62618.86,Cash on Delivery,No,2025-04
+934,2025-01-27,CUST1166,Electronics,Smartphone,East,New,5,21761.95,20,87047.8,UPI,No,2025-01
+935,2025-01-13,CUST1068,Electronics,Smartwatch,East,New,3,34876.18,10,94165.69,Debit Card,No,2025-01
+938,2025-04-27,CUST1039,Electronics,Smartphone,North,New,4,25254.58,5,95967.4,Credit Card,No,2025-04
+959,2025-08-03,CUST1034,Electronics,Smartphone,South,New,2,23595.1,10,42471.18,UPI,No,2025-08
+961,2025-03-18,CUST1175,Electronics,Laptop,West,Returning,3,33421.9,0,100265.7,Cash on Delivery,Yes,2025-03
+966,2025-09-06,CUST1084,Electronics,Tablet,North,Returning,2,30313.63,15,51533.17,UPI,No,2025-09
+976,2025-02-08,CUST1212,Electronics,Laptop,West,Returning,3,18522.6,25,41675.85,Credit Card,No,2025-02
+980,2025-10-23,CUST1027,Clothing,T-Shirt,South,Returning,3,90357.93,0,271073.79,Credit Card,No,2025-10

@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Category,Product,Region,Customer_Type,Quantity,Unit_Price,Discount_Percent,Sales,Payment_Method,Returned
+1,2025-05-02,CUST1236,Clothing,Dress,North,Returning,2,1975.8,0,3951.6,UPI,No
+2,2025-01-22,CUST1170,Sports,Dumbbells,North,New,1,3790.3,0,3790.3,Debit Card,No
+3,2025-02-20,CUST1073,Electronics,Smartwatch,South,Returning,1,26246.57,20,20997.26,Cash on Delivery,No
+4,2025-12-12,CUST1199,Electronics,Smartwatch,Central,Returning,1,24696.79,15,20992.27,Debit Card,No
+5,2025-01-02,CUST1044,Home & Kitchen,Lamp,Central,New,2,1812.02,0,3624.04,UPI,No
+6,2025-08-03,CUST1237,Sports,Cricket Bat,East,Returning,2,2453.95,25,3680.92,Credit Card,No
+7,2025-02-10,CUST1136,Clothing,Dress,East,Returning,1,1268.65,10,1141.79,UPI,No
+8,2025-09-18,CUST1201,Electronics,Headphones,North,Returning,4,20508.4,15,69728.56,Cash on Delivery,No
+9,2025-10-20,CUST1206,Home & Kitchen,Cookware Set,North,New,3,4495.34,10,12137.42,UPI,No
+10,2025-07-26,CUST1063,Beauty,Makeup Kit,East,Returning,1,1769.62,0,1769.62,UPI,No
+11,2025-08-19,CUST1086,Sports,Yoga Mat,South,Returning,1,4248.34,0,4248.34,Net Banking,No
+12,2025-01-28,CUST1128,Sports,Dumbbells,West,Returning,1,2292.1,10,2062.89,Cash on Delivery,No
+13,2025-10-10,CUST1137,Beauty,Moisturizer,South,Returning,3,1734.97,0,5204.91,Debit Card,No
+14,2025-06-09,CUST1241,Clothing,T-Shirt,North,New,2,1616.07,15,2747.32,Net Banking,No
+15,2025-04-23,CUST1126,Electronics,Smartwatch,South,Returning,1,24436.69,5,23214.86,Debit Card,No
+16,2025-07-22,CUST1069,Electronics,Smartwatch,East,Returning,1,28017.9,5,26617.0,UPI,No
+17,2025-07-06,CUST1096,Home & Kitchen,Lamp,West,Returning,1,5590.59,10,5031.53,Credit Card,No
+18,2025-05-09,CUST1159,Electronics,Smartphone,West,New,2,32643.91,15,55494.65,Net Banking,No
+19,2025-03-01,CUST1147,Sports,Running Shoes,North,New,3,2861.57,0,8584.71,Net Banking,No
+20,2025-04-26,CUST1084,Beauty,Perfume,Central,New,1,1410.67,0,1410.67,Net Banking,No
+21,2025-12-04,CUST1142,Home & Kitchen,Blender,West,New,5,300.0,0,1500.0,Credit Card,Yes
+22,2025-05-08,CUST1119,Clothing,Sneakers,South,Returning,2,1294.0,0,2588.0,UPI,No
+23,2025-10-04,CUST1147,Electronics,Tablet,East,Returning,2,48926.19,0,97852.38,UPI,No
+24,2025-02-15,CUST1024,Home & Kitchen,Blender,North,Returning,4,3614.86,5,13736.47,UPI,Yes
+25,2025-09-10,CUST1223,Clothing,Dress,East,Returning,1,2458.71,0,2458.71,Credit Card,No
+26,2025-12-08,CUST1218,Beauty,Perfume,East,New,1,1056.3,5,1003.48,UPI,No
+27,2025-06-19,CUST1057,Beauty,Face Serum,North,Returning,3,1416.31,25,3186.7,UPI,No
+28,2025-05-23,CUST1086,Home & Kitchen,Coffee Maker,West,Returning,1,4129.39,0,4129.39,Cash on Delivery,No
+29,2025-12-08,CUST1108,Clothing,Jeans,East,New,1,2023.28,20,1618.62,UPI,No
+30,2025-12-21,CUST1124,Home & Kitchen,Coffee Maker,Central,New,2,1196.62,15,2034.25,UPI,No
+31,2025-12-12,CUST1034,Beauty,Perfume,West,New,1,1412.09,0,1412.09,UPI,No
+32,2025-07-11,CUST1076,Electronics,Smartphone,West,New,2,32575.36,15,55378.11,Net Banking,No
+33,2025-03-10,CUST1218,Home & Kitchen,Lamp,West,New,5,3156.2,0,15781.0,Credit Card,Yes
+34,2025-01-10,CUST1138,Clothing,Sneakers,North,Returning,4,1419.5,20,4542.4,Debit Card,No
+35,2025-01-16,CUST1152,Home & Kitchen,Cookware Set,East,Returning,1,3743.85,10,3369.46,UPI,No
+36,2025-04-11,CUST1043,Home & Kitchen,Lamp,West,Returning,2,2764.73,20,4423.57,UPI,No
+37,2025-08-30,CUST1162,Electronics,Tablet,North,New,1,20743.71,20,16594.97,Credit Card,Yes
+38,2025-08-05,CUST1201,Electronics,Smartwatch,West,New,3,26816.48,5,76426.97,Net Banking,No
+39,2025-04-06,CUST1217,Home & Kitchen,Lamp,Central,New,3,4170.19,10,11259.51,Debit Card,No
+40,2025-07-06,CUST1147,Electronics,Smartphone,East,Returning,1,23230.81,0,23230.81,Debit Card,No
+41,2025-05-24,CUST1151,Electronics,Smartwatch,Central,Returning,1,9319.61,15,7921.67,UPI,No
+42,2025-05-02,CUST1146,Beauty,Makeup Kit,Central,Returning,1,1012.36,20,809.89,Net Banking,No
+43,2025-01-07,CUST1029,Sports,Yoga Mat,West,Returning,1,1389.33,20,1111.46,Credit Card,No
+44,2025-05-25,CUST1070,Electronics,Headphones,East,Returning,4,21644.48,25,64933.44,Net Banking,No
+45,2025-12-12,CUST1148,Home & Kitchen,Lamp,West,Returning,1,2612.69,10,2351.42,UPI,No
+46,2025-12-14,CUST1056,Electronics,Tablet,West,Returning,5,8586.94,5,40787.97,UPI,No
+47,2025-11-13,CUST1147,Home & Kitchen,Bedsheet,Central,New,4,3172.43,25,9517.29,Net Banking,No
+48,2025-01-01,CUST1185,Sports,Dumbbells,North,New,2,2698.24,10,4856.83,Debit Card,No
+49,2025-06-05,CUST1028,Sports,Dumbbells,Central,Returning,2,1832.52,10,3298.54,UPI,No
+50,2025-07-20,CUST1157,Electronics,Smartphone,South,Returning,1,20702.32,20,16561.86,Credit Card,No
+51,2025-10-30,CUST1146,Electronics,Headphones,West,Returning,1,26242.94,10,23618.65,UPI,No
+52,2025-11-11,CUST1099,Sports,Yoga Mat,South,Returning,3,3816.42,20,9159.41,Debit Card,No
+53,2025-12-17,CUST1083,Electronics,Tablet,North,Returning,2,27795.95,15,47253.12,Cash on Delivery,No
+54,2025-10-15,CUST1250,Electronics,Smartphone,North,Returning,1,26691.18,5,25356.62,UPI,Yes
+55,2025-08-10,CUST1142,Home & Kitchen,Lamp,East,Returning,2,4006.8,10,7212.24,UPI,No
+56,2025-11-02,CUST1191,Home & Kitchen,Lamp,Central,Returning,2,5144.06,10,9259.31,Net Banking,No
+57,2025-09-04,CUST1017,Beauty,Face Serum,East,Returning,3,2000.48,10,5401.3,Debit Card,No
+58,2025-08-23,CUST1151,Electronics,Tablet,Central,Returning,2,26991.52,5,51283.89,Debit Card,No
+59,2025-07-03,CUST1051,Electronics,Headphones,North,Returning,2,33724.76,25,50587.14,Credit Card,No
+60,2025-11-22,CUST1034,Electronics,Tablet,South,New,1,22940.96,10,20646.86,Credit Card,No
+61,2025-05-01,CUST1036,Electronics,Laptop,West,New,1,26071.92,5,24768.32,Cash on Delivery,Yes
+62,2025-02-25,CUST1216,Beauty,Face Serum,East,Returning,2,2028.85,15,3449.04,UPI,No
+63,2025-04-21,CUST1115,Beauty,Shampoo,North,New,1,1398.17,20,1118.54,UPI,No
+64,2025-09-30,CUST1145,Electronics,Smartphone,West,New,1,30696.82,5,29161.98,UPI,No
+65,2025-04-21,CUST1042,Clothing,T-Shirt,West,Returning,2,2784.57,10,5012.23,UPI,No
+66,2025-12-31,CUST1021,Clothing,Sneakers,West,Returning,1,2150.05,25,1612.54,Debit Card,Yes
+67,2025-06-01,CUST1220,Electronics,Smartwatch,Central,New,5,3100.85,0,15504.25,Cash on Delivery,No
+68,2025-07-13,CUST1044,Sports,Yoga Mat,East,Returning,2,3470.95,10,6247.71,Cash on Delivery,No
+69,2025-04-23,CUST1100,Electronics,Laptop,South,Returning,3,41161.08,0,123483.24,UPI,No
+70,2025-05-18,CUST1065,Clothing,Jacket,North,New,5,1967.55,5,9345.86,Credit Card,No
+71,2025-04-04,CUST1227,Electronics,Smartphone,West,Returning,4,20102.26,25,60306.78,UPI,No
+72,2025-09-27,CUST1083,Electronics,Smartwatch,Central,New,3,38168.97,20,91605.53,Cash on Delivery,No
+73,2025-10-23,CUST1063,Home & Kitchen,Cookware Set,Central,New,4,5671.16,15,19281.94,UPI,No
+74,2025-11-05,CUST1134,Clothing,T-Shirt,South,New,4,1549.02,15,5266.67,UPI,Yes
+75,2025-06-06,CUST1229,Clothing,Jacket,South,New,2,2874.67,25,4312.0,Cash on Delivery,No
+76,2025-05-03,CUST1047,Beauty,Face Serum,North,Returning,3,1186.42,0,3559.26,Cash on Delivery,No
+77,2025-02-16,CUST1026,Beauty,Moisturizer,South,Returning,1,1793.99,10,1614.59,Credit Card,No
+78,2025-05-14,CUST1140,Electronics,Tablet,West,Returning,1,20856.1,10,18770.49,Debit Card,No
+79,2025-12-22,CUST1041,Sports,Dumbbells,West,New,1,2209.41,0,2209.41,Cash on Delivery,No
+80,2025-07-01,CUST1115,Sports,Yoga Mat,North,Returning,3,4075.81,5,11616.06,Cash on Delivery,No
+81,2025-11-09,CUST1162,Home & Kitchen,Bedsheet,South,Returning,4,4544.0,5,17267.2,Credit Card,No
+82,2025-01-25,CUST1177,Sports,Running Shoes,North,Returning,2,525.68,10,946.22,Debit Card,No
+83,2025-12-03,CUST1141,Beauty,Perfume,West,New,5,864.37,10,3889.67,UPI,No
+84,2025-10-12,CUST1019,Clothing,Jacket,North,Returning,2,1696.34,5,3223.05,Credit Card,No
+85,2025-04-24,CUST1131,Electronics,Headphones,East,Returning,1,38927.53,5,36981.15,UPI,No
+86,2025-02-24,CUST1065,Clothing,Jeans,Central,Returning,1,1788.71,15,1520.4,Cash on Delivery,No
+87,2025-02-23,CUST1035,Home & Kitchen,Lamp,North,Returning,3,4495.39,10,12137.55,Credit Card,No
+88,2025-08-11,CUST1161,Electronics,Headphones,Central,Returning,1,8543.95,0,8543.95,Credit Card,No
+89,2025-03-23,CUST1005,Electronics,Headphones,North,Returning,1,14136.86,10,12723.17,UPI,No
+90,2025-12-08,CUST1059,Clothing,T-Shirt,South,New,3,1285.73,0,3857.19,Net Banking,No
+91,2025-08-25,CUST1029,Sports,Yoga Mat,East,Returning,2,1468.82,10,2643.88,Cash on Delivery,No
+92,2025-12-22,CUST1230,Electronics,Tablet,North,Returning,2,20892.41,0,41784.82,Credit Card,No
+93,2025-05-14,CUST1145,Beauty,Makeup Kit,North,New,2,819.24,10,1474.63,Net Banking,No
+94,2025-11-06,CUST1026,Clothing,Sneakers,West,Returning,2,2332.0,0,4664.0,Debit Card,No
+95,2025-10-22,CUST1056,Electronics,Headphones,South,New,1,29733.77,25,22300.33,UPI,No
+96,2025-12-03,CUST1154,Electronics,Smartwatch,East,New,2,26163.19,10,47093.74,Cash on Delivery,No
+97,2025-04-14,CUST1222,Clothing,T-Shirt,North,Returning,3,818.49,20,1964.38,UPI,No
+98,2025-01-17,CUST1062,Electronics,Smartwatch,South,New,4,21496.66,10,77387.98,Net Banking,No
+99,2025-07-17,CUST1016,Sports,Running Shoes,West,Returning,1,4127.75,15,3508.59,UPI,Yes
+100,2025-04-27,CUST1059,Sports,Dumbbells,East,Returning,2,3808.07,0,7616.14,Credit Card,No
+101,2025-04-13,CUST1037,Sports,Dumbbells,West,New,1,2894.2,0,2894.2,UPI,Yes
+102,2025-01-04,CUST1016,Home & Kitchen,Cookware Set,West,New,3,2933.71,5,8361.07,Debit Card,No
+103,2025-09-08,CUST1244,Clothing,Sneakers,North,New,4,1851.84,20,5925.89,Cash on Delivery,No
+104,2025-08-24,CUST1103,Electronics,Smartphone,South,Returning,5,34322.95,15,145872.54,UPI,No
+105,2025-06-07,CUST1207,Home & Kitchen,Blender,North,New,2,4056.84,5,7708.0,Debit Card,No
+106,2025-10-20,CUST1184,Clothing,T-Shirt,South,New,3,2268.74,0,6806.22,Net Banking,No
+107,2025-09-17,CUST1218,Sports,Running Shoes,Central,Returning,3,65525.85,10,176919.8,Cash on Delivery,No
+108,2025-02-16,CUST1241,Electronics,Laptop,West,New,1,39184.7,10,35266.23,Credit Card,No
+109,2025-01-03,CUST1142,Electronics,Laptop,East,Returning,1,20168.05,10,18151.24,Net Banking,No
+110,2025-05-17,CUST1207,Sports,Running Shoes,Central,New,1,3420.27,20,2736.22,Credit Card,Yes
+111,2025-02-07,CUST1205,Home & Kitchen,Bedsheet,West,New,2,4583.02,0,9166.04,Debit Card,No
+112,2025-12-15,CUST1040,Sports,Football,Central,Returning,4,1868.33,10,6725.99,UPI,No
+113,2025-04-02,CUST1166,Home & Kitchen,Bedsheet,West,Returning,2,4505.09,15,7658.65,Cash on Delivery,No
+114,2025-01-23,CUST1039,Electronics,Tablet,Central,Returning,1,29438.65,20,23550.92,Credit Card,No
+115,2025-08-12,CUST1192,Electronics,Smartwatch,East,Returning,2,22827.7,0,45655.4,Debit Card,No
+116,2025-08-21,CUST1222,Home & Kitchen,Lamp,North,New,5,2771.26,5,13163.48,Credit Card,No
+117,2025-07-11,CUST1210,Beauty,Moisturizer,North,Returning,2,1047.56,5,1990.36,Net Banking,No
+118,2025-01-07,CUST1160,Sports,Football,East,Returning,1,2971.15,20,2376.92,UPI,No
+119,2025-01-04,CUST1116,Beauty,Shampoo,North,New,1,591.83,20,473.46,UPI,No
+120,2025-08-24,CUST1101,Beauty,Moisturizer,West,New,1,300.0,15,255.0,Net Banking,No
+121,2025-01-15,CUST1236,Home & Kitchen,Lamp,South,Returning,3,2544.13,15,6487.53,UPI,No
+122,2025-03-20,CUST1093,Clothing,Sneakers,North,Returning,1,2203.32,10,1982.99,Cash on Delivery,Yes
+123,2025-01-15,CUST1166,Electronics,Tablet,Central,Returning,1,15981.22,15,13584.04,Credit Card,No
+124,2025-12-10,CUST1021,Electronics,Smartwatch,North,Returning,1,24564.54,25,18423.4,Debit Card,No
+125,2025-10-28,CUST1046,Electronics,Laptop,East,Returning,2,27257.47,0,54514.94,Debit Card,No
+126,2025-12-19,CUST1161,Electronics,Smartwatch,West,Returning,2,29104.77,0,58209.54,Credit Card,No
+127,2025-06-23,CUST1061,Beauty,Shampoo,South,New,1,1586.11,15,1348.19,UPI,No
+128,2025-07-23,CUST1062,Home & Kitchen,Blender,Central,New,3,4176.84,15,10650.94,UPI,No
+129,2025-01-03,CUST1243,Home & Kitchen,Lamp,Central,Returning,2,5564.92,15,9460.36,Cash on Delivery,No
+130,2025-10-15,CUST1150,Electronics,Smartwatch,West,Returning,2,20972.41,10,37750.34,UPI,No
+131,2025-04-03,CUST1186,Clothing,T-Shirt,East,New,3,952.85,0,2858.55,UPI,No
+132,2025-06-01,CUST1250,Beauty,Moisturizer,West,Returning,2,1044.53,10,1880.15,Cash on Delivery,No
+133,2025-08-31,CUST1143,Beauty,Moisturizer,Central,Returning,1,1536.21,15,1305.78,UPI,No
+134,2025-01-14,CUST1237,Electronics,Laptop,West,Returning,5,26568.65,0,132843.25,Credit Card,No
+135,2025-03-25,CUST1229,Clothing,Sneakers,South,Returning,1,1071.99,25,803.99,UPI,No
+136,2025-10-30,CUST1080,Electronics,Smartphone,West,New,1,27793.2,20,22234.56,Net Banking,No
+137,2025-09-21,CUST1165,Home & Kitchen,Cookware Set,West,New,1,5338.43,0,5338.43,UPI,Yes
+138,2025-06-05,CUST1148,Clothing,Sneakers,East,Returning,3,2335.64,10,6306.23,Cash on Delivery,No
+139,2025-01-01,CUST1206,Electronics,Laptop,North,New,4,23854.49,5,90647.06,Credit Card,No
+140,2025-08-05,CUST1239,Home & Kitchen,Coffee Maker,Central,Returning,2,2232.18,20,3571.49,Credit Card,No
+141,2025-11-04,CUST1008,Home & Kitchen,Coffee Maker,East,New,2,2350.38,25,3525.57,Credit Card,No
+142,2025-04-29,CUST1145,Electronics,Tablet,Central,New,4,30637.35,15,104166.99,UPI,No
+143,2025-10-16,CUST1190,Beauty,Face Serum,North,Returning,3,1459.57,15,3721.9,UPI,No
+144,2025-03-30,CUST1233,Home & Kitchen,Cookware Set,West,New,3,3672.77,20,8814.65,Cash on Delivery,No
+145,2025-03-23,CUST1199,Electronics,Laptop,South,New,3,21813.23,5,62167.71,UPI,No
+146,2025-11-12,CUST1035,Electronics,Smartphone,South,New,2,31587.66,10,56857.79,UPI,No
+147,2025-09-22,CUST1154,Electronics,Laptop,East,New,2,33590.45,10,60462.81,UPI,Yes
+148,2025-09-28,CUST1108,Electronics,Tablet,South,Returning,1,22157.73,10,19941.96,UPI,No
+149,2025-04-27,CUST1214,Sports,Football,West,Returning,4,2552.37,0,10209.48,Net Banking,No
+150,2025-06-06,CUST1164,Electronics,Tablet,West,Returning,3,28430.74,10,76763.0,UPI,No
+151,2025-09-20,CUST1170,Beauty,Shampoo,South,New,2,792.94,15,1348.0,Credit Card,No
+152,2025-06-21,CUST1119,Electronics,Smartwatch,South,New,1,29821.58,15,25348.34,Cash on Delivery,No
+153,2025-01-10,CUST1091,Home & Kitchen,Bedsheet,Central,New,4,2932.89,15,9971.83,Credit Card,No
+154,2025-12-11,CUST1242,Beauty,Shampoo,West,Returning,1,745.8,15,633.93,UPI,No
+155,2025-05-30,CUST1078,Electronics,Smartphone,West,Returning,2,25383.35,10,45690.03,Credit Card,No
+156,2025-03-26,CUST1169,Home & Kitchen,Blender,East,Returning,2,3319.92,10,5975.86,Credit Card,No
+157,2025-10-15,CUST1136,Home & Kitchen,Coffee Maker,West,Returning,1,3035.57,20,2428.46,Debit Card,No
+158,2025-01-05,CUST1200,Clothing,T-Shirt,West,Returning,1,1671.74,15,1420.98,Cash on Delivery,No
+159,2025-08-03,CUST1150,Home & Kitchen,Coffee Maker,South,New,5,1663.01,10,7483.54,UPI,No
+160,2025-11-07,CUST1144,Home & Kitchen,Coffee Maker,Central,Returning,2,1871.19,0,3742.38,Cash on Delivery,No
+161,2025-10-06,CUST1121,Electronics,Smartwatch,Central,Returning,5,15442.26,25,57908.48,Debit Card,No
+162,2025-06-10,CUST1142,Home & Kitchen,Coffee Maker,West,New,2,3112.4,10,5602.32,Cash on Delivery,No
+163,2025-09-06,CUST1055,Electronics,Laptop,South,New,1,8933.2,10,8039.88,Debit Card,No
+164,2025-01-12,CUST1035,Electronics,Headphones,East,Returning,4,29444.92,0,117779.68,Debit Card,No
+165,2025-01-14,CUST1020,Home & Kitchen,Cookware Set,Central,Returning,1,3285.67,15,2792.82,Cash on Delivery,No
+166,2025-06-13,CUST1238,Home & Kitchen,Cookware Set,West,New,2,2574.21,0,5148.42,Cash on Delivery,No
+167,2025-01-25,CUST1031,Electronics,Headphones,Central,Returning,3,24054.67,0,72164.01,UPI,No
+168,2025-02-12,CUST1243,Clothing,Jeans,South,Returning,2,1756.66,15,2986.32,Credit Card,No
+169,2025-09-10,CUST1156,Home & Kitchen,Cookware Set,East,New,1,1667.55,0,1667.55,Net Banking,No
+170,2025-09-17,CUST1052,Clothing,Jacket,North,Returning,5,2355.73,20,9422.92,UPI,No
+171,2025-04-26,CUST1199,Electronics,Smartwatch,East,Returning,1,40002.11,10,36001.9,Credit Card,No
+172,2025-09-03,CUST1120,Beauty,Makeup Kit,North,New,3,755.06,10,2038.66,UPI,No
+173,2025-06-30,CUST1183,Home & Kitchen,Blender,South,Returning,2,2282.22,10,4108.0,UPI,No
+174,2025-08-15,CUST1021,Electronics,Smartwatch,Central,New,1,24729.28,10,22256.35,UPI,No
+175,2025-05-09,CUST1247,Sports,Yoga Mat,Central,Returning,1,3118.67,20,2494.94,Debit Card,No
+176,2025-12-09,CUST1193,Home & Kitchen,Lamp,East,New,2,3295.76,0,6591.52,Net Banking,No
+177,2025-06-01,CUST1180,Clothing,Dress,North,Returning,1,1806.31,10,1625.68,UPI,No
+178,2025-12-16,CUST1111,Beauty,Perfume,North,New,3,972.11,0,2916.33,Credit Card,No
+179,2025-11-25,CUST1169,Electronics,Smartwatch,Central,Returning,1,14039.85,15,11933.87,Credit Card,No
+180,2025-09-15,CUST1032,Sports,Dumbbells,South,New,2,2307.59,10,4153.66,UPI,No
+181,2025-07-02,CUST1244,Home & Kitchen,Cookware Set,North,New,2,3207.8,10,5774.04,Net Banking,No
+182,2025-05-02,CUST1233,Electronics,Tablet,West,Returning,3,18183.63,20,43640.71,Credit Card,No
+183,2025-12-26,CUST1089,Home & Kitchen,Bedsheet,West,Returning,2,73341.18,10,132014.12,Cash on Delivery,No
+184,2025-10-10,CUST1044,Sports,Football,West,New,5,3029.45,10,13632.52,UPI,No
+185,2025-04-28,CUST1111,Beauty,Perfume,West,Returning,3,1960.78,15,4999.99,UPI,No
+186,2025-04-14,CUST1217,Electronics,Laptop,North,New,1,30456.05,20,24364.84,UPI,No
+187,2025-03-27,CUST1181,Home & Kitchen,Lamp,North,New,3,3782.89,0,11348.67,Cash on Delivery,No
+188,2025-07-30,CUST1020,Clothing,Jacket,West,Returning,5,1948.95,5,9257.51,UPI,No
+189,2025-12-25,CUST1014,Beauty,Perfume,North,Returning,1,1689.95,10,1520.96,Credit Card,No
+190,2025-09-11,CUST1188,Beauty,Makeup Kit,East,Returning,2,959.34,10,1726.81,UPI,No
+191,2025-03-17,CUST1228,Beauty,Face Serum,West,New,3,1492.48,10,4029.7,UPI,No
+192,2025-09-08,CUST1118,Electronics,Smartphone,South,New,3,33358.92,15,85065.25,Credit Card,No
+193,2025-07-17,CUST1094,Home & Kitchen,Blender,West,Returning,5,3872.13,0,19360.65,Credit Card,No
+194,2025-02-04,CUST1165,Beauty,Makeup Kit,West,Returning,1,621.79,20,497.43,Cash on Delivery,No
+195,2025-09-17,CUST1108,Clothing,Dress,East,Returning,1,1862.94,0,1862.94,Credit Card,No
+196,2025-12-30,CUST1183,Electronics,Smartwatch,West,Returning,1,26277.16,0,26277.16,Credit Card,No
+197,2025-07-24,CUST1107,Sports,Dumbbells,South,Returning,3,2096.53,0,6289.59,UPI,No
+198,2025-06-09,CUST1199,Electronics,Smartwatch,South,Returning,2,20761.84,25,31142.76,Credit Card,No
+199,2025-11-10,CUST1140,Clothing,Jeans,South,New,1,1272.22,5,1208.61,UPI,No
+200,2025-11-23,CUST1061,Clothing,T-Shirt,North,Returning,2,2184.81,10,3932.66,UPI,No
+201,2025-04-08,CUST1112,Sports,Dumbbells,East,Returning,2,2719.01,0,5438.02,UPI,No
+202,2025-03-27,CUST1059,Electronics,Laptop,East,New,1,17746.1,20,14196.88,UPI,No
+203,2025-01-20,CUST1079,Clothing,Jacket,West,New,3,2797.16,0,8391.48,Debit Card,No
+204,2025-10-11,CUST1131,Sports,Cricket Bat,South,Returning,3,3069.19,0,9207.57,UPI,Yes
+205,2025-10-06,CUST1074,Sports,Yoga Mat,South,Returning,3,2382.17,25,5359.88,Debit Card,No
+206,2025-02-24,CUST1210,Electronics,Smartwatch,West,Returning,2,35048.9,0,70097.8,UPI,No
+207,2025-12-31,CUST1008,Electronics,Smartwatch,East,New,5,22676.47,0,113382.35,UPI,No
+208,2025-09-03,CUST1119,Sports,Cricket Bat,West,New,3,3273.76,0,9821.28,Cash on Delivery,No
+209,2025-09-17,CUST1148,Sports,Football,Central,Returning,2,1955.32,0,3910.64,UPI,Yes
+210,2025-05-14,CUST1175,Sports,Football,Central,New,2,3156.28,5,5996.93,Debit Card,No
+211,2025-10-13,CUST1180,Home & Kitchen,Blender,South,Returning,3,4168.63,0,12505.89,Cash on Delivery,No
+212,2025-06-25,CUST1094,Sports,Running Shoes,East,Returning,2,1976.92,15,3360.76,UPI,No
+213,2025-09-05,CUST1004,Sports,Running Shoes,North,Returning,3,2405.97,5,6857.01,Credit Card,No
+214,2025-05-22,CUST1077,Sports,Football,North,New,4,3313.78,5,12592.36,UPI,No
+215,2025-04-01,CUST1147,Sports,Running Shoes,Central,Returning,2,112181.41,5,213144.68,UPI,No
+216,2025-06-03,CUST1110,Sports,Running Shoes,South,New,5,1400.53,0,7002.65,UPI,No
+217,2025-07-25,CUST1142,Sports,Dumbbells,West,Returning,3,1883.27,5,5367.32,Net Banking,No
+218,2025-11-16,CUST1053,Electronics,Tablet,East,New,2,34502.34,5,65554.45,Debit Card,No
+219,2025-09-21,CUST1016,Clothing,Jacket,West,Returning,1,1575.03,25,1181.27,Credit Card,No
+220,2025-02-19,CUST1101,Electronics,Smartphone,South,Returning,2,31950.85,15,54316.44,Debit Card,No
+221,2025-02-04,CUST1047,Home & Kitchen,Blender,West,Returning,1,4300.27,5,4085.26,Credit Card,No
+222,2025-11-03,CUST1055,Electronics,Headphones,Central,Returning,2,100553.51,0,201107.02,UPI,No
+223,2025-07-13,CUST1214,Home & Kitchen,Coffee Maker,North,Returning,5,3245.65,5,15416.84,Net Banking,No
+224,2025-12-28,CUST1168,Electronics,Smartphone,North,Returning,5,9687.69,5,46016.53,Net Banking,No
+225,2025-02-18,CUST1126,Clothing,Dress,East,Returning,2,2483.22,10,4469.8,UPI,No
+226,2025-02-28,CUST1011,Clothing,Dress,South,Returning,2,1436.16,20,2297.86,UPI,No
+227,2025-04-18,CUST1161,Electronics,Headphones,North,New,2,30067.81,5,57128.84,Debit Card,No
+228,2025-12-09,CUST1084,Beauty,Moisturizer,West,New,2,1346.27,20,2154.03,UPI,Yes
+229,2025-05-27,CUST1041,Home & Kitchen,Cookware Set,West,Returning,4,4886.74,10,17592.26,UPI,No
+230,2025-09-23,CUST1039,Sports,Football,West,New,2,4955.12,0,9910.24,UPI,No
+231,2025-12-16,CUST1213,Sports,Cricket Bat,West,Returning,2,1136.84,10,2046.31,UPI,Yes
+232,2025-04-17,CUST1181,Beauty,Face Serum,West,Returning,1,928.86,15,789.53,Cash on Delivery,No
+233,2025-06-21,CUST1057,Sports,Cricket Bat,North,New,1,2668.38,10,2401.54,UPI,No
+234,2025-01-07,CUST1148,Electronics,Smartwatch,West,New,1,32094.57,20,25675.66,Credit Card,No
+235,2025-05-06,CUST1184,Clothing,Jeans,West,Returning,3,1254.73,10,3387.77,Debit Card,No
+236,2025-12-10,CUST1155,Sports,Yoga Mat,North,New,2,3004.19,25,4506.28,Net Banking,No
+237,2025-11-11,CUST1124,Electronics,Headphones,South,New,1,24645.0,20,19716.0,Credit Card,No
+238,2025-02-28,CUST1240,Clothing,Sneakers,Central,Returning,5,1057.44,10,4758.48,Credit Card,No
+239,2025-12-08,CUST1250,Beauty,Makeup Kit,North,Returning,1,1475.72,20,1180.58,UPI,No
+240,2025-04-02,CUST1098,Electronics,Smartwatch,North,Returning,2,20705.74,25,31058.61,UPI,No
+241,2025-08-02,CUST1145,Clothing,Jacket,West,Returning,1,3035.24,10,2731.72,Debit Card,Yes
+242,2025-11-06,CUST1139,Beauty,Perfume,North,Returning,2,1673.49,20,2677.58,UPI,No
+243,2025-01-12,CUST1228,Home & Kitchen,Bedsheet,West,New,3,2386.03,10,6442.28,Cash on Delivery,No
+244,2025-07-11,CUST1206,Clothing,T-Shirt,East,Returning,2,1818.19,10,3272.74,UPI,No
+245,2025-12-31,CUST1225,Clothing,Sneakers,West,Returning,1,1902.73,0,1902.73,UPI,No
+246,2025-07-08,CUST1093,Sports,Running Shoes,South,New,4,2792.43,0,11169.72,Credit Card,No
+247,2025-07-23,CUST1019,Electronics,Headphones,West,New,1,19516.22,25,14637.16,Debit Card,Yes
+248,2025-03-06,CUST1141,Electronics,Laptop,West,New,1,32545.94,15,27664.05,Credit Card,Yes
+249,2025-02-04,CUST1158,Beauty,Makeup Kit,West,Returning,2,877.84,0,1755.68,Net Banking,No
+250,2025-06-22,CUST1102,Electronics,Headphones,South,New,2,26853.4,0,53706.8,Cash on Delivery,No
+251,2025-07-07,CUST1195,Clothing,T-Shirt,East,Returning,2,2081.86,5,3955.53,UPI,No
+252,2025-08-21,CUST1019,Beauty,Perfume,North,Returning,1,882.69,0,882.69,Cash on Delivery,No
+253,2025-02-23,CUST1152,Home & Kitchen,Blender,West,Returning,1,3756.83,15,3193.31,UPI,No
+254,2025-04-29,CUST1127,Clothing,Sneakers,North,Returning,1,1490.27,20,1192.22,Debit Card,No
+255,2025-12-15,CUST1121,Electronics,Smartwatch,South,New,3,22130.92,0,66392.76,Credit Card,No
+256,2025-06-11,CUST1141,Electronics,Smartwatch,North,New,1,26357.92,20,21086.34,Debit Card,No
+257,2025-11-12,CUST1013,Clothing,Sneakers,West,New,1,2696.33,0,2696.33,Credit Card,No
+258,2025-07-20,CUST1042,Electronics,Smartwatch,North,Returning,1,33104.38,20,26483.5,Net Banking,No
+259,2025-09-13,CUST1141,Electronics,Smartwatch,Central,Returning,1,12710.06,15,10803.55,Credit Card,No
+260,2025-04-10,CUST1216,Clothing,Jeans,North,Returning,2,907.61,15,1542.94,UPI,No
+261,2025-05-29,CUST1013,Sports,Cricket Bat,West,New,2,2463.46,0,4926.92,UPI,Yes
+262,2025-01-13,CUST1100,Electronics,Laptop,East,New,1,42191.08,5,40081.53,UPI,Yes
+263,2025-07-01,CUST1065,Sports,Running Shoes,East,New,3,3695.74,0,11087.22,UPI,No
+264,2025-10-10,CUST1233,Clothing,Sneakers,South,New,2,1202.48,0,2404.96,Credit Card,No
+265,2025-11-09,CUST1075,Electronics,Tablet,South,Returning,5,33650.86,20,134603.44,Credit Card,Yes
+266,2025-04-14,CUST1156,Beauty,Face Serum,South,New,1,632.39,5,600.77,Credit Card,No
+267,2025-04-29,CUST1236,Clothing,Sneakers,East,New,1,2138.37,5,2031.45,Net Banking,No
+268,2025-09-24,CUST1095,Home & Kitchen,Blender,West,Returning,5,3563.24,10,16034.58,UPI,No
+269,2025-07-07,CUST1084,Home & Kitchen,Lamp,West,Returning,2,2635.85,15,4480.94,Debit Card,No
+270,2025-08-14,CUST1197,Home & Kitchen,Lamp,North,New,1,3576.34,10,3218.71,Debit Card,No
+271,2025-01-03,CUST1240,Home & Kitchen,Cookware Set,East,New,1,3254.08,0,3254.08,UPI,No
+272,2025-09-29,CUST1187,Sports,Dumbbells,Central,New,2,1592.5,10,2866.5,Net Banking,No
+273,2025-11-07,CUST1162,Sports,Yoga Mat,North,Returning,2,1994.02,10,3589.24,Net Banking,No
+274,2025-04-04,CUST1088,Beauty,Makeup Kit,Central,Returning,2,1753.12,15,2980.3,Debit Card,No
+275,2025-04-11,CUST1104,Beauty,Makeup Kit,East,New,3,1575.72,0,4727.16,Credit Card,No
+276,2025-12-30,CUST1248,Beauty,Perfume,South,New,2,311.0,0,622.0,UPI,No
+277,2025-08-29,CUST1090,Sports,Dumbbells,Central,New,1,2083.55,0,2083.55,Cash on Delivery,No
+278,2025-03-23,CUST1109,Clothing,Jeans,Central,New,2,1952.42,5,3709.6,UPI,No
+279,2025-07-12,CUST1139,Sports,Dumbbells,Central,Returning,1,3009.63,25,2257.22,Credit Card,No
+280,2025-07-07,CUST1133,Home & Kitchen,Bedsheet,East,Returning,1,3267.97,25,2450.98,Debit Card,No
+281,2025-04-19,CUST1249,Clothing,Sneakers,West,Returning,1,1010.99,20,808.79,UPI,No
+282,2025-10-07,CUST1221,Clothing,Jeans,Central,Returning,3,2029.09,0,6087.27,UPI,No
+283,2025-06-30,CUST1057,Beauty,Shampoo,West,Returning,1,959.39,0,959.39,UPI,No
+284,2025-04-13,CUST1179,Home & Kitchen,Coffee Maker,East,New,1,1458.4,5,1385.48,Net Banking,No
+285,2025-08-27,CUST1112,Electronics,Smartwatch,Central,New,2,37973.75,20,60758.0,UPI,No
+286,2025-02-08,CUST1200,Beauty,Face Serum,South,Returning,1,997.95,15,848.26,Cash on Delivery,No
+287,2025-06-11,CUST1068,Home & Kitchen,Lamp,South,Returning,4,4012.54,0,16050.16,Credit Card,No
+288,2025-07-10,CUST1088,Sports,Yoga Mat,North,Returning,2,4173.57,5,7929.78,Cash on Delivery,No
+289,2025-05-06,CUST1084,Electronics,Headphones,West,New,1,23206.92,0,23206.92,Credit Card,No
+290,2025-04-19,CUST1015,Sports,Running Shoes,North,Returning,4,2733.48,10,9840.53,UPI,No
+291,2025-03-19,CUST1177,Clothing,Sneakers,South,New,2,843.74,20,1349.98,Cash on Delivery,No
+292,2025-01-13,CUST1080,Home & Kitchen,Bedsheet,East,Returning,5,3062.64,15,13016.22,Cash on Delivery,No
+293,2025-01-02,CUST1195,Electronics,Laptop,West,Returning,3,28295.02,5,80640.81,UPI,No
+294,2025-04-23,CUST1140,Sports,Running Shoes,West,New,1,3593.66,10,3234.29,Credit Card,No
+295,2025-02-28,CUST1222,Home & Kitchen,Blender,South,Returning,1,2674.81,15,2273.59,UPI,No
+296,2025-08-03,CUST1248,Clothing,Sneakers,Central,Returning,1,1652.98,10,1487.68,UPI,No
+297,2025-03-03,CUST1197,Sports,Dumbbells,Central,Returning,5,1498.25,0,7491.25,Credit Card,No
+298,2025-09-23,CUST1024,Electronics,Smartwatch,South,New,2,25677.9,15,43652.43,Debit Card,No
+299,2025-08-18,CUST1066,Home & Kitchen,Cookware Set,West,New,2,3357.13,10,6042.83,Credit Card,No
+300,2025-03-14,CUST1100,Electronics,Laptop,West,New,2,18672.98,15,31744.07,UPI,No
+301,2025-09-23,CUST1100,Electronics,Laptop,Central,Returning,4,13659.79,0,54639.16,Credit Card,No
+302,2025-01-07,CUST1164,Home & Kitchen,Blender,North,Returning,1,4121.17,10,3709.05,Debit Card,No
+303,2025-11-26,CUST1156,Beauty,Shampoo,West,New,1,1190.11,15,1011.59,UPI,No
+304,2025-09-05,CUST1178,Sports,Cricket Bat,South,Returning,1,2629.13,10,2366.22,Credit Card,No
+305,2025-03-04,CUST1094,Beauty,Face Serum,West,New,1,791.29,10,712.16,Net Banking,No
+306,2025-11-15,CUST1065,Sports,Dumbbells,Central,New,2,960.11,5,1824.21,UPI,No
+307,2025-03-14,CUST1037,Electronics,Headphones,East,New,1,30229.46,20,24183.57,Debit Card,No
+308,2025-07-07,CUST1107,Home & Kitchen,Lamp,East,Returning,3,2782.38,10,7512.43,Debit Card,No
+309,2025-07-05,CUST1055,Sports,Cricket Bat,South,Returning,2,2123.42,25,3185.13,Cash on Delivery,No
+310,2025-05-13,CUST1195,Beauty,Shampoo,South,Returning,3,1201.72,25,2703.87,Credit Card,No
+311,2025-05-20,CUST1052,Beauty,Moisturizer,East,Returning,2,1241.83,5,2359.48,Credit Card,No
+312,2025-02-05,CUST1080,Sports,Football,South,Returning,2,1173.44,5,2229.54,Net Banking,No
+313,2025-02-08,CUST1195,Sports,Football,Central,New,2,3160.13,20,5056.21,Cash on Delivery,No
+314,2025-02-15,CUST1247,Clothing,T-Shirt,North,Returning,1,1602.48,10,1442.23,Credit Card,No
+315,2025-09-03,CUST1028,Electronics,Laptop,East,Returning,1,18791.18,5,17851.62,Debit Card,No
+316,2025-12-29,CUST1019,Clothing,Jacket,South,Returning,2,1007.14,10,1812.85,UPI,No
+317,2025-09-03,CUST1061,Home & Kitchen,Cookware Set,North,Returning,4,3060.41,15,10405.39,UPI,No
+318,2025-01-07,CUST1062,Clothing,Jeans,East,New,3,1835.68,25,4130.28,Cash on Delivery,No
+319,2025-10-09,CUST1243,Beauty,Face Serum,West,New,3,1317.87,20,3162.89,Net Banking,No
+320,2025-09-28,CUST1232,Electronics,Smartphone,East,Returning,1,40387.93,0,40387.93,Cash on Delivery,No
+321,2025-07-04,CUST1077,Electronics,Laptop,North,Returning,2,30806.99,25,46210.48,Debit Card,No
+322,2025-12-05,CUST1183,Beauty,Moisturizer,Central,Returning,1,1394.74,15,1185.53,Debit Card,No
+323,2025-04-06,CUST1207,Clothing,Jacket,South,New,1,1668.36,20,1334.69,Debit Card,No
+324,2025-11-14,CUST1229,Electronics,Smartwatch,West,Returning,3,43463.69,10,117351.96,Cash on Delivery,No
+325,2025-08-08,CUST1090,Electronics,Smartwatch,West,New,1,15381.75,15,13074.49,Credit Card,No
+326,2025-09-26,CUST1057,Sports,Football,East,Returning,2,2455.21,10,4419.38,Debit Card,No
+327,2025-07-26,CUST1062,Electronics,Headphones,Central,Returning,1,43177.07,10,38859.36,UPI,No
+328,2025-05-09,CUST1110,Beauty,Face Serum,South,Returning,2,1796.94,20,2875.1,UPI,No
+329,2025-07-26,CUST1204,Electronics,Smartwatch,West,New,1,31235.5,0,31235.5,Cash on Delivery,No
+330,2025-04-06,CUST1178,Electronics,Smartphone,East,New,1,31646.03,10,28481.43,UPI,Yes
+331,2025-04-14,CUST1038,Beauty,Face Serum,Central,Returning,2,918.82,20,1470.11,Debit Card,No
+332,2025-03-02,CUST1143,Electronics,Smartwatch,Central,Returning,3,27408.19,25,61668.43,Cash on Delivery,No
+333,2025-10-31,CUST1003,Clothing,Dress,North,New,1,1150.01,10,1035.01,Debit Card,Yes
+334,2025-01-29,CUST1171,Home & Kitchen,Bedsheet,South,New,3,4863.87,10,13132.45,Credit Card,No
+335,2025-01-28,CUST1113,Home & Kitchen,Lamp,Central,New,5,1698.26,25,6368.48,Debit Card,No
+336,2025-06-04,CUST1021,Clothing,T-Shirt,East,Returning,2,1888.94,5,3588.99,Cash on Delivery,No
+337,2025-12-05,CUST1242,Home & Kitchen,Blender,West,Returning,1,4419.1,5,4198.15,Credit Card,Yes
+338,2025-02-28,CUST1222,Home & Kitchen,Bedsheet,Central,New,2,4234.06,20,6774.5,UPI,No
+339,2025-10-20,CUST1043,Sports,Cricket Bat,East,New,1,3235.73,15,2750.37,Credit Card,No
+340,2025-04-26,CUST1208,Electronics,Tablet,South,New,1,34107.96,15,28991.77,UPI,No
+341,2025-06-28,CUST1020,Sports,Running Shoes,West,New,1,3082.88,20,2466.3,Cash on Delivery,Yes
+342,2025-12-16,CUST1071,Clothing,Dress,Central,Returning,1,1847.11,10,1662.4,Cash on Delivery,No
+343,2025-02-21,CUST1236,Electronics,Laptop,East,New,5,35779.86,0,178899.3,Net Banking,No
+344,2025-03-01,CUST1013,Clothing,Jacket,South,New,3,300.0,5,855.0,Credit Card,No
+345,2025-06-15,CUST1197,Electronics,Tablet,North,Returning,1,24724.91,10,22252.42,Cash on Delivery,No
+346,2025-04-22,CUST1223,Clothing,Jeans,East,New,1,1265.49,20,1012.39,UPI,No
+347,2025-10-05,CUST1015,Clothing,T-Shirt,West,New,2,2141.36,20,3426.18,Debit Card,No
+348,2025-08-07,CUST1076,Electronics,Tablet,Central,Returning,2,39360.15,10,70848.27,Debit Card,No
+349,2025-10-22,CUST1229,Clothing,Jacket,West,New,1,2784.62,0,2784.62,Cash on Delivery,No
+350,2025-05-12,CUST1187,Home & Kitchen,Bedsheet,East,Returning,5,3164.36,25,11866.35,UPI,No
+351,2025-09-03,CUST1185,Electronics,Smartwatch,North,Returning,4,20202.65,25,60607.95,UPI,No
+352,2025-11-11,CUST1089,Beauty,Perfume,Central,Returning,3,1550.0,20,3720.0,Debit Card,No
+353,2025-01-13,CUST1164,Electronics,Tablet,Central,New,1,36806.59,5,34966.26,Debit Card,No
+354,2025-04-19,CUST1111,Clothing,Dress,North,Returning,4,2846.71,15,9678.81,Net Banking,No
+355,2025-01-02,CUST1238,Sports,Football,East,Returning,2,2878.38,25,4317.57,Credit Card,No
+356,2025-12-03,CUST1202,Beauty,Makeup Kit,West,Returning,2,1876.95,15,3190.82,Credit Card,No
+357,2025-11-04,CUST1237,Beauty,Makeup Kit,North,New,1,1472.68,5,1399.05,UPI,No
+358,2025-04-17,CUST1171,Electronics,Smartphone,North,Returning,3,31627.19,10,85393.41,UPI,No
+359,2025-02-25,CUST1233,Home & Kitchen,Blender,North,Returning,1,2716.01,20,2172.81,UPI,No
+360,2025-03-04,CUST1006,Clothing,Jacket,South,New,1,1695.28,15,1440.99,Net Banking,No
+361,2025-03-09,CUST1209,Home & Kitchen,Coffee Maker,Central,Returning,1,4329.5,10,3896.55,Net Banking,No
+362,2025-12-26,CUST1048,Home & Kitchen,Coffee Maker,Central,New,1,3199.51,20,2559.61,Debit Card,No
+363,2025-05-17,CUST1034,Beauty,Moisturizer,North,New,1,1534.99,5,1458.24,Net Banking,No
+364,2025-07-30,CUST1208,Electronics,Laptop,Central,Returning,4,16364.4,20,52366.08,Debit Card,No
+365,2025-06-11,CUST1112,Beauty,Perfume,North,Returning,3,1038.85,5,2960.72,UPI,No
+366,2025-12-06,CUST1225,Clothing,T-Shirt,West,Returning,3,2401.03,0,7203.09,UPI,No
+367,2025-10-29,CUST1108,Electronics,Tablet,East,New,1,35080.27,5,33326.26,UPI,Yes
+368,2025-12-26,CUST1089,Beauty,Moisturizer,East,New,2,1965.31,20,3144.5,Cash on Delivery,No
+369,2025-11-07,CUST1002,Sports,Running Shoes,West,New,2,2083.09,5,3957.87,UPI,No
+370,2025-03-31,CUST1125,Beauty,Moisturizer,West,Returning,3,1095.69,15,2794.01,Credit Card,No
+371,2025-07-03,CUST1040,Beauty,Shampoo,West,New,1,1019.1,15,866.24,Cash on Delivery,No
+372,2025-12-01,CUST1008,Sports,Yoga Mat,South,Returning,3,2656.86,10,7173.52,Debit Card,No
+373,2025-12-03,CUST1143,Electronics,Smartphone,South,New,2,31099.32,0,62198.64,Credit Card,No
+374,2025-03-01,CUST1217,Beauty,Perfume,West,New,1,1099.55,25,824.66,Credit Card,No
+375,2025-08-30,CUST1119,Home & Kitchen,Bedsheet,South,New,2,3572.26,0,7144.52,UPI,No
+376,2025-04-10,CUST1152,Home & Kitchen,Lamp,North,Returning,2,4047.42,25,6071.13,UPI,Yes
+377,2025-06-13,CUST1068,Home & Kitchen,Blender,Central,Returning,2,5625.3,0,11250.6,UPI,No
+378,2025-12-18,CUST1024,Home & Kitchen,Coffee Maker,Central,New,3,2450.45,10,6616.21,Credit Card,No
+379,2025-12-30,CUST1146,Sports,Yoga Mat,South,Returning,2,3020.76,10,5437.37,Credit Card,No
+380,2025-06-22,CUST1238,Electronics,Tablet,South,Returning,2,31061.32,0,62122.64,Cash on Delivery,No
+381,2025-04-06,CUST1106,Electronics,Tablet,Central,New,1,29369.85,20,23495.88,Cash on Delivery,No
+382,2025-08-02,CUST1150,Electronics,Smartphone,West,New,3,22544.95,10,60871.37,Credit Card,No
+383,2025-03-17,CUST1083,Beauty,Perfume,East,Returning,1,1738.59,25,1303.94,Net Banking,No
+384,2025-08-25,CUST1234,Sports,Football,South,Returning,2,3865.99,10,6958.78,UPI,No
+385,2025-12-21,CUST1173,Electronics,Laptop,South,Returning,1,15089.15,0,15089.15,Credit Card,No
+386,2025-10-25,CUST1243,Clothing,T-Shirt,North,Returning,4,2016.94,5,7664.37,Net Banking,No
+387,2025-08-27,CUST1059,Clothing,Dress,West,Returning,1,1861.0,25,1395.75,Cash on Delivery,No
+388,2025-09-10,CUST1090,Home & Kitchen,Coffee Maker,South,Returning,1,2882.79,5,2738.65,Cash on Delivery,No
+389,2025-05-31,CUST1195,Electronics,Smartwatch,North,Returning,1,30926.9,10,27834.21,Debit Card,No
+390,2025-01-27,CUST1063,Clothing,Sneakers,North,Returning,4,1311.73,10,4722.23,Cash on Delivery,No
+391,2025-02-03,CUST1164,Clothing,Jeans,North,New,1,2130.87,20,1704.7,Debit Card,No
+392,2025-05-28,CUST1148,Electronics,Headphones,South,New,2,15044.19,20,24070.7,UPI,No
+393,2025-10-17,CUST1159,Home & Kitchen,Lamp,South,Returning,2,3432.65,0,6865.3,Debit Card,No
+394,2025-10-15,CUST1060,Home & Kitchen,Blender,East,Returning,2,2929.37,10,5272.87,Net Banking,No
+395,2025-12-07,CUST1108,Home & Kitchen,Bedsheet,South,New,3,2333.41,5,6650.22,Credit Card,No
+396,2025-01-12,CUST1049,Electronics,Headphones,Central,Returning,1,19076.29,20,15261.03,Cash on Delivery,No
+397,2025-04-06,CUST1042,Home & Kitchen,Coffee Maker,North,New,1,4392.91,15,3733.97,Credit Card,No
+398,2025-02-10,CUST1012,Electronics,Tablet,West,Returning,5,15923.92,0,79619.6,Credit Card,No
+399,2025-06-25,CUST1155,Clothing,Sneakers,North,Returning,1,1847.8,10,1663.02,Cash on Delivery,No
+400,2025-06-05,CUST1110,Home & Kitchen,Blender,Central,New,1,3165.95,0,3165.95,Net Banking,No
+401,2025-05-30,CUST1100,Electronics,Laptop,North,Returning,1,28861.44,10,25975.3,Cash on Delivery,No
+402,2025-05-31,CUST1196,Home & Kitchen,Blender,Central,Returning,1,2601.88,5,2471.79,UPI,No
+403,2025-12-03,CUST1169,Clothing,Jacket,East,New,1,2219.21,0,2219.21,UPI,Yes
+404,2025-04-14,CUST1245,Clothing,Sneakers,West,New,1,3022.97,5,2871.82,UPI,No
+405,2025-10-15,CUST1173,Beauty,Face Serum,East,New,1,1455.53,10,1309.98,Credit Card,No
+406,2025-12-09,CUST1203,Sports,Running Shoes,South,New,1,5510.66,20,4408.53,Debit Card,No
+407,2025-02-27,CUST1112,Home & Kitchen,Cookware Set,North,Returning,2,1065.51,20,1704.82,UPI,No
+408,2025-07-31,CUST1246,Electronics,Headphones,West,Returning,2,22747.22,15,38670.27,Credit Card,No
+409,2025-03-27,CUST1200,Sports,Running Shoes,West,New,3,2721.05,5,7754.99,Credit Card,No
+410,2025-01-20,CUST1207,Sports,Running Shoes,East,Returning,2,887.42,20,1419.87,UPI,No
+411,2025-10-02,CUST1232,Home & Kitchen,Lamp,West,Returning,1,2162.1,15,1837.78,Credit Card,No
+412,2025-11-13,CUST1140,Home & Kitchen,Coffee Maker,West,New,5,4522.57,15,19220.92,UPI,No
+413,2025-09-26,CUST1049,Clothing,Dress,East,Returning,1,2282.7,15,1940.29,Net Banking,No
+414,2025-10-06,CUST1153,Home & Kitchen,Cookware Set,South,Returning,1,4737.76,10,4263.98,Debit Card,No
+415,2025-12-14,CUST1106,Electronics,Headphones,North,New,1,14908.34,20,11926.67,Credit Card,No
+416,2025-03-28,CUST1241,Home & Kitchen,Bedsheet,East,Returning,1,1433.0,15,1218.05,Credit Card,No
+417,2025-11-04,CUST1246,Electronics,Laptop,South,Returning,2,17662.31,0,35324.62,Credit Card,No
+418,2025-01-08,CUST1123,Electronics,Smartphone,North,New,1,20593.88,20,16475.1,Credit Card,No
+419,2025-02-16,CUST1176,Home & Kitchen,Blender,South,New,2,3102.74,10,5584.93,Credit Card,No
+420,2025-09-25,CUST1199,Home & Kitchen,Coffee Maker,North,New,3,4644.08,20,11145.79,Cash on Delivery,No
+421,2025-02-13,CUST1249,Home & Kitchen,Cookware Set,Central,New,2,3375.81,10,6076.46,Debit Card,No
+422,2025-09-03,CUST1190,Sports,Dumbbells,West,Returning,1,2317.08,20,1853.66,Credit Card,No
+423,2025-09-16,CUST1095,Clothing,Jeans,West,New,3,1688.23,25,3798.52,Credit Card,No
+424,2025-01-22,CUST1247,Beauty,Moisturizer,North,New,1,630.68,25,473.01,UPI,No
+425,2025-08-08,CUST1197,Home & Kitchen,Lamp,Central,Returning,1,3481.7,20,2785.36,UPI,No
+426,2025-05-03,CUST1207,Beauty,Perfume,North,Returning,1,1059.36,0,1059.36,Credit Card,No
+427,2025-01-08,CUST1087,Home & Kitchen,Coffee Maker,South,Returning,2,3257.73,0,6515.46,UPI,No
+428,2025-11-23,CUST1152,Home & Kitchen,Lamp,Central,Returning,1,3731.66,0,3731.66,Net Banking,No
+429,2025-11-02,CUST1121,Home & Kitchen,Coffee Maker,North,Returning,1,3388.04,10,3049.24,Cash on Delivery,No
+430,2025-11-30,CUST1092,Electronics,Tablet,Central,New,1,24292.31,15,20648.46,Debit Card,No
+431,2025-08-08,CUST1208,Home & Kitchen,Lamp,West,New,1,2262.02,25,1696.52,UPI,No
+432,2025-12-04,CUST1063,Sports,Football,North,New,2,2295.09,10,4131.16,Credit Card,No
+433,2025-02-04,CUST1193,Beauty,Makeup Kit,South,New,5,1701.52,15,7231.46,Cash on Delivery,No
+434,2025-07-06,CUST1126,Clothing,Jacket,South,Returning,1,1096.8,10,987.12,UPI,Yes
+435,2025-10-21,CUST1188,Electronics,Laptop,Central,Returning,5,29399.02,0,146995.1,UPI,No
+436,2025-03-26,CUST1064,Sports,Cricket Bat,West,Returning,5,356.59,5,1693.8,UPI,No
+437,2025-12-09,CUST1088,Beauty,Perfume,South,New,1,1512.19,5,1436.58,UPI,No
+438,2025-05-14,CUST1021,Beauty,Perfume,South,Returning,1,686.97,15,583.92,UPI,No
+439,2025-04-27,CUST1075,Beauty,Makeup Kit,East,New,1,1268.55,5,1205.12,Debit Card,No
+440,2025-12-21,CUST1116,Clothing,Dress,South,New,1,1567.31,0,1567.31,Credit Card,No
+441,2025-05-06,CUST1016,Clothing,Dress,South,Returning,2,2389.81,20,3823.7,Debit Card,No
+442,2025-08-24,CUST1045,Clothing,T-Shirt,East,New,3,1916.43,10,5174.36,Debit Card,No
+443,2025-10-14,CUST1073,Home & Kitchen,Cookware Set,North,Returning,1,3587.29,5,3407.93,Credit Card,No
+444,2025-07-28,CUST1247,Home & Kitchen,Coffee Maker,West,Returning,1,1915.45,0,1915.45,Cash on Delivery,No
+445,2025-04-19,CUST1009,Home & Kitchen,Cookware Set,Central,Returning,3,2307.61,0,6922.83,Credit Card,No
+446,2025-05-21,CUST1052,Electronics,Headphones,North,New,2,33812.42,5,64243.6,Cash on Delivery,No
+447,2025-05-31,CUST1020,Home & Kitchen,Coffee Maker,North,Returning,3,1613.09,0,4839.27,UPI,No
+448,2025-08-08,CUST1082,Clothing,T-Shirt,North,Returning,1,921.91,10,829.72,UPI,No
+449,2025-11-14,CUST1183,Electronics,Smartwatch,West,New,1,25957.32,15,22063.72,UPI,No
+450,2025-05-24,CUST1220,Electronics,Headphones,Central,New,2,25662.89,0,51325.78,Debit Card,No
+451,2025-06-04,CUST1126,Home & Kitchen,Lamp,Central,New,4,2641.7,0,10566.8,Cash on Delivery,No
+452,2025-10-11,CUST1090,Clothing,T-Shirt,West,New,3,2356.07,20,5654.57,Debit Card,No
+453,2025-02-28,CUST1237,Electronics,Headphones,West,Returning,2,18348.49,15,31192.43,Debit Card,No
+454,2025-03-28,CUST1178,Electronics,Headphones,Central,New,1,26556.77,20,21245.42,Credit Card,No
+455,2025-02-17,CUST1061,Clothing,Dress,East,Returning,1,2136.02,20,1708.82,UPI,No
+456,2025-07-25,CUST1050,Clothing,T-Shirt,South,New,1,2328.87,0,2328.87,UPI,No
+457,2025-12-18,CUST1093,Home & Kitchen,Lamp,West,Returning,1,3391.49,5,3221.92,Credit Card,No
+458,2025-01-14,CUST1206,Home & Kitchen,Bedsheet,North,New,5,3660.34,5,17386.62,UPI,No
+459,2025-09-29,CUST1132,Sports,Football,East,New,1,3222.82,5,3061.68,Cash on Delivery,Yes
+460,2025-03-10,CUST1232,Home & Kitchen,Cookware Set,West,New,4,4575.79,5,17388.0,Cash on Delivery,Yes
+461,2025-11-16,CUST1071,Clothing,Jeans,North,New,3,2321.39,15,5919.54,Net Banking,No
+462,2025-10-10,CUST1105,Sports,Yoga Mat,West,New,1,2249.76,15,1912.3,Debit Card,No
+463,2025-12-28,CUST1171,Beauty,Moisturizer,Central,New,1,1530.92,10,1377.83,Credit Card,No
+464,2025-10-13,CUST1248,Home & Kitchen,Cookware Set,Central,Returning,3,92687.2,5,264158.52,UPI,No
+465,2025-12-29,CUST1184,Clothing,Jeans,East,Returning,3,1960.92,5,5588.62,Cash on Delivery,No
+466,2025-08-29,CUST1214,Beauty,Moisturizer,West,New,1,479.05,10,431.15,Debit Card,No
+467,2025-07-31,CUST1146,Home & Kitchen,Coffee Maker,South,New,2,4250.47,20,6800.75,Cash on Delivery,No
+468,2025-10-05,CUST1226,Clothing,T-Shirt,South,Returning,2,2300.5,5,4370.95,Cash on Delivery,No
+469,2025-11-17,CUST1065,Sports,Football,North,Returning,3,2601.14,0,7803.42,Credit Card,No
+470,2025-06-30,CUST1196,Beauty,Perfume,North,Returning,1,1292.55,5,1227.92,Net Banking,No
+471,2025-05-20,CUST1198,Beauty,Perfume,West,New,2,1475.09,0,2950.18,UPI,No
+472,2025-12-01,CUST1109,Beauty,Makeup Kit,North,Returning,4,1540.54,5,5854.05,Credit Card,Yes
+473,2025-04-07,CUST1067,Sports,Running Shoes,Central,New,1,5132.59,10,4619.33,Cash on Delivery,No
+474,2025-11-10,CUST1001,Electronics,Laptop,East,Returning,2,26410.2,20,42256.32,Cash on Delivery,Yes
+475,2025-08-14,CUST1239,Home & Kitchen,Coffee Maker,West,New,1,4129.12,10,3716.21,Credit Card,No
+476,2025-06-04,CUST1186,Clothing,Sneakers,West,Returning,2,2976.23,0,5952.46,Debit Card,No
+477,2025-10-05,CUST1117,Electronics,Smartwatch,East,New,3,26145.15,15,66670.13,Credit Card,No
+478,2025-08-04,CUST1062,Clothing,Dress,East,New,4,1334.66,0,5338.64,UPI,No
+479,2025-06-17,CUST1145,Beauty,Moisturizer,Central,New,1,793.33,5,753.66,Net Banking,No
+480,2025-06-06,CUST1120,Electronics,Smartwatch,Central,New,1,32001.97,25,24001.48,Debit Card,No
+481,2025-09-04,CUST1082,Home & Kitchen,Coffee Maker,North,New,1,3869.58,5,3676.1,UPI,No
+482,2025-03-17,CUST1055,Beauty,Perfume,South,Returning,3,1273.73,5,3630.13,UPI,No
+483,2025-12-22,CUST1208,Beauty,Moisturizer,West,Returning,1,1380.32,0,1380.32,Debit Card,No
+484,2025-03-12,CUST1199,Clothing,Dress,East,Returning,2,2039.17,10,3670.51,UPI,No
+485,2025-09-10,CUST1161,Clothing,T-Shirt,East,New,3,2806.19,5,7997.64,Net Banking,No
+486,2025-03-07,CUST1081,Home & Kitchen,Cookware Set,West,Returning,1,1697.93,5,1613.03,UPI,No
+487,2025-07-02,CUST1238,Beauty,Moisturizer,West,Returning,5,1572.75,10,7077.38,Net Banking,No
+488,2025-08-10,CUST1019,Electronics,Smartwatch,North,New,1,31657.41,0,31657.41,Cash on Delivery,No
+489,2025-03-10,CUST1015,Clothing,Jacket,Central,New,1,1623.6,15,1380.06,Debit Card,No
+490,2025-11-24,CUST1247,Electronics,Smartphone,East,Returning,4,13808.48,15,46948.83,Cash on Delivery,No
+491,2025-01-10,CUST1004,Beauty,Moisturizer,North,New,1,944.54,10,850.09,UPI,No
+492,2025-07-16,CUST1006,Electronics,Laptop,South,Returning,1,28177.26,0,28177.26,Net Banking,No
+493,2025-01-02,CUST1008,Electronics,Headphones,East,New,2,6992.79,0,13985.58,Debit Card,No
+494,2025-12-08,CUST1216,Beauty,Shampoo,South,Returning,2,1349.61,5,2564.26,UPI,No
+495,2025-02-13,CUST1038,Clothing,T-Shirt,South,Returning,1,2335.26,0,2335.26,Credit Card,No
+496,2025-02-26,CUST1184,Clothing,Jeans,West,New,1,1520.37,10,1368.33,Credit Card,No
+497,2025-04-20,CUST1057,Beauty,Moisturizer,Central,New,5,1025.05,10,4612.73,Credit Card,No
+498,2025-09-15,CUST1035,Electronics,Tablet,West,Returning,1,34798.17,10,31318.35,Net Banking,Yes
+499,2025-01-30,CUST1164,Sports,Football,East,New,3,2034.47,25,4577.56,Debit Card,No
+500,2025-08-17,CUST1208,Home & Kitchen,Bedsheet,West,New,1,3181.74,5,3022.65,UPI,No
+501,2025-01-05,CUST1130,Clothing,Jeans,North,Returning,2,1129.9,0,2259.8,Net Banking,No
+502,2025-05-07,CUST1016,Electronics,Smartwatch,East,Returning,2,18923.27,25,28384.9,UPI,No
+503,2025-11-26,CUST1007,Electronics,Smartwatch,West,New,1,16465.42,20,13172.34,UPI,No
+504,2025-03-06,CUST1151,Beauty,Perfume,South,New,1,1593.13,15,1354.16,Cash on Delivery,No
+505,2025-05-31,CUST1106,Clothing,Dress,North,Returning,5,1713.73,20,6854.92,Credit Card,No
+506,2025-01-09,CUST1056,Electronics,Smartwatch,South,New,2,28425.52,25,42638.28,Credit Card,No
+507,2025-02-27,CUST1200,Electronics,Laptop,Central,Returning,1,29888.2,5,28393.79,Net Banking,No
+508,2025-09-18,CUST1246,Sports,Running Shoes,North,Returning,1,2629.33,5,2497.86,UPI,No
+509,2025-04-08,CUST1063,Sports,Dumbbells,North,New,3,2511.64,0,7534.92,UPI,No
+510,2025-07-26,CUST1098,Home & Kitchen,Cookware Set,West,New,1,5161.81,25,3871.36,UPI,No
+511,2025-06-23,CUST1199,Clothing,Jeans,North,Returning,1,2861.14,15,2431.97,Cash on Delivery,No
+512,2025-06-17,CUST1177,Electronics,Smartphone,West,Returning,1,33750.19,10,30375.17,Credit Card,No
+513,2025-07-14,CUST1055,Beauty,Face Serum,West,Returning,3,983.79,10,2656.23,UPI,No
+514,2025-03-25,CUST1207,Electronics,Smartwatch,Central,New,1,27130.89,25,20348.17,Cash on Delivery,No
+515,2025-03-03,CUST1117,Clothing,Dress,Central,New,5,2952.87,5,14026.13,Credit Card,Yes
+516,2025-10-24,CUST1102,Clothing,Jeans,West,New,1,1870.6,20,1496.48,UPI,No
+517,2025-03-19,CUST1228,Clothing,Jacket,East,New,2,1738.37,10,3129.07,Net Banking,Yes
+518,2025-10-19,CUST1129,Home & Kitchen,Bedsheet,West,Returning,1,2142.77,10,1928.49,UPI,No
+519,2025-07-01,CUST1019,Beauty,Perfume,West,Returning,1,1069.0,5,1015.55,Net Banking,No
+520,2025-02-09,CUST1055,Clothing,T-Shirt,East,Returning,1,2123.34,10,1911.01,Debit Card,No
+521,2025-07-17,CUST1211,Electronics,Smartwatch,North,New,4,31981.13,0,127924.52,Net Banking,No
+522,2025-09-15,CUST1167,Home & Kitchen,Cookware Set,Central,Returning,1,1222.31,15,1038.96,Credit Card,No
+523,2025-07-16,CUST1211,Sports,Running Shoes,North,Returning,1,2725.14,5,2588.88,Credit Card,No
+524,2025-05-09,CUST1152,Home & Kitchen,Blender,Central,Returning,1,3319.29,10,2987.36,Credit Card,No
+525,2025-11-17,CUST1103,Clothing,Jacket,East,New,1,2171.18,0,2171.18,Cash on Delivery,No
+526,2025-06-16,CUST1223,Home & Kitchen,Cookware Set,Central,New,3,2599.99,5,7409.97,UPI,No
+527,2025-07-20,CUST1235,Beauty,Moisturizer,North,Returning,5,1519.0,10,6835.5,Debit Card,No
+528,2025-08-05,CUST1133,Electronics,Smartwatch,North,New,1,22447.11,5,21324.75,Cash on Delivery,No
+529,2025-03-15,CUST1243,Beauty,Shampoo,South,Returning,3,2128.57,10,5747.14,UPI,Yes
+530,2025-02-13,CUST1160,Home & Kitchen,Cookware Set,North,Returning,2,3932.04,20,6291.26,UPI,No
+531,2025-05-25,CUST1134,Electronics,Laptop,North,New,1,32126.22,5,30519.91,UPI,No
+532,2025-01-04,CUST1101,Beauty,Shampoo,North,Returning,3,2118.0,10,5718.6,Credit Card,No
+533,2025-11-20,CUST1077,Electronics,Headphones,South,Returning,1,15431.99,15,13117.19,Cash on Delivery,No
+534,2025-04-17,CUST1216,Clothing,Sneakers,North,Returning,3,2113.86,5,6024.5,UPI,No
+535,2025-04-30,CUST1120,Sports,Football,North,Returning,1,576.01,10,518.41,UPI,Yes
+536,2025-04-26,CUST1071,Clothing,Jacket,West,New,2,1217.69,0,2435.38,UPI,No
+537,2025-07-18,CUST1166,Clothing,T-Shirt,North,Returning,1,1543.16,5,1466.0,Credit Card,No
+538,2025-06-14,CUST1133,Beauty,Moisturizer,North,Returning,3,429.93,5,1225.3,Cash on Delivery,No
+539,2025-03-20,CUST1163,Electronics,Tablet,Central,Returning,3,28530.07,0,85590.21,Debit Card,No
+540,2025-04-02,CUST1091,Clothing,Jeans,East,Returning,3,1313.82,20,3153.17,Credit Card,No
+541,2025-02-22,CUST1048,Clothing,Dress,North,New,3,1608.39,25,3618.88,Credit Card,No
+542,2025-02-08,CUST1116,Electronics,Smartphone,Central,Returning,5,16392.4,5,77863.9,Credit Card,No
+543,2025-04-12,CUST1103,Home & Kitchen,Cookware Set,North,New,2,4096.95,0,8193.9,UPI,No
+544,2025-07-29,CUST1009,Beauty,Perfume,South,New,1,1650.21,10,1485.19,Debit Card,No
+545,2025-06-13,CUST1238,Clothing,Sneakers,West,Returning,5,1329.37,5,6314.51,Debit Card,No
+546,2025-03-13,CUST1144,Beauty,Makeup Kit,West,Returning,1,1218.31,15,1035.56,Debit Card,No
+547,2025-08-23,CUST1174,Home & Kitchen,Coffee Maker,West,Returning,3,3777.69,5,10766.42,Net Banking,No
+548,2025-12-07,CUST1031,Sports,Yoga Mat,East,New,3,2249.67,0,6749.01,Credit Card,No
+549,2025-10-12,CUST1169,Home & Kitchen,Bedsheet,East,New,1,4285.11,10,3856.6,Cash on Delivery,No
+550,2025-03-14,CUST1029,Beauty,Moisturizer,North,New,1,1365.65,25,1024.24,Net Banking,No
+551,2025-02-11,CUST1117,Beauty,Perfume,Central,Returning,1,956.39,0,956.39,UPI,No
+552,2025-01-06,CUST1250,Home & Kitchen,Cookware Set,East,New,2,2083.39,15,3541.76,Debit Card,No
+553,2025-07-31,CUST1239,Home & Kitchen,Cookware Set,North,Returning,4,1791.74,0,7166.96,Cash on Delivery,No
+554,2025-11-29,CUST1028,Beauty,Perfume,North,Returning,1,1642.63,0,1642.63,Credit Card,No
+555,2025-09-06,CUST1141,Electronics,Headphones,West,New,2,33972.13,25,50958.19,Credit Card,No
+556,2025-11-11,CUST1161,Sports,Dumbbells,Central,Returning,1,2349.28,5,2231.82,Credit Card,No
+557,2025-04-27,CUST1054,Electronics,Laptop,Central,New,1,26320.13,0,26320.13,Net Banking,No
+558,2025-11-03,CUST1181,Clothing,T-Shirt,East,Returning,1,2039.59,15,1733.65,Credit Card,No
+559,2025-06-18,CUST1029,Home & Kitchen,Coffee Maker,Central,Returning,1,1941.32,0,1941.32,Debit Card,Yes
+560,2025-02-18,CUST1059,Electronics,Tablet,South,Returning,1,19482.75,15,16560.34,Credit Card,No
+561,2025-08-31,CUST1014,Home & Kitchen,Cookware Set,West,New,3,4118.46,10,11119.84,Cash on Delivery,No
+562,2025-06-20,CUST1161,Clothing,Jacket,East,New,1,1553.82,20,1243.06,UPI,No
+563,2025-05-23,CUST1177,Clothing,Jeans,South,Returning,2,2449.31,5,4653.69,UPI,No
+564,2025-11-16,CUST1020,Beauty,Perfume,West,New,1,926.22,10,833.6,UPI,No
+565,2025-12-19,CUST1032,Beauty,Face Serum,West,New,1,1809.89,25,1357.42,UPI,No
+566,2025-07-04,CUST1003,Beauty,Perfume,North,New,1,1205.94,0,1205.94,Cash on Delivery,No
+567,2025-05-10,CUST1058,Home & Kitchen,Blender,West,Returning,4,3756.6,10,13523.76,Credit Card,No
+568,2025-10-13,CUST1141,Electronics,Laptop,West,New,1,16385.33,5,15566.06,Debit Card,No
+569,2025-07-05,CUST1180,Electronics,Smartphone,West,Returning,4,16448.3,0,65793.2,Cash on Delivery,No
+570,2025-01-30,CUST1020,Electronics,Tablet,North,New,2,32317.64,0,64635.28,UPI,No
+571,2025-08-03,CUST1157,Beauty,Perfume,South,Returning,1,1264.65,10,1138.19,Credit Card,No
+572,2025-01-16,CUST1133,Clothing,T-Shirt,North,Returning,3,2126.99,10,5742.87,Debit Card,No
+573,2025-09-26,CUST1026,Clothing,Dress,West,New,1,1826.08,15,1552.17,Debit Card,Yes
+574,2025-05-14,CUST1155,Clothing,T-Shirt,East,Returning,3,1502.2,10,4055.94,UPI,No
+575,2025-03-11,CUST1051,Beauty,Moisturizer,North,Returning,2,1141.12,25,1711.68,Debit Card,No
+576,2025-07-02,CUST1013,Electronics,Laptop,Central,Returning,1,36057.91,0,36057.91,Credit Card,No
+577,2025-04-30,CUST1073,Sports,Dumbbells,South,Returning,2,2424.62,15,4121.85,Credit Card,No
+578,2025-05-09,CUST1077,Electronics,Tablet,Central,New,2,33427.85,15,56827.34,UPI,No
+579,2025-12-22,CUST1208,Clothing,Dress,South,Returning,1,2050.65,5,1948.12,Debit Card,No
+580,2025-08-20,CUST1025,Sports,Running Shoes,South,New,1,3796.3,0,3796.3,UPI,No
+581,2025-03-28,CUST1017,Electronics,Tablet,West,New,2,24321.17,0,48642.34,Debit Card,No
+582,2025-09-05,CUST1085,Sports,Dumbbells,Central,Returning,2,2872.55,25,4308.83,Cash on Delivery,No
+583,2025-04-04,CUST1232,Sports,Running Shoes,East,New,2,3024.96,10,5444.93,Net Banking,No
+584,2025-06-29,CUST1038,Home & Kitchen,Lamp,North,Returning,2,3441.56,10,6194.81,Debit Card,No
+585,2025-11-19,CUST1115,Home & Kitchen,Blender,East,Returning,3,2218.5,15,5657.18,UPI,No
+586,2025-11-05,CUST1161,Home & Kitchen,Bedsheet,East,New,4,4079.92,5,15503.7,Credit Card,No
+587,2025-07-24,CUST1077,Electronics,Laptop,West,Returning,1,30115.98,15,25598.58,Debit Card,No
+588,2025-07-27,CUST1007,Sports,Dumbbells,West,New,2,2437.18,20,3899.49,Debit Card,No
+589,2025-01-29,CUST1057,Clothing,Dress,North,Returning,2,1545.33,20,2472.53,Credit Card,No
+590,2025-12-25,CUST1033,Clothing,Jeans,East,New,1,1967.24,20,1573.79,Cash on Delivery,No
+591,2025-01-19,CUST1202,Beauty,Shampoo,East,Returning,2,1507.0,5,2863.3,UPI,No
+592,2025-03-21,CUST1012,Beauty,Perfume,South,New,2,926.72,20,1482.75,UPI,No
+593,2025-10-24,CUST1166,Clothing,Dress,Central,New,2,671.21,0,1342.42,Debit Card,No
+594,2025-08-25,CUST1046,Clothing,T-Shirt,West,Returning,3,1787.49,0,5362.47,Net Banking,No
+595,2025-08-20,CUST1187,Beauty,Perfume,Central,New,1,1003.68,10,903.31,Credit Card,No
+596,2025-08-15,CUST1211,Sports,Dumbbells,North,Returning,5,2476.76,5,11764.61,UPI,No
+597,2025-04-10,CUST1029,Electronics,Smartwatch,North,Returning,2,19961.38,15,33934.35,Cash on Delivery,No
+598,2025-08-02,CUST1075,Home & Kitchen,Cookware Set,South,Returning,4,3917.07,15,13318.04,UPI,No
+599,2025-02-19,CUST1067,Clothing,Jeans,North,Returning,5,1752.14,0,8760.7,Cash on Delivery,No
+600,2025-01-15,CUST1236,Electronics,Smartwatch,West,New,1,21740.7,20,17392.56,Cash on Delivery,No
+601,2025-05-01,CUST1067,Electronics,Tablet,Central,New,3,20325.4,10,54878.58,UPI,No
+602,2025-12-03,CUST1158,Sports,Cricket Bat,North,New,2,2947.89,0,5895.78,UPI,No
+603,2025-10-07,CUST1123,Beauty,Perfume,North,New,1,1222.49,15,1039.12,Credit Card,No
+604,2025-11-05,CUST1049,Clothing,Jeans,West,Returning,1,2412.11,5,2291.5,Net Banking,No
+605,2025-04-02,CUST1234,Electronics,Laptop,North,Returning,1,20930.64,0,20930.64,UPI,No
+606,2025-08-11,CUST1124,Beauty,Face Serum,East,Returning,1,1700.58,25,1275.44,UPI,No
+607,2025-10-17,CUST1234,Home & Kitchen,Lamp,South,Returning,3,5538.07,15,14122.08,Credit Card,No
+608,2025-01-27,CUST1028,Electronics,Smartwatch,East,Returning,1,27670.88,10,24903.79,Debit Card,No
+609,2025-12-23,CUST1222,Home & Kitchen,Blender,Central,Returning,1,3976.73,5,3777.89,UPI,No
+610,2025-07-19,CUST1236,Home & Kitchen,Cookware Set,East,Returning,1,3500.87,5,3325.83,Net Banking,No
+611,2025-10-16,CUST1137,Home & Kitchen,Bedsheet,East,Returning,1,2128.01,10,1915.21,UPI,No
+612,2025-08-30,CUST1152,Electronics,Headphones,Central,Returning,3,23480.75,5,66920.14,Net Banking,No
+613,2025-10-29,CUST1236,Clothing,Jacket,West,New,1,1164.68,5,1106.45,UPI,No
+614,2025-01-09,CUST1186,Beauty,Face Serum,East,Returning,1,323.92,0,323.92,Debit Card,No
+615,2025-10-03,CUST1012,Home & Kitchen,Cookware Set,West,Returning,1,2680.78,25,2010.58,Debit Card,No
+616,2025-02-08,CUST1129,Sports,Yoga Mat,North,Returning,1,2579.87,0,2579.87,UPI,No
+617,2025-06-29,CUST1075,Electronics,Smartwatch,Central,Returning,1,34174.22,0,34174.22,Credit Card,No
+618,2025-05-08,CUST1090,Home & Kitchen,Cookware Set,West,New,1,4097.52,20,3278.02,UPI,No
+619,2025-12-11,CUST1155,Home & Kitchen,Blender,Central,New,1,1547.39,10,1392.65,Credit Card,No
+620,2025-08-12,CUST1085,Home & Kitchen,Blender,Central,Returning,4,3242.36,5,12320.97,Debit Card,Yes
+621,2025-06-05,CUST1062,Home & Kitchen,Bedsheet,Central,Returning,4,4777.75,15,16244.35,UPI,No
+622,2025-02-21,CUST1112,Beauty,Makeup Kit,Central,Returning,3,1772.21,15,4519.14,UPI,No
+623,2025-03-05,CUST1248,Home & Kitchen,Lamp,South,Returning,3,3228.5,0,9685.5,Cash on Delivery,No
+624,2025-11-28,CUST1176,Electronics,Tablet,South,Returning,1,27501.51,0,27501.51,Credit Card,No
+625,2025-08-24,CUST1210,Clothing,T-Shirt,West,Returning,1,1363.49,10,1227.14,Debit Card,No
+626,2025-07-03,CUST1148,Clothing,T-Shirt,South,Returning,2,1765.69,0,3531.38,UPI,No
+627,2025-10-05,CUST1031,Home & Kitchen,Blender,Central,Returning,2,3605.88,25,5408.82,UPI,No
+628,2025-11-14,CUST1189,Clothing,Sneakers,Central,Returning,2,1532.81,15,2605.78,UPI,Yes
+629,2025-09-30,CUST1062,Clothing,Sneakers,South,New,2,1787.71,20,2860.34,UPI,No
+630,2025-11-22,CUST1101,Sports,Cricket Bat,West,New,5,3446.62,15,14648.13,UPI,No
+631,2025-11-16,CUST1140,Home & Kitchen,Coffee Maker,North,Returning,1,4290.17,10,3861.15,UPI,No
+632,2025-11-07,CUST1094,Electronics,Smartphone,South,Returning,1,24891.38,5,23646.81,Net Banking,No
+633,2025-08-16,CUST1097,Home & Kitchen,Cookware Set,Central,New,1,1407.4,25,1055.55,UPI,No
+634,2025-12-25,CUST1075,Beauty,Perfume,East,New,5,1393.85,0,6969.25,Cash on Delivery,No
+635,2025-05-04,CUST1216,Clothing,Dress,North,New,3,1532.31,10,4137.24,Net Banking,No
+636,2025-06-06,CUST1070,Clothing,Jeans,North,New,1,2466.55,15,2096.57,UPI,No
+637,2025-08-13,CUST1077,Beauty,Makeup Kit,South,Returning,1,1257.69,10,1131.92,Net Banking,No
+638,2025-04-03,CUST1153,Clothing,T-Shirt,North,Returning,1,3638.45,20,2910.76,UPI,No
+639,2025-04-28,CUST1228,Clothing,Dress,North,Returning,2,980.0,0,1960.0,Credit Card,Yes
+640,2025-10-02,CUST1210,Home & Kitchen,Coffee Maker,South,Returning,4,1230.05,15,4182.17,UPI,No
+641,2025-11-30,CUST1206,Clothing,T-Shirt,East,New,3,1239.14,15,3159.81,Credit Card,No
+642,2025-02-26,CUST1226,Electronics,Smartwatch,Central,Returning,4,11678.87,5,44379.71,UPI,No
+643,2025-01-23,CUST1105,Electronics,Headphones,West,Returning,1,26725.32,15,22716.52,Cash on Delivery,No
+644,2025-12-24,CUST1060,Electronics,Tablet,South,New,1,18238.22,10,16414.4,Debit Card,No
+645,2025-02-08,CUST1184,Sports,Dumbbells,West,Returning,2,4068.3,25,6102.45,UPI,No
+646,2025-09-16,CUST1203,Clothing,Dress,North,Returning,2,1641.22,15,2790.07,Cash on Delivery,Yes
+647,2025-03-12,CUST1043,Clothing,Sneakers,West,New,1,1623.85,10,1461.46,Net Banking,No
+648,2025-08-01,CUST1127,Electronics,Laptop,West,Returning,2,13079.18,20,20926.69,Debit Card,No
+649,2025-09-27,CUST1194,Sports,Cricket Bat,North,New,2,3058.42,10,5505.16,Debit Card,No
+650,2025-06-14,CUST1029,Home & Kitchen,Blender,North,Returning,2,4997.23,10,8995.01,Debit Card,No
+651,2025-02-11,CUST1122,Home & Kitchen,Coffee Maker,West,Returning,2,3839.32,15,6526.84,UPI,No
+652,2025-01-22,CUST1053,Clothing,T-Shirt,East,Returning,1,2655.12,20,2124.1,Debit Card,No
+653,2025-05-30,CUST1239,Electronics,Smartwatch,Central,New,1,21233.67,0,21233.67,Credit Card,No
+654,2025-06-14,CUST1072,Electronics,Tablet,East,Returning,1,22128.72,10,19915.85,Net Banking,No
+655,2025-12-29,CUST1146,Electronics,Smartphone,Central,Returning,1,23305.08,10,20974.57,Credit Card,No
+656,2025-02-04,CUST1085,Sports,Dumbbells,North,Returning,3,3329.48,10,8989.6,Cash on Delivery,No
+657,2025-02-10,CUST1162,Clothing,Jacket,South,New,5,1036.43,0,5182.15,UPI,No
+658,2025-10-20,CUST1014,Sports,Cricket Bat,North,Returning,1,3118.46,20,2494.77,UPI,No
+659,2025-01-28,CUST1010,Home & Kitchen,Bedsheet,Central,New,1,5030.68,0,5030.68,Credit Card,No
+660,2025-07-07,CUST1124,Electronics,Laptop,South,Returning,2,28685.27,20,45896.43,UPI,No
+661,2025-03-06,CUST1109,Sports,Yoga Mat,East,Returning,1,3112.66,5,2957.03,Debit Card,No
+662,2025-04-09,CUST1201,Electronics,Smartphone,North,Returning,2,19168.71,20,30669.94,UPI,No
+663,2025-01-20,CUST1131,Clothing,Dress,East,New,1,1824.78,10,1642.3,Credit Card,No
+664,2025-11-22,CUST1144,Home & Kitchen,Coffee Maker,East,Returning,1,5206.63,0,5206.63,Net Banking,No
+665,2025-01-08,CUST1043,Home & Kitchen,Bedsheet,South,Returning,1,3277.49,0,3277.49,Debit Card,No
+666,2025-07-20,CUST1189,Sports,Football,East,Returning,1,3366.74,20,2693.39,Cash on Delivery,No
+667,2025-06-28,CUST1022,Home & Kitchen,Coffee Maker,North,Returning,4,1771.46,15,6022.96,Net Banking,No
+668,2025-08-05,CUST1163,Sports,Dumbbells,North,New,1,3587.09,10,3228.38,UPI,No
+669,2025-04-22,CUST1233,Clothing,Dress,South,New,3,1468.29,5,4184.63,Debit Card,No
+670,2025-02-07,CUST1075,Electronics,Smartwatch,East,Returning,1,20418.71,20,16334.97,Net Banking,No
+671,2025-11-06,CUST1136,Clothing,Jacket,East,Returning,2,1886.52,15,3207.08,Cash on Delivery,No
+672,2025-05-22,CUST1165,Home & Kitchen,Lamp,West,New,3,5225.93,10,14110.01,Debit Card,No
+673,2025-05-16,CUST1091,Electronics,Smartwatch,North,New,1,28193.42,20,22554.74,Credit Card,No
+674,2025-01-04,CUST1102,Electronics,Smartwatch,Central,Returning,2,42637.6,15,72483.92,UPI,No
+675,2025-03-18,CUST1225,Home & Kitchen,Coffee Maker,North,New,2,4835.47,5,9187.39,UPI,No
+676,2025-05-21,CUST1209,Home & Kitchen,Coffee Maker,North,New,2,2583.58,25,3875.37,Net Banking,No
+677,2025-02-28,CUST1187,Clothing,Sneakers,North,Returning,4,2546.03,10,9165.71,Debit Card,No
+678,2025-08-13,CUST1234,Sports,Dumbbells,South,New,3,3815.43,10,10301.66,Cash on Delivery,No
+679,2025-02-21,CUST1087,Home & Kitchen,Blender,East,Returning,4,3702.62,20,11848.38,Cash on Delivery,No
+680,2025-04-26,CUST1054,Sports,Football,East,New,3,1445.62,5,4120.02,Credit Card,No
+681,2025-04-21,CUST1120,Sports,Dumbbells,South,Returning,1,3509.49,5,3334.02,UPI,No
+682,2025-05-11,CUST1023,Clothing,Jacket,Central,New,1,1054.7,0,1054.7,UPI,No
+683,2025-11-16,CUST1168,Clothing,Dress,North,Returning,3,2008.67,25,4519.51,Credit Card,No
+684,2025-08-31,CUST1233,Clothing,Jacket,West,Returning,2,2819.46,5,5356.97,Credit Card,No
+685,2025-08-17,CUST1050,Clothing,Jacket,Central,New,2,1538.66,10,2769.59,UPI,Yes
+686,2025-07-28,CUST1227,Sports,Yoga Mat,West,Returning,2,3430.64,20,5489.02,Cash on Delivery,No
+687,2025-01-14,CUST1208,Clothing,T-Shirt,East,New,1,464.63,0,464.63,Cash on Delivery,No
+688,2025-08-03,CUST1191,Beauty,Perfume,South,New,1,1718.37,10,1546.53,Net Banking,No
+689,2025-12-12,CUST1124,Electronics,Tablet,North,Returning,3,17654.03,10,47665.88,UPI,No
+690,2025-10-24,CUST1065,Electronics,Tablet,West,Returning,5,35648.48,10,160418.16,Debit Card,No
+691,2025-10-21,CUST1156,Electronics,Smartwatch,South,New,2,23712.89,10,42683.2,Cash on Delivery,No
+692,2025-02-25,CUST1125,Beauty,Perfume,South,New,1,371.02,5,352.47,UPI,Yes
+693,2025-08-06,CUST1071,Home & Kitchen,Bedsheet,North,Returning,1,2548.74,5,2421.3,Cash on Delivery,No
+694,2025-09-26,CUST1095,Sports,Dumbbells,Central,New,3,2768.1,15,7058.65,Net Banking,No
+695,2025-12-31,CUST1226,Electronics,Smartphone,West,Returning,2,23040.24,5,43776.46,Credit Card,No
+696,2025-12-23,CUST1125,Clothing,Jacket,East,Returning,2,1492.13,0,2984.26,Debit Card,No
+697,2025-03-19,CUST1219,Home & Kitchen,Blender,West,Returning,2,2427.09,20,3883.34,Credit Card,No
+698,2025-12-22,CUST1061,Clothing,Jeans,Central,Returning,2,1292.35,5,2455.46,UPI,No
+699,2025-03-30,CUST1189,Clothing,Sneakers,North,Returning,2,3373.37,10,6072.07,UPI,No
+700,2025-01-08,CUST1103,Beauty,Perfume,East,New,1,1219.32,15,1036.42,Cash on Delivery,No
+701,2025-07-18,CUST1109,Home & Kitchen,Blender,Central,New,4,2940.96,25,8822.88,Debit Card,No
+702,2025-09-01,CUST1013,Clothing,T-Shirt,West,Returning,1,2739.44,10,2465.5,UPI,No
+703,2025-08-22,CUST1031,Electronics,Tablet,Central,New,1,23580.03,0,23580.03,Cash on Delivery,No
+704,2025-01-02,CUST1114,Clothing,T-Shirt,West,Returning,3,1784.03,25,4014.07,UPI,Yes
+705,2025-10-09,CUST1139,Home & Kitchen,Bedsheet,North,Returning,1,2880.11,20,2304.09,Cash on Delivery,No
+706,2025-05-21,CUST1198,Clothing,T-Shirt,North,New,3,1205.89,5,3436.79,UPI,No
+707,2025-11-21,CUST1033,Electronics,Tablet,North,New,1,26832.26,15,22807.42,UPI,No
+708,2025-10-24,CUST1175,Home & Kitchen,Cookware Set,North,Returning,2,2812.83,10,5063.09,UPI,No
+709,2025-10-08,CUST1178,Home & Kitchen,Coffee Maker,West,New,4,4840.64,15,16458.18,Credit Card,No
+710,2025-11-28,CUST1050,Home & Kitchen,Blender,South,New,1,5682.96,5,5398.81,Net Banking,No
+711,2025-05-19,CUST1065,Beauty,Shampoo,North,Returning,5,953.66,0,4768.3,Cash on Delivery,No
+712,2025-03-02,CUST1061,Clothing,T-Shirt,South,Returning,1,1682.89,20,1346.31,UPI,No
+713,2025-08-25,CUST1227,Beauty,Perfume,North,Returning,1,1741.62,10,1567.46,UPI,No
+714,2025-04-23,CUST1121,Clothing,Dress,West,Returning,1,1822.38,0,1822.38,Debit Card,No
+715,2025-03-04,CUST1166,Beauty,Shampoo,North,Returning,2,1027.58,20,1644.13,UPI,No
+716,2025-01-02,CUST1205,Electronics,Smartphone,East,New,2,40915.36,5,77739.18,Net Banking,No
+717,2025-02-23,CUST1161,Electronics,Headphones,South,New,2,119618.13,10,215312.63,UPI,No
+718,2025-04-17,CUST1107,Clothing,Dress,North,Returning,3,2176.99,0,6530.97,UPI,Yes
+719,2025-09-11,CUST1145,Electronics,Laptop,West,New,2,14257.8,25,21386.7,UPI,No
+720,2025-01-21,CUST1113,Electronics,Smartwatch,East,New,2,19826.32,20,31722.11,Cash on Delivery,No
+721,2025-01-28,CUST1175,Electronics,Laptop,West,Returning,1,17116.51,0,17116.51,Credit Card,No
+722,2025-02-28,CUST1029,Sports,Dumbbells,North,New,1,387.26,20,309.81,UPI,No
+723,2025-09-27,CUST1223,Electronics,Smartwatch,North,Returning,3,30014.01,0,90042.03,Credit Card,No
+724,2025-01-29,CUST1061,Home & Kitchen,Blender,East,Returning,5,4057.86,15,17245.9,UPI,No
+725,2025-02-13,CUST1161,Clothing,T-Shirt,Central,Returning,3,918.58,15,2342.38,Credit Card,No
+726,2025-02-15,CUST1041,Clothing,Dress,North,Returning,2,842.22,20,1347.55,UPI,No
+727,2025-03-28,CUST1061,Sports,Running Shoes,North,New,3,1847.6,20,4434.24,UPI,No
+728,2025-11-08,CUST1125,Beauty,Makeup Kit,South,Returning,2,1552.87,10,2795.17,Cash on Delivery,No
+729,2025-10-21,CUST1033,Home & Kitchen,Coffee Maker,East,Returning,1,4289.05,5,4074.6,Debit Card,No
+730,2025-03-23,CUST1234,Electronics,Tablet,East,Returning,3,25717.4,5,73294.59,Cash on Delivery,No
+731,2025-08-30,CUST1199,Beauty,Moisturizer,South,Returning,2,1715.35,10,3087.63,UPI,No
+732,2025-03-26,CUST1009,Clothing,Dress,North,New,3,804.22,5,2292.03,UPI,No
+733,2025-08-09,CUST1228,Clothing,T-Shirt,North,Returning,2,2242.93,25,3364.39,Net Banking,No
+734,2025-06-22,CUST1110,Sports,Yoga Mat,West,Returning,1,2282.87,10,2054.58,Credit Card,No
+735,2025-11-24,CUST1192,Home & Kitchen,Blender,South,New,2,3366.86,0,6733.72,Debit Card,No
+736,2025-04-07,CUST1201,Clothing,Sneakers,East,Returning,2,1561.69,10,2811.04,Net Banking,Yes
+737,2025-05-03,CUST1177,Home & Kitchen,Coffee Maker,West,New,4,2169.86,0,8679.44,UPI,No
+738,2025-11-21,CUST1095,Electronics,Headphones,West,New,1,43499.03,0,43499.03,Credit Card,No
+739,2025-02-07,CUST1150,Sports,Dumbbells,Central,Returning,1,3212.63,20,2570.1,Cash on Delivery,No
+740,2025-12-13,CUST1169,Electronics,Smartwatch,West,New,1,35988.32,20,28790.66,Net Banking,No
+741,2025-07-29,CUST1067,Beauty,Face Serum,East,Returning,2,1304.77,15,2218.11,Net Banking,No
+742,2025-02-23,CUST1183,Beauty,Perfume,North,New,4,1367.68,25,4103.04,UPI,Yes
+743,2025-02-18,CUST1077,Electronics,Tablet,West,Returning,1,32547.26,0,32547.26,Credit Card,No
+744,2025-05-05,CUST1069,Beauty,Face Serum,West,Returning,1,488.11,20,390.49,UPI,No
+745,2025-09-23,CUST1171,Clothing,T-Shirt,West,New,3,1571.23,10,4242.32,UPI,No
+746,2025-03-18,CUST1228,Sports,Cricket Bat,East,Returning,1,3637.31,25,2727.98,Net Banking,No
+747,2025-11-12,CUST1036,Home & Kitchen,Lamp,North,Returning,1,4562.3,20,3649.84,Cash on Delivery,No
+748,2025-06-13,CUST1078,Home & Kitchen,Blender,West,New,1,2890.74,15,2457.13,UPI,No
+749,2025-07-30,CUST1023,Home & Kitchen,Coffee Maker,West,New,1,2665.94,10,2399.35,Credit Card,Yes
+750,2025-05-04,CUST1221,Electronics,Laptop,North,Returning,4,8565.93,0,34263.72,Credit Card,No
+751,2025-03-27,CUST1112,Sports,Running Shoes,West,Returning,1,3492.11,15,2968.29,Cash on Delivery,Yes
+752,2025-10-08,CUST1164,Home & Kitchen,Cookware Set,West,Returning,1,3779.29,0,3779.29,Debit Card,No
+753,2025-06-19,CUST1015,Electronics,Smartphone,West,Returning,3,17595.63,20,42229.51,UPI,No
+754,2025-01-17,CUST1013,Electronics,Tablet,South,Returning,2,32728.29,20,52365.26,UPI,No
+755,2025-06-12,CUST1025,Beauty,Makeup Kit,Central,New,2,1211.95,10,2181.51,Net Banking,Yes
+756,2025-02-02,CUST1227,Home & Kitchen,Lamp,Central,Returning,1,3526.62,15,2997.63,UPI,No
+757,2025-01-24,CUST1092,Electronics,Smartphone,North,New,1,42230.13,10,38007.12,Credit Card,No
+758,2025-11-12,CUST1059,Sports,Cricket Bat,Central,New,2,2277.99,10,4100.38,UPI,No
+759,2025-01-18,CUST1035,Electronics,Smartphone,West,New,2,13496.92,10,24294.46,UPI,No
+760,2025-04-24,CUST1175,Electronics,Smartwatch,East,New,3,9489.94,0,28469.82,Credit Card,No
+761,2025-04-15,CUST1128,Clothing,Dress,Central,Returning,1,710.61,10,639.55,UPI,No
+762,2025-08-21,CUST1165,Electronics,Laptop,North,New,1,42088.03,20,33670.42,Debit Card,No
+763,2025-08-11,CUST1127,Clothing,Dress,West,Returning,5,870.49,0,4352.45,UPI,No
+764,2025-01-03,CUST1112,Clothing,Jeans,Central,New,2,2444.18,20,3910.69,Net Banking,Yes
+765,2025-01-17,CUST1146,Clothing,Sneakers,South,New,2,3563.36,15,6057.71,Cash on Delivery,No
+766,2025-02-04,CUST1143,Clothing,T-Shirt,East,Returning,3,2145.67,15,5471.46,UPI,No
+767,2025-11-29,CUST1092,Clothing,Jacket,East,New,1,1417.27,5,1346.41,Debit Card,No
+768,2025-05-15,CUST1087,Clothing,Jacket,West,Returning,1,1782.05,5,1692.95,UPI,No
+769,2025-02-20,CUST1212,Clothing,Dress,South,Returning,1,2449.67,15,2082.22,UPI,Yes
+770,2025-06-10,CUST1198,Beauty,Makeup Kit,South,Returning,1,596.76,10,537.08,Credit Card,No
+771,2025-08-24,CUST1111,Sports,Dumbbells,West,New,1,3414.75,0,3414.75,Credit Card,Yes
+772,2025-11-23,CUST1221,Electronics,Headphones,West,Returning,1,34727.36,0,34727.36,Cash on Delivery,No
+773,2025-06-07,CUST1003,Electronics,Smartwatch,Central,New,1,30635.67,0,30635.67,Credit Card,No
+774,2025-10-24,CUST1221,Sports,Running Shoes,Central,New,2,2950.81,15,5016.38,UPI,No
+775,2025-07-10,CUST1149,Beauty,Perfume,North,Returning,2,990.71,0,1981.42,Cash on Delivery,No
+776,2025-07-15,CUST1210,Clothing,Jeans,East,Returning,1,2325.96,15,1977.07,UPI,No
+777,2025-10-31,CUST1236,Home & Kitchen,Bedsheet,Central,New,2,2998.82,20,4798.11,UPI,No
+778,2025-08-22,CUST1029,Home & Kitchen,Cookware Set,West,New,2,3696.63,20,5914.61,UPI,No
+779,2025-03-12,CUST1191,Clothing,Jacket,South,Returning,2,1461.33,5,2776.53,Credit Card,Yes
+780,2025-01-12,CUST1026,Sports,Running Shoes,South,Returning,1,3900.58,10,3510.52,Debit Card,No
+781,2025-07-12,CUST1001,Home & Kitchen,Coffee Maker,West,Returning,5,3324.02,15,14127.08,Debit Card,No
+782,2025-11-20,CUST1229,Clothing,Sneakers,West,New,1,1696.0,25,1272.0,Cash on Delivery,No
+783,2025-09-07,CUST1041,Electronics,Laptop,East,New,2,20435.53,0,40871.06,UPI,No
+784,2025-07-04,CUST1036,Electronics,Laptop,West,Returning,1,21804.24,0,21804.24,Net Banking,No
+785,2025-03-15,CUST1154,Sports,Cricket Bat,West,Returning,1,2071.64,5,1968.06,UPI,No
+786,2025-11-17,CUST1089,Home & Kitchen,Bedsheet,Central,New,1,2554.54,20,2043.63,Cash on Delivery,No
+787,2025-08-16,CUST1209,Electronics,Smartwatch,Central,Returning,2,32372.0,5,61506.8,UPI,No
+788,2025-11-06,CUST1139,Clothing,Sneakers,South,Returning,2,2275.62,5,4323.68,Debit Card,No
+789,2025-08-06,CUST1086,Sports,Cricket Bat,South,New,2,5430.96,10,9775.73,Credit Card,No
+790,2025-07-27,CUST1134,Electronics,Smartwatch,West,Returning,1,32062.73,15,27253.32,UPI,No
+791,2025-11-15,CUST1032,Home & Kitchen,Bedsheet,North,New,2,1900.63,0,3801.26,Net Banking,No
+792,2025-09-29,CUST1113,Beauty,Moisturizer,East,Returning,2,915.46,10,1647.83,Credit Card,No
+793,2025-01-28,CUST1008,Clothing,Jacket,North,Returning,1,1759.92,15,1495.93,UPI,No
+794,2025-09-06,CUST1012,Electronics,Headphones,North,New,1,37378.12,5,35509.21,Credit Card,No
+795,2025-11-12,CUST1200,Electronics,Smartphone,Central,Returning,1,28592.38,5,27162.76,Debit Card,No
+796,2025-02-04,CUST1090,Home & Kitchen,Bedsheet,West,Returning,4,2560.03,0,10240.12,UPI,No
+797,2025-07-31,CUST1239,Electronics,Smartphone,North,New,1,27521.4,0,27521.4,Credit Card,No
+798,2025-12-31,CUST1234,Clothing,Jeans,Central,Returning,4,2112.07,5,8025.87,Credit Card,No
+799,2025-05-01,CUST1190,Sports,Running Shoes,East,New,1,2089.51,5,1985.03,UPI,No
+800,2025-11-18,CUST1037,Home & Kitchen,Cookware Set,North,New,1,3098.72,5,2943.78,UPI,No
+801,2025-08-10,CUST1128,Home & Kitchen,Lamp,Central,Returning,1,4805.09,25,3603.82,Net Banking,No
+802,2025-03-15,CUST1071,Electronics,Headphones,West,New,2,22742.1,5,43209.99,Cash on Delivery,No
+803,2025-11-25,CUST1162,Electronics,Laptop,North,New,1,16145.74,0,16145.74,UPI,No
+804,2025-05-19,CUST1140,Clothing,T-Shirt,North,Returning,1,2082.76,25,1562.07,Cash on Delivery,No
+805,2025-02-06,CUST1041,Home & Kitchen,Cookware Set,South,Returning,2,4209.19,15,7155.62,Credit Card,Yes
+806,2025-09-14,CUST1159,Electronics,Laptop,South,Returning,1,29025.37,0,29025.37,Credit Card,No
+807,2025-11-19,CUST1091,Beauty,Shampoo,Central,Returning,3,536.64,15,1368.43,Cash on Delivery,No
+808,2025-04-04,CUST1149,Electronics,Smartphone,West,New,1,17843.45,15,15166.93,UPI,No
+809,2025-09-17,CUST1172,Sports,Football,West,Returning,1,2778.58,20,2222.86,Cash on Delivery,No
+810,2025-04-18,CUST1016,Electronics,Laptop,Central,Returning,3,31188.27,0,93564.81,Cash on Delivery,No
+811,2025-08-23,CUST1144,Electronics,Smartphone,East,Returning,2,24356.14,25,36534.21,Cash on Delivery,No
+812,2025-12-14,CUST1221,Electronics,Tablet,East,Returning,3,33551.32,10,90588.56,UPI,Yes
+813,2025-02-11,CUST1216,Clothing,T-Shirt,West,Returning,1,1801.18,5,1711.12,Debit Card,No
+814,2025-04-02,CUST1135,Home & Kitchen,Coffee Maker,West,Returning,1,1296.37,10,1166.73,UPI,No
+815,2025-06-13,CUST1170,Beauty,Perfume,West,New,3,685.0,25,1541.25,Credit Card,No
+816,2025-02-06,CUST1129,Beauty,Makeup Kit,East,Returning,1,2122.59,10,1910.33,Credit Card,No
+817,2025-11-04,CUST1212,Clothing,Sneakers,South,Returning,1,1589.44,15,1351.02,Credit Card,No
+818,2025-02-20,CUST1205,Electronics,Laptop,North,New,2,31236.65,0,62473.3,Debit Card,No
+819,2025-01-28,CUST1062,Electronics,Headphones,North,New,1,22248.87,15,18911.54,UPI,No
+820,2025-08-13,CUST1080,Beauty,Makeup Kit,West,New,2,529.86,20,847.78,Credit Card,No
+821,2025-02-25,CUST1173,Clothing,T-Shirt,West,Returning,3,1295.31,5,3691.63,Net Banking,No
+822,2025-11-05,CUST1134,Sports,Yoga Mat,East,Returning,1,3420.8,10,3078.72,Net Banking,No
+823,2025-08-20,CUST1029,Electronics,Smartwatch,South,Returning,2,33239.85,20,53183.76,Credit Card,No
+824,2025-12-13,CUST1206,Electronics,Tablet,North,New,3,35293.99,0,105881.97,Debit Card,No
+825,2025-06-04,CUST1003,Sports,Cricket Bat,West,New,1,1849.99,0,1849.99,UPI,Yes
+826,2025-09-30,CUST1085,Clothing,Jeans,West,Returning,2,1022.67,25,1534.0,Cash on Delivery,No
+827,2025-02-17,CUST1076,Sports,Running Shoes,West,Returning,1,2309.73,5,2194.24,Debit Card,No
+828,2025-01-08,CUST1232,Clothing,Dress,West,New,1,300.0,20,240.0,UPI,No
+829,2025-02-11,CUST1152,Sports,Football,South,New,3,1986.1,10,5362.47,UPI,No
+830,2025-05-23,CUST1143,Beauty,Perfume,East,New,1,1031.13,10,928.02,Cash on Delivery,No
+831,2025-01-15,CUST1201,Sports,Running Shoes,West,New,1,1471.11,15,1250.44,UPI,No
+832,2025-07-16,CUST1041,Home & Kitchen,Coffee Maker,East,Returning,1,2375.5,5,2256.72,Net Banking,No
+833,2025-07-17,CUST1083,Clothing,Sneakers,North,New,1,1198.59,0,1198.59,Net Banking,No
+834,2025-10-17,CUST1211,Clothing,Sneakers,North,Returning,3,2126.48,10,5741.5,UPI,No
+835,2025-11-27,CUST1159,Electronics,Smartwatch,West,Returning,2,6415.06,15,10905.6,Credit Card,No
+836,2025-04-15,CUST1087,Beauty,Shampoo,Central,Returning,2,1373.72,0,2747.44,UPI,No
+837,2025-05-20,CUST1220,Sports,Yoga Mat,East,Returning,2,2870.33,0,5740.66,Debit Card,No
+838,2025-03-30,CUST1111,Clothing,Jacket,West,Returning,3,2820.06,5,8037.17,Cash on Delivery,No
+839,2025-04-17,CUST1024,Electronics,Tablet,North,New,2,30607.14,20,48971.42,Debit Card,No
+840,2025-04-30,CUST1140,Clothing,Dress,East,Returning,1,1850.31,0,1850.31,UPI,No
+841,2025-06-11,CUST1194,Home & Kitchen,Coffee Maker,South,New,4,2319.62,10,8350.63,UPI,No
+842,2025-01-10,CUST1210,Clothing,Jacket,North,Returning,1,300.0,0,300.0,UPI,No
+843,2025-03-08,CUST1229,Beauty,Moisturizer,North,Returning,1,1127.4,15,958.29,UPI,No
+844,2025-11-02,CUST1101,Sports,Football,West,New,2,2372.95,5,4508.6,UPI,No
+845,2025-06-05,CUST1227,Home & Kitchen,Blender,South,Returning,5,6490.5,10,29207.25,Debit Card,No
+846,2025-08-02,CUST1086,Clothing,T-Shirt,West,New,2,2075.39,25,3113.08,Credit Card,No
+847,2025-04-27,CUST1112,Electronics,Tablet,West,New,1,30857.46,0,30857.46,UPI,No
+848,2025-10-13,CUST1244,Clothing,T-Shirt,West,Returning,3,2095.37,15,5343.19,UPI,No
+849,2025-09-13,CUST1043,Electronics,Laptop,South,New,1,28751.27,10,25876.14,Cash on Delivery,No
+850,2025-01-15,CUST1052,Electronics,Tablet,South,New,1,25080.51,10,22572.46,Debit Card,No
+851,2025-11-30,CUST1214,Beauty,Makeup Kit,North,New,1,1014.34,10,912.91,UPI,No
+852,2025-08-23,CUST1046,Clothing,Dress,West,New,3,2466.62,20,5919.89,Debit Card,No
+853,2025-07-11,CUST1109,Home & Kitchen,Bedsheet,Central,Returning,1,2658.99,20,2127.19,Credit Card,No
+854,2025-07-05,CUST1224,Clothing,Dress,North,New,4,2532.93,0,10131.72,Credit Card,No
+855,2025-01-01,CUST1118,Clothing,Sneakers,South,New,2,2093.63,5,3977.9,UPI,No
+856,2025-07-27,CUST1078,Home & Kitchen,Coffee Maker,South,Returning,1,2760.89,10,2484.8,Credit Card,No
+857,2025-06-09,CUST1215,Home & Kitchen,Blender,West,Returning,2,1577.74,5,2997.71,Debit Card,No
+858,2025-08-04,CUST1027,Sports,Dumbbells,South,New,1,2563.94,5,2435.74,UPI,No
+859,2025-04-14,CUST1146,Electronics,Laptop,Central,New,1,34770.96,20,27816.77,UPI,Yes
+860,2025-02-06,CUST1088,Electronics,Laptop,West,Returning,2,27030.83,10,48655.49,Credit Card,No
+861,2025-09-08,CUST1063,Clothing,Dress,North,Returning,2,1988.81,0,3977.62,UPI,No
+862,2025-11-29,CUST1250,Electronics,Smartwatch,West,New,1,27303.4,0,27303.4,Net Banking,No
+863,2025-11-30,CUST1186,Electronics,Headphones,West,Returning,1,12729.27,5,12092.81,Credit Card,No
+864,2025-04-05,CUST1191,Electronics,Smartwatch,South,New,3,43297.07,5,123396.65,Credit Card,No
+865,2025-05-21,CUST1230,Clothing,T-Shirt,North,Returning,3,2119.63,15,5405.06,Debit Card,Yes
+866,2025-05-08,CUST1224,Sports,Dumbbells,North,New,1,645.41,10,580.87,Cash on Delivery,No
+867,2025-10-20,CUST1217,Home & Kitchen,Bedsheet,East,Returning,2,3539.64,0,7079.28,Credit Card,No
+868,2025-03-04,CUST1008,Electronics,Smartwatch,North,Returning,1,44040.82,0,44040.82,UPI,No
+869,2025-01-22,CUST1250,Sports,Yoga Mat,South,Returning,3,68435.09,0,205305.27,Debit Card,No
+870,2025-03-09,CUST1234,Home & Kitchen,Bedsheet,North,Returning,1,4483.09,10,4034.78,Cash on Delivery,No
+871,2025-03-30,CUST1177,Sports,Cricket Bat,North,Returning,2,3764.36,10,6775.85,UPI,Yes
+872,2025-04-10,CUST1173,Home & Kitchen,Blender,South,New,2,5618.38,15,9551.25,Credit Card,No
+873,2025-01-12,CUST1129,Beauty,Face Serum,West,Returning,4,807.66,20,2584.51,UPI,No
+874,2025-12-07,CUST1224,Home & Kitchen,Bedsheet,East,Returning,3,5314.09,5,15145.16,Credit Card,No
+875,2025-01-17,CUST1120,Sports,Cricket Bat,West,Returning,1,458.6,0,458.6,UPI,No
+876,2025-07-06,CUST1138,Clothing,T-Shirt,West,Returning,2,2295.09,10,4131.16,Credit Card,No
+877,2025-08-07,CUST1178,Clothing,Jacket,North,Returning,1,2490.82,25,1868.12,Credit Card,No
+878,2025-08-25,CUST1140,Clothing,Jeans,South,Returning,1,531.81,10,478.63,UPI,No
+879,2025-11-06,CUST1183,Electronics,Tablet,Central,New,4,36744.08,10,132278.69,UPI,No
+880,2025-02-15,CUST1192,Electronics,Smartphone,South,Returning,1,8076.73,25,6057.55,UPI,No
+881,2025-10-17,CUST1034,Beauty,Shampoo,South,Returning,1,1245.37,15,1058.56,Debit Card,No
+882,2025-08-15,CUST1205,Beauty,Face Serum,North,New,3,469.9,5,1339.21,UPI,No
+883,2025-05-26,CUST1057,Sports,Cricket Bat,North,Returning,3,3014.77,0,9044.31,UPI,No
+884,2025-06-16,CUST1145,Electronics,Smartwatch,West,Returning,2,17475.52,0,34951.04,Credit Card,No
+885,2025-09-25,CUST1147,Beauty,Makeup Kit,East,New,1,332.57,10,299.31,UPI,No
+886,2025-06-16,CUST1138,Home & Kitchen,Coffee Maker,South,New,4,6099.0,10,21956.4,UPI,No
+887,2025-05-13,CUST1183,Home & Kitchen,Cookware Set,West,Returning,1,4857.35,10,4371.62,Debit Card,No
+888,2025-12-28,CUST1131,Clothing,Dress,South,Returning,5,2538.41,10,11422.84,UPI,No
+889,2025-08-24,CUST1047,Clothing,T-Shirt,North,Returning,2,2505.77,5,4760.96,Cash on Delivery,No
+890,2025-10-02,CUST1042,Home & Kitchen,Blender,South,Returning,1,4079.12,5,3875.16,Credit Card,No
+891,2025-01-24,CUST1176,Sports,Running Shoes,South,New,1,1963.25,20,1570.6,Debit Card,No
+892,2025-02-03,CUST1169,Electronics,Smartphone,South,New,1,19372.15,25,14529.11,UPI,No
+893,2025-01-10,CUST1067,Sports,Yoga Mat,Central,Returning,1,3228.0,15,2743.8,UPI,No
+894,2025-04-22,CUST1067,Clothing,Jeans,Central,Returning,2,2052.76,10,3694.97,UPI,No
+895,2025-12-21,CUST1182,Home & Kitchen,Lamp,South,New,1,5035.6,10,4532.04,UPI,No
+896,2025-07-01,CUST1140,Electronics,Laptop,East,Returning,1,39930.39,10,35937.35,Debit Card,No
+897,2025-06-25,CUST1114,Electronics,Smartphone,East,New,1,28297.74,0,28297.74,Net Banking,No
+898,2025-06-08,CUST1217,Home & Kitchen,Lamp,East,New,2,2223.78,10,4002.8,Credit Card,No
+899,2025-01-30,CUST1215,Beauty,Moisturizer,West,New,1,718.12,20,574.5,Debit Card,No
+900,2025-05-08,CUST1250,Beauty,Perfume,West,Returning,3,877.04,10,2368.01,Cash on Delivery,No
+901,2025-11-30,CUST1070,Clothing,Jeans,West,Returning,1,1215.22,10,1093.7,Credit Card,Yes
+902,2025-01-10,CUST1056,Sports,Cricket Bat,Central,Returning,3,4018.56,15,10247.33,Credit Card,No
+903,2025-10-04,CUST1204,Clothing,Sneakers,West,Returning,2,3019.21,0,6038.42,UPI,No
+904,2025-09-05,CUST1140,Electronics,Smartwatch,West,New,2,19452.85,0,38905.7,Debit Card,No
+905,2025-01-01,CUST1187,Sports,Running Shoes,South,New,1,3645.45,20,2916.36,UPI,No
+906,2025-03-23,CUST1115,Clothing,Sneakers,North,Returning,1,500.3,0,500.3,UPI,No
+907,2025-08-09,CUST1221,Electronics,Smartphone,East,Returning,1,26827.47,10,24144.72,Debit Card,No
+908,2025-04-10,CUST1051,Sports,Yoga Mat,West,New,3,2857.05,5,8142.59,Net Banking,No
+909,2025-02-22,CUST1155,Electronics,Laptop,North,Returning,1,29652.07,20,23721.66,Debit Card,No
+910,2025-03-07,CUST1176,Electronics,Smartphone,South,New,3,28995.25,20,69588.6,Debit Card,No
+911,2025-10-09,CUST1115,Home & Kitchen,Cookware Set,North,Returning,4,5869.92,0,23479.68,Credit Card,Yes
+912,2025-12-02,CUST1181,Clothing,T-Shirt,West,New,1,2307.75,10,2076.98,Cash on Delivery,No
+913,2025-01-04,CUST1081,Home & Kitchen,Blender,West,New,2,2975.31,5,5653.09,Credit Card,No
+914,2025-11-05,CUST1020,Clothing,T-Shirt,South,New,2,1793.41,0,3586.82,UPI,No
+915,2025-09-15,CUST1127,Beauty,Shampoo,South,Returning,2,1284.47,25,1926.7,UPI,No
+916,2025-06-05,CUST1188,Clothing,Dress,Central,Returning,2,719.37,0,1438.74,Debit Card,No
+917,2025-12-08,CUST1162,Electronics,Smartphone,West,Returning,1,17040.21,15,14484.18,Debit Card,No
+918,2025-08-30,CUST1168,Beauty,Moisturizer,North,Returning,1,1518.99,5,1443.04,UPI,No
+919,2025-01-31,CUST1193,Clothing,Jacket,South,New,1,2031.96,15,1727.17,UPI,Yes
+920,2025-01-04,CUST1229,Clothing,Jeans,West,Returning,1,2327.86,20,1862.29,Net Banking,No
+921,2025-07-27,CUST1220,Home & Kitchen,Blender,North,Returning,1,2609.87,15,2218.39,Cash on Delivery,No
+922,2025-08-26,CUST1020,Home & Kitchen,Bedsheet,West,New,1,3281.46,0,3281.46,Credit Card,No
+923,2025-10-22,CUST1209,Electronics,Tablet,North,Returning,1,44944.9,25,33708.68,UPI,No
+924,2025-06-20,CUST1209,Clothing,Jeans,North,Returning,2,1361.84,0,2723.68,Credit Card,No
+925,2025-04-26,CUST1092,Electronics,Smartwatch,East,Returning,4,33622.25,15,114315.65,UPI,No
+926,2025-02-27,CUST1176,Clothing,Sneakers,North,Returning,4,800.92,5,3043.5,Net Banking,No
+927,2025-03-08,CUST1119,Electronics,Headphones,West,Returning,1,33261.83,0,33261.83,Credit Card,No
+928,2025-05-26,CUST1097,Electronics,Laptop,West,New,1,18953.63,25,14215.22,UPI,No
+929,2025-01-08,CUST1154,Electronics,Laptop,West,Returning,2,11719.26,15,19922.74,Cash on Delivery,Yes
+930,2025-09-15,CUST1106,Sports,Yoga Mat,West,New,1,3286.65,15,2793.65,Credit Card,No
+931,2025-05-14,CUST1152,Beauty,Face Serum,South,New,1,1091.13,10,982.02,Net Banking,No
+932,2025-12-24,CUST1062,Beauty,Shampoo,East,New,1,721.53,5,685.45,UPI,No
+933,2025-04-28,CUST1122,Electronics,Headphones,South,New,3,26091.19,20,62618.86,Cash on Delivery,No
+934,2025-01-27,CUST1166,Electronics,Smartphone,East,New,5,21761.95,20,87047.8,UPI,No
+935,2025-01-13,CUST1068,Electronics,Smartwatch,East,New,3,34876.18,10,94165.69,Debit Card,No
+936,2025-02-14,CUST1205,Clothing,Jacket,Central,Returning,1,518.02,0,518.02,Debit Card,No
+937,2025-06-21,CUST1221,Home & Kitchen,Cookware Set,West,New,1,1966.49,20,1573.19,UPI,No
+938,2025-04-27,CUST1039,Electronics,Smartphone,North,New,4,25254.58,5,95967.4,Credit Card,No
+939,2025-08-21,CUST1214,Home & Kitchen,Cookware Set,South,New,1,2348.75,10,2113.88,Cash on Delivery,No
+940,2025-01-21,CUST1027,Beauty,Perfume,East,Returning,1,1303.6,0,1303.6,UPI,No
+941,2025-10-03,CUST1035,Clothing,Jeans,South,Returning,1,309.34,0,309.34,Credit Card,No
+942,2025-06-28,CUST1104,Clothing,Dress,South,Returning,1,1157.44,15,983.82,Credit Card,No
+943,2025-05-22,CUST1230,Electronics,Tablet,East,Returning,2,7055.5,0,14111.0,Net Banking,No
+944,2025-02-05,CUST1237,Clothing,Jeans,East,Returning,1,1370.14,15,1164.62,Credit Card,No
+945,2025-09-09,CUST1003,Clothing,Jeans,West,New,1,1485.08,0,1485.08,Credit Card,No
+946,2025-11-25,CUST1068,Beauty,Makeup Kit,West,Returning,1,1428.07,15,1213.86,UPI,Yes
+947,2025-11-30,CUST1196,Clothing,T-Shirt,Central,Returning,1,1676.87,10,1509.18,Debit Card,No
+948,2025-09-06,CUST1119,Sports,Running Shoes,South,Returning,4,3335.41,0,13341.64,Credit Card,No
+949,2025-06-30,CUST1159,Sports,Dumbbells,South,Returning,1,2100.22,10,1890.2,Credit Card,No
+950,2025-11-10,CUST1105,Home & Kitchen,Coffee Maker,South,Returning,1,4943.56,0,4943.56,Debit Card,No
+951,2025-12-06,CUST1001,Electronics,Headphones,North,New,1,21984.21,10,19785.79,Credit Card,No
+952,2025-08-10,CUST1025,Sports,Football,South,Returning,5,2812.12,10,12654.54,Cash on Delivery,No
+953,2025-05-22,CUST1106,Beauty,Shampoo,East,New,3,1484.88,0,4454.64,Debit Card,No
+954,2025-06-06,CUST1016,Clothing,Dress,West,Returning,3,1566.32,10,4229.06,Credit Card,No
+955,2025-04-16,CUST1079,Clothing,Jeans,South,Returning,1,2062.9,0,2062.9,Credit Card,No
+956,2025-03-22,CUST1220,Sports,Cricket Bat,West,Returning,1,2312.61,15,1965.72,Cash on Delivery,Yes
+957,2025-05-29,CUST1161,Home & Kitchen,Cookware Set,North,Returning,1,3639.61,0,3639.61,Cash on Delivery,No
+958,2025-02-06,CUST1092,Home & Kitchen,Coffee Maker,Central,Returning,1,2528.01,25,1896.01,UPI,No
+959,2025-08-03,CUST1034,Electronics,Smartphone,South,New,2,23595.1,10,42471.18,UPI,No
+960,2025-01-31,CUST1061,Home & Kitchen,Bedsheet,North,Returning,3,2819.77,0,8459.31,Debit Card,No
+961,2025-03-18,CUST1175,Electronics,Laptop,West,Returning,3,33421.9,0,100265.7,Cash on Delivery,Yes
+962,2025-09-07,CUST1224,Clothing,Sneakers,East,Returning,4,2534.32,15,8616.69,Debit Card,No
+963,2025-07-05,CUST1186,Clothing,T-Shirt,North,Returning,3,741.04,15,1889.65,UPI,No
+964,2025-04-18,CUST1188,Electronics,Smartwatch,West,Returning,2,20626.4,25,30939.6,Cash on Delivery,No
+965,2025-02-14,CUST1148,Clothing,Jeans,East,Returning,1,1149.59,20,919.67,Cash on Delivery,Yes
+966,2025-09-06,CUST1084,Electronics,Tablet,North,Returning,2,30313.63,15,51533.17,UPI,No
+967,2025-10-24,CUST1166,Beauty,Moisturizer,South,Returning,2,1400.98,10,2521.76,Cash on Delivery,No
+968,2025-11-21,CUST1015,Clothing,Dress,West,New,1,889.71,10,800.74,Cash on Delivery,No
+969,2025-10-14,CUST1145,Electronics,Tablet,Central,Returning,2,16806.66,15,28571.32,Debit Card,No
+970,2025-06-23,CUST1111,Sports,Running Shoes,South,New,1,3083.38,10,2775.04,Credit Card,No
+971,2025-11-09,CUST1014,Beauty,Moisturizer,Central,New,1,637.15,5,605.29,UPI,No
+972,2025-02-13,CUST1209,Beauty,Perfume,Central,New,1,996.01,15,846.61,UPI,No
+973,2025-02-25,CUST1008,Sports,Running Shoes,North,Returning,1,2438.26,0,2438.26,UPI,Yes
+974,2025-07-23,CUST1241,Home & Kitchen,Cookware Set,North,Returning,2,3205.63,15,5449.57,Debit Card,Yes
+975,2025-04-17,CUST1065,Sports,Dumbbells,Central,Returning,3,3837.42,10,10361.03,Debit Card,No
+976,2025-02-08,CUST1212,Electronics,Laptop,West,Returning,3,18522.6,25,41675.85,Credit Card,No
+977,2025-05-06,CUST1053,Home & Kitchen,Bedsheet,East,New,1,3682.57,5,3498.44,Debit Card,Yes
+978,2025-09-26,CUST1173,Home & Kitchen,Lamp,North,Returning,2,5376.9,20,8603.04,UPI,No
+979,2025-10-10,CUST1024,Beauty,Moisturizer,Central,New,4,541.0,0,2164.0,Credit Card,No
+980,2025-10-23,CUST1027,Clothing,T-Shirt,South,Returning,3,90357.93,0,271073.79,Credit Card,No
+981,2025-12-03,CUST1148,Beauty,Face Serum,South,New,2,2184.76,10,3932.57,Debit Card,No
+982,2025-02-15,CUST1123,Electronics,Smartwatch,East,Returning,1,31190.83,0,31190.83,UPI,No
+983,2025-10-04,CUST1184,Home & Kitchen,Cookware Set,North,New,2,4062.5,0,8125.0,UPI,No
+984,2025-12-22,CUST1088,Beauty,Face Serum,West,Returning,1,1076.28,10,968.65,Credit Card,No
+985,2025-12-15,CUST1216,Home & Kitchen,Cookware Set,South,Returning,1,3414.96,10,3073.46,Cash on Delivery,No
+986,2025-07-20,CUST1140,Beauty,Makeup Kit,South,New,3,1709.56,10,4615.81,UPI,No
+987,2025-11-18,CUST1198,Clothing,Jacket,North,Returning,2,300.0,0,600.0,UPI,No
+988,2025-04-14,CUST1202,Clothing,Jacket,North,Returning,1,1713.7,10,1542.33,UPI,No
+989,2025-12-27,CUST1245,Clothing,Sneakers,North,New,1,3062.02,10,2755.82,Credit Card,No
+990,2025-04-14,CUST1169,Beauty,Perfume,South,Returning,1,1293.59,5,1228.91,UPI,No
+991,2025-03-13,CUST1101,Beauty,Makeup Kit,West,Returning,2,665.85,5,1265.12,Debit Card,No
+992,2025-09-08,CUST1213,Sports,Football,Central,Returning,2,2808.6,10,5055.48,UPI,No
+993,2025-03-24,CUST1223,Clothing,Jacket,West,Returning,1,1193.02,5,1133.37,Net Banking,No
+994,2025-07-21,CUST1242,Clothing,Sneakers,West,Returning,3,652.77,25,1468.73,Credit Card,Yes
+995,2025-09-04,CUST1071,Clothing,Dress,West,Returning,3,1826.39,0,5479.17,UPI,No
+996,2025-07-10,CUST1094,Home & Kitchen,Bedsheet,Central,Returning,4,6729.92,0,26919.68,Credit Card,No
+997,2025-01-28,CUST1250,Clothing,Jeans,West,Returning,3,3263.66,5,9301.43,UPI,No
+998,2025-11-24,CUST1054,Sports,Yoga Mat,West,Returning,1,2436.36,0,2436.36,Net Banking,No
+999,2025-04-09,CUST1139,Electronics,Headphones,South,Returning,1,27021.3,5,25670.23,UPI,No
+1000,2025-10-24,CUST1090,Beauty,Perfume,South,New,4,1820.39,5,6917.48,UPI,No
